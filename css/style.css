@@ -43,8 +43,9 @@ html {
 
 body {
 	margin: 0;
-	font-family: "Georgia", "Palatino", serif; /* "Open Sans", Helvetica, Arial, sans-serif; */
-	font-size: 12pt;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-size: .875rem;
 	line-height: 1.6;
 	word-wrap: break-word;
 	background: #f7f7f7;
@@ -187,7 +188,7 @@ h6 {
 }
 
 a {
-	color: #c22d30;
+	color: #000;
 	text-decoration: none;
 }
 
@@ -380,7 +381,6 @@ select {
 	background: #fff;
 }
 
-
 .logo {
 	padding: 25px;
 }
@@ -399,6 +399,7 @@ select {
 }
 
 .logo__text {
+	text-transform: uppercase;
 }
 
 .logo--mixed .logo__item {
@@ -415,11 +416,11 @@ select {
 }
 
 .logo__title {
-	font-size: 48px;
+	font-size: 32px;
+	font-size: 2rem;
 	font-weight: 700;
 	line-height: 1;
-	color: #fff;
-	text-shadow: 2px 4px 5px #000;
+	color: #000;
 }
 
 .logo__tagline {
@@ -507,10 +508,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	background: #c22d30;
 }
 
-.menu__item--active .menu__link {
-	color:#fff
-}
-
 .menu__link {
 	display: block;
 	padding: 10px 15px;
@@ -567,17 +564,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 		border: 0;
 		-webkit-transform: none;
 		transform: none;
-		background: none;
 	}
 
 	.menu__item {
-		border-left: 0;
+		border-left: 1px solid rgba(255, 255, 255, .1);
 	}
-
-.menu__link {
-	color: #000;
-}
-
 }
 
 /* Posts/Pages */
@@ -804,20 +795,24 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	list-style: none;
 }
 
-.toc__menu ul ul ul a {
+.toc__menu li li a {
 	padding-left: 25px;
 }
 
-.toc__menu ul ul ul ul a {
+.toc__menu li li li a {
 	padding-left: 45px;
 }
 
-.toc__menu ul ul ul ul ul a {
+.toc__menu li li li li a {
 	padding-left: 65px;
 }
 
-.toc__menu ul ul ul ul ul ul a {
+.toc__menu li li li li li a {
 	padding-left: 85px;
+}
+
+.toc__menu li li li li li li a {
+	padding-left: 105px;
 }
 
 .toc__menu li {
@@ -873,6 +868,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .list__header {
 	margin-bottom: 10px;
 	margin-bottom: .625rem;
+}
+
+.list__title {
+	font-size: 20px;
+	font-size: 1.25rem;
 }
 
 .list__meta {
@@ -1018,6 +1018,7 @@ textarea:hover {
 input[type=submit],
 input[type=reset] {
 	display: inline-block;
+	min-width: 150px;
 	padding: 10px 15px;
 	font-weight: 700;
 	color: #fff;
@@ -1071,6 +1072,16 @@ textarea {
 
 .widget__item:first-child {
 	padding-top: 0;
+}
+
+.widget__counter--bubble {
+	display: inline-block;
+	padding: 0 6px;
+	font-size: .75rem;
+	color: #666;
+	text-align: center;
+	background: #ebebeb;
+	border-radius: 2em;
 }
 
 /* Search widget */
