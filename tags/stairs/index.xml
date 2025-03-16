@@ -14,6 +14,8 @@
 
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
+&lt;!--## Sublocation-->
+&lt;!--### Sublocation Description-->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of Asinus Nica, Central District (Maison de l’Ane, quartier central)&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -25,9 +27,8 @@
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300015342">mosaics (visual works)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300003228">stairs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinia (rooms)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#">bath&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#">basin&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#">semicircular basin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300045614">basins (vessels)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Like several peristyle houses of the ancient part of Cuicul, the house of Asinus Nica, about 870 square meters in size, was inhabited and transformed from the second to the fifth century. The fifth century additions are the large reception room XI with a marine Venus mosaic and the private baths with the Asinus Nica mosaics. The more ancient part of the house, south of wall M-M’ is rather small and more irregular in shape.&lt;/p>
@@ -49,10 +50,12 @@
 
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-5th century CE&lt;/p>
+&lt;!--#### Excavation Dates
+-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
 &lt;li>Blanchard-Lemée, M., &lt;em>Maisons à mosaïques du quartier central de Djemila (Cuicul)&lt;/em>, Paris, 1975, pp. 129-151. &lt;a href="http://www.worldcat.org/oclc/461390883">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Février, P.-A., Blanchard-Lemée, M., &lt;em>L&amp;rsquo;édifice appelé &amp;ldquo;Maison de Bacchus&amp;rdquo; à Djemila&lt;/em>, Études d&amp;rsquo;antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. &lt;a href="http://www.worldcat.org/oclc/1090653355">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Février, P.-A., Blanchard-Lemée, M., &lt;em>L'édifice appelé &amp;quot;Maison de Bacchus&amp;quot; à Djemila&lt;/em>, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. &lt;a href="http://www.worldcat.org/oclc/1090653355">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/305068">305068&lt;/a>&lt;/p>
@@ -60,4 +63,7 @@
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="https://www.persee.fr/authority/396899">Michèle Blanchard-Lemée&lt;/a>&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--07 July 2020-->
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

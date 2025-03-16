@@ -6,6 +6,15 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/sikyon/">Sicyon&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/570668">Sicyon (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW
+
+## Sublocation
+
+located above the acropolis
+
+### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Sanctuary of Demeter and Persephone&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -16,8 +25,57 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Pausanias gave directions on how to reach the grove called Pyraia, located near the city of Sikyon (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.11">2.11.3&lt;/a>). He did not reveal what kind of trees grew here, but the grove was sacred to Demeter and Persephone. In it both men and women held religious festivals, but in separate locations. Statues of Demeter and Persephone, as well as Dionysos, were still standing in a chamber of the sanctuary when Pausanias visited the site in the 2nd century A.D.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+
+### Plans
+
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Images-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified (mentioned in the 2nd century CE)&lt;/p>
+&lt;!--
+### Bibliography
+
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/570668">570668&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -25,4 +83,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="link">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

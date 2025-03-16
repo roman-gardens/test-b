@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Market Gardens on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-b/tags/market-gardens/</link><description>Recent content in Market Gardens on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 10:30:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-b/tags/market-gardens/index.xml" rel="self" type="application/rss+xml"/><item><title>Kitchen and Commercial Gardens</title><link>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_kitchen_commercial_gardens/</link><pubDate>Sun, 25 Oct 2020 10:30:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_kitchen_commercial_gardens/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;!-- cats pajamas -->
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/">Achaea&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/delos/">Delos&lt;/a> &lt;br>
@@ -23,6 +24,12 @@
  &lt;/figcaption>
 &lt;/figure>
 
+&lt;!--
+### Plans
+
+
+### Images
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>5th-2nd century BCE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -37,8 +44,10 @@
 &lt;li>M. Brunet, “Le paysage agraire de Délos dans l’Antiquité,” &lt;em>Journal des Savants&lt;/em> 1999: 1-50. &lt;a href="https://www.persee.fr/doc/jds_0021-8103_1999_num_1_1_1619">(Persée)&lt;/a>.&lt;/li>
 &lt;li>M. Brunet, et al., “L’eau à Délos: un milieu naturel et son aménagement durant l’Antiquité,” &lt;em>BCH&lt;/em> 125, 2001: 620-627. &lt;a href="https://www.persee.fr/doc/crai_0065-0536_2011_num_155_2_93191">(Persée)&lt;/a>.&lt;/li>
 &lt;li>M. Brunet, “Le courtil et le paradis,” in: J.-P. Brun and P. Jockey, eds., &lt;em>Techniques et sociétés en Méditerranée. Hommage à Marie-Claire Amouretti. Collection L’atelier méditerranéen.&lt;/em> Travaux du Centre Camille Jullian, Aix, 2001:157-168. &lt;a href="http://www.worldcat.org/oclc/708550357">(worldcat)&lt;/a>.&lt;/li>
-&lt;li>C. Prêtre, ed., &lt;em>Nouveau choix d&amp;rsquo;inscriptions de Délos. Lois, comptes et inventaires.&lt;/em> Études épigrapiques 4, 2002. &lt;a href="http://www.worldcat.org/oclc/470363782">(worldcat)&lt;/a>.&lt;/li>
+&lt;li>C. Prêtre, ed., &lt;em>Nouveau choix d'inscriptions de Délos. Lois, comptes et inventaires.&lt;/em> Études épigrapiques 4, 2002. &lt;a href="http://www.worldcat.org/oclc/470363782">(worldcat)&lt;/a>.&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/599588">599588 (Delos, island)&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -46,4 +55,6 @@
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Monika Trümper (ORCID: &lt;a href="https://orcid.org/0000-0003-4524-6242">0000-0003-4524-6242&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

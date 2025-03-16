@@ -3,6 +3,8 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
@@ -21,25 +23,39 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>A. The &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> which bordered the &lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyle&lt;/a> garden on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.&lt;/p>
 &lt;p>B. The east &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> gave access to the narrow garden to the back of the house.&lt;/p>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
 &lt;li>
 &lt;p>Jashemski, W.F. 1979. &lt;em>‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.&lt;/em>, American Journal of Archaeology, vol. 83, no. 4, pp. 403–411. [link](&lt;a href="https://www.jstor.org/stable/504139">https://www.jstor.org/stable/504139&lt;/a>. Accessed 2 Dec. 2020.)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Spinazzola, V. and Aurigemma, S. 1953. &lt;em>Pompei Alla Luce Degli Scavi Nuovi Di Via Dell&amp;rsquo;abbondanza (anni 1910-1923),&lt;/em> Roma: Libreria dello Stato, map after p. 376 where this garden is labeled &lt;em>hortus&lt;/em>.&lt;a href="http://www.worldcat.org/oclc/905639908">worldcat&lt;/a>&lt;/p>
+&lt;p>Spinazzola, V. and Aurigemma, S. 1953. &lt;em>Pompei Alla Luce Degli Scavi Nuovi Di Via Dell'abbondanza (anni 1910-1923),&lt;/em> Roma: Libreria dello Stato, map after p. 376 where this garden is labeled &lt;em>hortus&lt;/em>.&lt;a href="http://www.worldcat.org/oclc/905639908">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/433204">433204&lt;/a>&lt;/p>
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Peristyle garden in house of Messius Ampliatus (II.ii.4)</title><link>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Peristyle garden in house of Messius Ampliatus (II.ii.4)</title><link>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/">Italia&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/">Region II&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/456321707">Region II (Pleiades)&lt;/a>&lt;/p>
@@ -64,9 +80,13 @@
 &lt;p>Jashemski, Wilhelmina F, &lt;em>‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.&lt;/em>,American Journal of Archaeology, vol. 83, no. 4, 1979, pp. 403–411. [link](&lt;a href="https://www.jstor.org/stable/504139">https://www.jstor.org/stable/504139&lt;/a>. Accessed 2 Dec. 2020.)&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/634179974">634179974&lt;/a>&lt;/p>
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

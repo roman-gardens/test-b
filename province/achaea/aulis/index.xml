@@ -6,6 +6,11 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/aulis/">Aulis&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/579889">Aulis (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Sanctuary of Artemis&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -18,8 +23,42 @@
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The Greeks in Homer’s &lt;em>Iliad&lt;/em> sacrificed to Artemis at Aulis in Boeotia in the hopes of favorable winds to carry them from Greek shores to Troy (&lt;em>Il.&lt;/em> &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:2.301-2.335">2.305-310)&lt;/a>. The late 5th century Athenian playwright, Euripides, made reference to the grove of Artemis in his &lt;em>Iphigenia in Aulis&lt;/em> (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:185-205">185-186&lt;/a>, &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:1532-1577">1543-1549&lt;/a>). The shrine of Artemis at Aulis was visited by Pausanias in the 2nd century A.D., and he noted white stone statues (presumably marble) of Artemis and palm trees growing in the sanctuary &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.19">(9.19.6-8)&lt;/a>. According to him, the fruit was not all edible, as it was in Palestine, but he remarked that the fruit ripened better than the dates in Ionia.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Images-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
+&lt;!--
+### Bibliography
+
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/579889">579889&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -27,4 +66,6 @@
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="#">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

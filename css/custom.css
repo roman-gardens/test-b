@@ -18,21 +18,19 @@ body {
   line-height: 1.4;
 }
 
-body.test-a {
-  background: #f44;
-}
 
-body.test-b {
-  background: #f84;
+/* test website styles*/
+body.test {
+  background: #f2fd30;
 }
-
-div.test-header {
+.test-header {
   text-align: center;
-  font-size: 150%;
+  font-size: 24pt;
 }
 
-div.container {
-  margin: 8px auto;
+
+.container--outer {
+	margin: 0 auto 25px;
 }
 
 .header {
@@ -93,43 +91,6 @@ div.container {
   font-size: 10.5pt;
 }
 
-nav.breadcrumbs {
-  font-weight: bold;
-  font-size: 130%;
-  padding: 0 0.5em;
-  margin-bottom: 0.5em;
-  background: #262;
-  color: #fff;
-}
-
-nav.breadcrumbs a {
-  color: #fff;
-}
-
-ul.sublocations {
-  margin: 0 0 0.5em;
-  padding: 0 3em 0.5em;
-  border-bottom: 1px solid #888;
-}
-
-ul.sublocations li {
-  font-weight: bold;
-}
-
-.count {
-  margin: 1em 0;
-}
-
-article.list__item {
-  padding: 0;
-  margin: 0 0 1em 0;
-  border: 0;
-}
-
-.list__header {
-  margin: 0;
-}
-
 #map {
   width: 100%;
   height: 400px;
@@ -146,26 +107,27 @@ article.list__item {
 }
 
 #search-results-list {
-	margin: 1em 0;
+	margin: 1em;
 	list-style: none;
 }
 
 #search-results-list li {
-	margin: 1em 0;
+	margin: 1em 1em;
 }
 
-.smallcrumbs {
-	color: #262;
-  font-size: 90%;
-  margin: 0;
+#search-results-list small {
+	color: #666;
 }
 
 .widget a {
   color: #000;
 }
 
-.permalink {
-  margin: 0.5em 0;
+.subdivisions {
+  margin: 1em 0;
+  padding: 1em;
+  background: #eee;
+  border: 1px solid #ccc;
 }
 
 .draft {

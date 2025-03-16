@@ -2,9 +2,11 @@
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/441075550">Italia, Regio I (Pleiades)&lt;/a>&lt;/p>
+&lt;!-- -->
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/rome/">Rome&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/423025">Roma (Pleiades)&lt;/a>&lt;/p>
+&lt;!-- -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/rome/regio_iii_isis_et_serapis/">Region III Isis et Serapis&lt;/a> &lt;br>
 Oppian Hill &lt;br>
@@ -12,10 +14,15 @@ Palantine Hill, &lt;a href="https://pleiades.stoa.org/places/971691208">Mons Pal
 Velian Hill, &lt;a href="https://pleiades.stoa.org/places/157710058">Mons Velia (Pleiades)&lt;/a> &lt;br>
 Caelian Hill, &lt;a href="https://pleiades.stoa.org/places/695491849">Caelius Mons (Pleiades)&lt;/a> &lt;br>
 Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilinus Mons (Pleiades)&lt;/a>&lt;/p>
+&lt;!-- -->
+&lt;!-- -->
+&lt;!-- -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Garden of the Domus Aurea &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/410440793">Domus Aurea (Pleiades)&lt;/a>&lt;/p>
+&lt;!-- -->
 &lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;!-- -->
 &lt;ul>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300010463">brick (construction material)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300002613">colonnade&lt;/a>&lt;/li>
@@ -35,23 +42,41 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300263360">stagnum (man-made lake)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300404778">terrace garden&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!-- -->
 &lt;ul>
 &lt;li>&lt;a href="http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340">Suetonius&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1357">Tacitus&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!-- -->
+&lt;!-- -->
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;!-- -->
 &lt;p>Famous for its innovative architecture, the &lt;a href="https://en.wikipedia.org/wiki/Domus_Aurea">&lt;em>Domus Aurea&lt;/em>&lt;/a> contained equally impressive gardens. After the fire of 64 CE, &lt;a href="https://en.wikipedia.org/wiki/Nero">Nero&lt;/a> erected this monumental residence, replacing the damaged &lt;a href="https://en.wikipedia.org/wiki/Domus_Transitoria">&lt;em>Domus Transitoria&lt;/em>&lt;/a>. While the exact boundaries of the property are unknown, it is generally thought to have extended from the palaces of the &lt;a href="https://en.wikipedia.org/wiki/Palatine_Hill">Palatine&lt;/a>, across the &lt;a href="https://en.wikipedia.org/wiki/Velian_Hill">Velian&lt;/a> and &lt;a href="https://en.wikipedia.org/wiki/Oppian_Hill">Oppian&lt;/a> Hills to the &lt;a href="https://en.wikipedia.org/wiki/Gardens_of_Maecenas">&lt;em>Horti Maecenatis&lt;/em>&lt;/a> and the &lt;a href="https://en.wikipedia.org/wiki/Horti_Lamiani">&lt;em>Horti Lamiani&lt;/em>&lt;/a> on the &lt;a href="https://en.wikipedia.org/wiki/Esquiline_Hill">Esquiline&lt;/a>, down into the valley and up to the &lt;a href="https://en.wikipedia.org/wiki/Temple_of_Claudius">Temple to the Divine Claudius&lt;/a> on the &lt;a href="https://en.wikipedia.org/wiki/Caelian_Hill">Caelian&lt;/a> Hill (Fig. 1). Gardens and an artificial lake (&lt;a href="http://vocab.getty.edu/page/aat/300263360">&lt;em>stagnum&lt;/em>&lt;/a>) were constructed in this valley, where the &lt;a href="https://en.wikipedia.org/wiki/Colosseum">Colosseum&lt;/a> now stands. Based on the ancient sources, scholars interpreted these gardens as naturalistic, but recent excavations have challenged this view (&lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo016.perseus-lat1:31">Suet. &lt;em>Ner.&lt;/em> 31.1–2&lt;/a>; &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi005.perseus-lat1:15.42">Tacitus &lt;em>Ann.&lt;/em> 15.42.1&lt;/a>).&lt;/p>
-&lt;p>The wing of the &lt;a href="http://vocab.getty.edu/page/aat/300005734">palace&lt;/a> on the Oppian Hill was composed of sophisticated architecture and decoration typical of elite &lt;em>Horti&lt;/em> and suburban villas. The wing was oriented north-south and had commanding southern views over the valley and lake toward the Caelian. The complex probably contained two &lt;a href="https://en.wikipedia.org/wiki/Peristyle">peristyles&lt;/a>, which could have been planted, and two &lt;a href="http://vocab.getty.edu/page/aat/300081589">&lt;em>exedrae&lt;/em>&lt;/a> flanking the octagonal room may have contained gardens. Recently discovered &lt;a href="http://vocab.getty.edu/page/aat/300005073">retaining walls&lt;/a> confirm that the palace was constructed on &lt;a href="http://vocab.getty.edu/page/aat/300004182">terraces&lt;/a>, which are likely to have held gardens. Photographs from the 1870s excavations show large numbers of &lt;a href="https://brunelleschi.imss.fi.it/giardinoantico/egar.asp?c=24677">&lt;em>ollae perforatae&lt;/em>&lt;/a> (planting pots) being removed, suggesting a highly constructed landscape.&lt;/p>
+&lt;p>The wing of the &lt;a href="http://vocab.getty.edu/page/aat/300005734">palace&lt;/a> on the Oppian Hill was composed of sophisticated architecture and decoration typical of elite &lt;em>Horti&lt;/em> and suburban villas. The wing was oriented north-south and had commanding southern views over the valley and lake toward the Caelian&lt;!--(Fig. 2)-->. The complex probably contained two &lt;a href="https://en.wikipedia.org/wiki/Peristyle">peristyles&lt;/a>, which could have been planted, and two &lt;a href="http://vocab.getty.edu/page/aat/300081589">&lt;em>exedrae&lt;/em>&lt;/a> flanking the octagonal room may have contained gardens. Recently discovered &lt;a href="http://vocab.getty.edu/page/aat/300005073">retaining walls&lt;/a> confirm that the palace was constructed on &lt;a href="http://vocab.getty.edu/page/aat/300004182">terraces&lt;/a>, which are likely to have held gardens. Photographs from the 1870s excavations show large numbers of &lt;a href="https://brunelleschi.imss.fi.it/giardinoantico/egar.asp?c=24677">&lt;em>ollae perforatae&lt;/em>&lt;/a> (planting pots) being removed, suggesting a highly constructed landscape.&lt;/p>
 &lt;p>The &lt;em>stagnum&lt;/em> was located in the valley between the Palatine, Oppian, Esquiline and Caelian Hills. According to the ancient authors, around the &lt;em>stagnum&lt;/em> Nero erected buildings which looked like cities, as well as terraces of cultivated land, intermixed with woods of wild animals, and pastures of domesticated animals (&lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1348.abo016.perseus-lat1:31">Suet. &lt;em>Ner.&lt;/em> 31.1–2&lt;/a>; &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi005.perseus-lat1:15.42">Tac. &lt;em>Ann.&lt;/em> 15.42.1&lt;/a>). Therefore, scholars envisioned the &lt;em>stagnum&lt;/em> as a naturalistic lake set into a rustic, unstructured landscape dotted with groups of architecture. Excavations in the late twentieth century indicate that the &lt;em>stagnum&lt;/em> was rectilinear and enclosed by a vast &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a>. The hydraulic system for this lake was utilized in the &lt;a href="https://en.wikipedia.org/wiki/Colosseum">Flavian Amphitheater&lt;/a> that replaced it. This would suggest the landscape was more structured (terraced and planned) and the effect might have been akin to the paintings of villa landscapes that survive from &lt;a href="https://en.wikipedia.org/wiki/Pompeii">Pompeii&lt;/a> and the &lt;a href="https://en.wikipedia.org/wiki/Gulf_of_Naples">Bay of Naples&lt;/a>. Excavations have also shown that the colossal statue of Nero was enclosed by a pi-shaped (or triple) &lt;em>porticus&lt;/em>, lending further support for an interpretation of constructed, planned gardens.&lt;/p>
 &lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Domus_Tiberiana">&lt;em>Domus Tiberiana&lt;/em>&lt;/a> on the Palatine was incorporated into the &lt;em>Domus Aurea&lt;/em>. Resting on &lt;a href="http://vocab.getty.edu/page/aat/300004295">cryptoporticoes&lt;/a> and vaulted substructures, the palace was surrounded by &lt;a href="http://vocab.getty.edu/page/aat/300002613">colonnades&lt;/a> which opened onto a &lt;a href="http://vocab.getty.edu/page/aat/300008100">hanging garden&lt;/a> (&lt;em>nemora pensile&lt;/em>), accessible from the Forum by a grand staircase on the north and another to the east.&lt;/p>
-&lt;p>The unfinished Temple to the Divine Claudius became a monumental &lt;a href="http://vocab.getty.edu/page/aat/300006809">&lt;em>nymphaeum&lt;/em>&lt;/a>. The eastern wall of the temple platform was transformed into ornamental &lt;a href="http://vocab.getty.edu/page/aat/300002704">niched&lt;/a> &lt;a href="http://vocab.getty.edu/page/aat/300002526">facades&lt;/a> with abundant &lt;a href="http://vocab.getty.edu/page/aat/300006179">fountain&lt;/a> jets fed by a new branch of the &lt;a href="https://pleiades.stoa.org/places/423563">&lt;em>Aqua Claudia&lt;/em>&lt;/a>. The &lt;a href="http://vocab.getty.edu/page/aat/300010463">brick&lt;/a> remains of this &lt;em>nymphaeum&lt;/em> are visible today along the &lt;a href="https://pleiades.stoa.org/places/688514720">&lt;em>Via Claudia&lt;/em>&lt;/a>. The water features drained into the &lt;em>stagnum&lt;/em>.&lt;/p>
+&lt;p>The unfinished Temple to the Divine Claudius became a monumental &lt;a href="http://vocab.getty.edu/page/aat/300006809">&lt;em>nymphaeum&lt;/em>&lt;/a>. The eastern wall of the temple platform was transformed into ornamental &lt;a href="http://vocab.getty.edu/page/aat/300002704">niched&lt;/a> &lt;a href="http://vocab.getty.edu/page/aat/300002526">facades&lt;/a> with abundant &lt;a href="http://vocab.getty.edu/page/aat/300006179">fountain&lt;/a> jets fed by a new branch of the &lt;a href="https://pleiades.stoa.org/places/423563">&lt;em>Aqua Claudia&lt;/em>&lt;/a>. The &lt;a href="http://vocab.getty.edu/page/aat/300010463">brick&lt;/a> remains of this &lt;em>nymphaeum&lt;/em> are visible today along the &lt;a href="https://pleiades.stoa.org/places/688514720">&lt;em>Via Claudia&lt;/em>&lt;/a>&lt;!--(Fig. 3)-->. The water features drained into the &lt;em>stagnum&lt;/em>.&lt;/p>
+&lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
+&lt;!-- -->
 &lt;figure>&lt;img src="../images/domus_aurea_fig1.jpg"
  alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana">&lt;figcaption>
  &lt;h4>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
+&lt;!--&lt;figure>&lt;img src="../images/.jpg"
+ alt="Gardens of the Oppian palace">&lt;figcaption>
+ &lt;h4>Figure 2. Gardens of the Oppian palace (image source).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;!--&lt;figure>&lt;img src="../images/.jpg"
+ alt="Photograph of Neronian nymphaeum on the Caelian">&lt;figcaption>
+ &lt;h4>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>post-64 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -61,8 +86,8 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;li>L. Ball, &lt;em>The Domus Aurea and the Roman Architectural Revolution&lt;/em>, Cambridge, Cambridge University Press, 2003. &lt;a href="http://www.worldcat.org/oclc/185994172">(worldcat)&lt;/a>&lt;/li>
 &lt;li>E. Chaplin, &lt;em>Nero&lt;/em>, 2003. &lt;a href="http://www.worldcat.org/oclc/940668435">(worldcat)&lt;/a>&lt;/li>
 &lt;li>E. Segal and I. Sciotino, &lt;em>Domus Aurea&lt;/em>, Milano, Electa, 1999. &lt;a href="http://www.worldcat.org/oclc/1026067959">(worldcat)&lt;/a>&lt;/li>
-&lt;li>E.M. Steinby (ed.), &lt;em>Lexicon topographicum urbis Romae&lt;/em>, s.v. &amp;ldquo;Domus Aurea&amp;rdquo; (various authors), Rome, 1993. &lt;a href="http://www.worldcat.org/oclc/1114759113">(worldcat)&lt;/a>&lt;/li>
-&lt;li>E.M. Steinby (ed.), &lt;em>Lexicon topographicum urbis Romae&lt;/em>, s.v. &amp;ldquo;Domus Tiberiana&amp;rdquo; (C. Krause), Rome, 1993, pp. 189-197. &lt;a href="http://www.worldcat.org/oclc/1114759113">(worldcat)&lt;/a>&lt;/li>
+&lt;li>E.M. Steinby (ed.), &lt;em>Lexicon topographicum urbis Romae&lt;/em>, s.v. &amp;quot;Domus Aurea&amp;quot; (various authors), Rome, 1993. &lt;a href="http://www.worldcat.org/oclc/1114759113">(worldcat)&lt;/a>&lt;/li>
+&lt;li>E.M. Steinby (ed.), &lt;em>Lexicon topographicum urbis Romae&lt;/em>, s.v. &amp;quot;Domus Tiberiana&amp;quot; (C. Krause), Rome, 1993, pp. 189-197. &lt;a href="http://www.worldcat.org/oclc/1114759113">(worldcat)&lt;/a>&lt;/li>
 &lt;li>J.B. Ward Perkins, &lt;em>Roman Imperial Architecture&lt;/em>, Penguin books, 1981, pp. 59-60. &lt;a href="http://www.worldcat.org/oclc/1091918996">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
@@ -71,9 +96,10 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/8712226">8712226&lt;/a>&lt;/p>
 &lt;h3 id="contributors">Contributors&lt;/h3>
 &lt;p>&lt;a href="https://emacaulaylewis.com">E.R. Macaulay&lt;/a>&lt;br>
-&lt;a href="#">Linda Anderson&lt;/a>&lt;/p>
+&lt;a href="#">Linda Anderson&lt;/a>&lt;!--Find website-->&lt;/p>
 &lt;h4 id="orcid">ORCID&lt;/h4>
 &lt;p>&lt;a href="https://orcid.org/0000-0002-4551-7631">E.R. Macaulay (0000-0002-4551-7631)&lt;/a>&lt;/p>
+&lt;!--ORCID for Linda Anderson-->
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p></description></item><item><title>II.ii.2 (House of D. Octavius Quartio)</title><link>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/ii.ii.2/</link><pubDate>Sun, 21 Feb 2021 13:04:51 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/ii.ii.2/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/">Italia&lt;/a> &lt;br>
@@ -122,11 +148,13 @@ W. F. Jashemski, 1993, &lt;em>Gardens of Pompeii: Herculaneum and the villas des
 Balázs Kapossy, 1969, &lt;em>Brunnenfiguren der hellenistischen und römischen Zeit, p.40.&lt;/em>
 John Goldicutt and Norman Neuerburg, 2016, &lt;em>Specimens of Ancient Decorations from Pompeii, p. 119, no.20.&lt;/em>&lt;br>
 Erich Pernice and Franz Winter, 1925, &lt;em>Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii, 5, p.49.&lt;/em>&lt;br>
-Salza Prina Ricotti, 1979, &lt;em>&amp;lsquo;Triclini&amp;rsquo;, In CronPomp, 5, pp.114-115.&lt;/em>&lt;br>
-P. Soprano, 1950, &lt;em>&amp;lsquo;I triclini all’aperto di Pompei&amp;rsquo;, In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore, pp.305-6, no.25.&lt;/em> (Address wrongly given as II.v.2 at pp.308-309, no. 37).&lt;br>
-Vittorio Spinazzola, 1910-1923, &lt;em>Pompei alla luce degli Scavi Nuovi di Via dell&amp;rsquo;Abbondanza, pp.407-418 and figs. 467-478, 481 on pp.409-416, 418.&lt;/em>&lt;br>
-Thomas D. Price and A. W. Van Buren, 1935, &lt;em>&amp;lsquo;The House of Marcus Loreius Tiburtinus at Pompei&amp;rsquo;, In MAAR 12, pp.151-153 and pls. 11-13.&lt;/em>&lt;br>
+Salza Prina Ricotti, 1979, &lt;em>'Triclini', In CronPomp, 5, pp.114-115.&lt;/em>&lt;br>
+P. Soprano, 1950, &lt;em>'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore, pp.305-6, no.25.&lt;/em> (Address wrongly given as II.v.2 at pp.308-309, no. 37).&lt;br>
+Vittorio Spinazzola, 1910-1923, &lt;em>Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza, pp.407-418 and figs. 467-478, 481 on pp.409-416, 418.&lt;/em>&lt;br>
+Thomas D. Price and A. W. Van Buren, 1935, &lt;em>'The House of Marcus Loreius Tiburtinus at Pompei', In MAAR 12, pp.151-153 and pls. 11-13.&lt;/em>&lt;br>
 Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&lt;/p>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/456321707">456321707&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -136,23 +164,25 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="contributors">Contributors&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>House of Amor and Psyche</title><link>https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!-- Format: dd MONTH_NAME yyyy -->
+&lt;!-- DATE --></description></item><item><title>House of Amor and Psyche</title><link>https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/">Ostia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/422995">Ostia (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> century BCE.&lt;/p>
-&lt;p>From the 2&lt;!-- raw HTML omitted -->nd&lt;!-- raw HTML omitted --> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;sup>th&lt;/sup> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;sup>th&lt;/sup> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;sup>rd&lt;/sup> century BCE.&lt;/p>
+&lt;p>From the 2&lt;sup>nd&lt;/sup> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
 &lt;p>Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_bucrania/">House of the Bucrania&lt;/a>). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.&lt;/p>
 &lt;p>The transition to a different type of house was marked by the so-called peristyle house, such as the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_on_via_del_tempio_rotondo/">House on the Via del Tempio Rotondo&lt;/a>, which dates to the &lt;a href="https://en.wikipedia.org/wiki/Augustus">Augustan period&lt;/a>, the one found below the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/schola_of_trajan/">Schola of Trajan&lt;/a> (built 20-40 CE) and the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_thunderbolt/">House of the Thunderbolt&lt;/a>, datable to the &lt;a href="https://en.wikipedia.org/wiki/Vespasian">Vespasianic period&lt;/a> (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_fortuna_annonaria/">House of Fortuna Annonaria&lt;/a>, with its garden (140-190 CE).&lt;/p>
-&lt;p>Ostia was heavily reconstructed in the 2&lt;!-- raw HTML omitted -->nd&lt;!-- raw HTML omitted --> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
+&lt;p>Ostia was heavily reconstructed in the 2&lt;sup>nd&lt;/sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
 &lt;p>The internal space was not always delimited by a portico; the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/insula_dei_dipinti/">Insula of the Paintings&lt;/a>, comprising the houses of Jove and Ganymede, of the Infant Bacchus and of the Paintings, arranged according to an L-shaped plan, had its façade facing onto two streets, forming a corner, while its inner sides faced onto a fairly extensive garden, without porticoes.&lt;/p>
-&lt;p>In the 3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> and 4&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
+&lt;p>In the 3&lt;sup>rd&lt;/sup> and 4&lt;sup>th&lt;/sup> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
 &lt;p>The internal garden of the house at Ostia described by &lt;a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo">St. Augustine&lt;/a> (&lt;a href="https://www.stoa.org/hippo/text9.html#TB9C10S23">&lt;em>Confessions&lt;/em> 9.10.23&lt;/a>), which forms the setting for the conversation with his mother &lt;a href="https://en.wikipedia.org/wiki/Saint_Monica">St. Monica&lt;/a> in CE 388, is precisely of this type: a decorative backdrop that enhanced the peace and quiet of the interior of the house, an antithesis to the frenetic but vain life of the city outside.&lt;/p>
-&lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;!-- raw HTML omitted -->st&lt;!-- raw HTML omitted -->-3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
-&lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
+&lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
+&lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
 &lt;figure>&lt;img src="../images/ostia_fig1.jpg"
  alt="General Plan of Ostia Antica">&lt;figcaption>
@@ -210,18 +240,20 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
 &lt;p>unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;!-- Bibliography for Location Description -->
 &lt;ul>
 &lt;li>G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, &lt;em>Topografia generale&lt;/em>, Scavi di Ostia I, Rome, 1953.&lt;/li>
 &lt;li>R. Meiggs, &lt;em>Roman Ostia&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/868614740">(worldcat)&lt;/a>&lt;/li>
 &lt;li>C. Pavolini, &lt;em>Ostia: Vita quotidiana&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/848372586">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Jean-Paul Descœudres, &lt;em>Ostia: Port et porte de la Rome antique&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/801326827">(worldcat)&lt;/a>&lt;/li>
 &lt;li>E.J. Shepherd, P. Olivanti (eds), &lt;em>Giardini ostiensi&lt;/em>, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. &lt;a href="http://www.worldcat.org/oclc/1130900997">(worldcat)&lt;/a>&lt;/li>
-&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;ldquo;Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio,&amp;rdquo; &lt;em>Rivista di Archeologia&lt;/em> 43, 2019, pp. 165-176. &lt;a href="http://www.worldcat.org/oclc/797910124">(worldcat)&lt;/a> &lt;a href="http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf">(Rivista di Archeologia)&lt;/a>&lt;/li>
-&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;ldquo;Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941),&amp;rdquo; &lt;em>Bollettino d’Arte&lt;/em>, in press. &lt;a href="http://www.worldcat.org/oclc/1536690">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;quot;Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio,&amp;quot; &lt;em>Rivista di Archeologia&lt;/em> 43, 2019, pp. 165-176. &lt;a href="http://www.worldcat.org/oclc/797910124">(worldcat)&lt;/a> &lt;a href="http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf">(Rivista di Archeologia)&lt;/a>&lt;/li>
+&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;quot;Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941),&amp;quot; &lt;em>Bollettino d’Arte&lt;/em>, in press. &lt;a href="http://www.worldcat.org/oclc/1536690">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!-- Bibliography for Garden Description -->
 &lt;ul>
 &lt;li>Giovanni Becatti, &lt;em>Case ostiensi del tardo impero&lt;/em>, pp. 6-8. &lt;a href="http://www.worldcat.org/oclc/899106405">(worldcat)&lt;/a>&lt;/li>
-&lt;li>James E. Packer, &amp;ldquo;The Domus of Cupid and Psyche in Ancient Ostia&amp;rdquo; in &lt;em>American Journal of Archaeology&lt;/em>, Vol. 71, No. 2 (1967), pp. 125-126. &lt;a href="http://www.worldcat.org/oclc/220836766">(worldcat)&lt;/a> &lt;a href="https://www.jstor.org/stable/501994">(jstor)&lt;/a>&lt;/li>
+&lt;li>James E. Packer, &amp;quot;The Domus of Cupid and Psyche in Ancient Ostia&amp;quot; in &lt;em>American Journal of Archaeology&lt;/em>, Vol. 71, No. 2 (1967), pp. 125-126. &lt;a href="http://www.worldcat.org/oclc/220836766">(worldcat)&lt;/a> &lt;a href="https://www.jstor.org/stable/501994">(jstor)&lt;/a>&lt;/li>
 &lt;li>Bernard Andreae, &lt;em>Am Birnbaum: Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia&lt;/em>, 1996, p. 123. &lt;a href="http://www.worldcat.org/oclc/797420782">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Giovanni Becatti, &lt;em>Mosaici e pavimenti marmorei&lt;/em>, Scavi di Ostia IV, Rome, 1961. &lt;a href="https://www.worldcat.org/title/scavi-di-ostia-iv-mosaici-e-pavimenti-marmorei/oclc/630825752&amp;amp;referer=brief_results">(worldcat)&lt;/a>&lt;/li>
 &lt;li>E.J. Shepherd, P. Olivanti (eds), &lt;em>Giardini ostiensi&lt;/em>, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 93-97. &lt;a href="http://www.worldcat.org/oclc/1130900997">(worldcat)&lt;/a>&lt;/li>
@@ -230,6 +262,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/868515126">868515126&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
 &lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7007018">7007018&lt;/a>&lt;/p>
+&lt;!-- ID is for Location (Ostia Antica), not the individual garden -->
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Elizabeth J. Shepherd&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
@@ -240,16 +273,16 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/">Ostia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/422995">Ostia (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> century BCE.&lt;/p>
-&lt;p>From the 2&lt;!-- raw HTML omitted -->nd&lt;!-- raw HTML omitted --> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;sup>th&lt;/sup> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;sup>th&lt;/sup> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;sup>rd&lt;/sup> century BCE.&lt;/p>
+&lt;p>From the 2&lt;sup>nd&lt;/sup> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
 &lt;p>Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_bucrania/">House of the Bucrania&lt;/a>). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.&lt;/p>
 &lt;p>The transition to a different type of house was marked by the so-called peristyle house, such as the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_on_via_del_tempio_rotondo/">House on the Via del Tempio Rotondo&lt;/a>, which dates to the &lt;a href="https://en.wikipedia.org/wiki/Augustus">Augustan period&lt;/a>, the one found below the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/schola_of_trajan/">Schola of Trajan&lt;/a> (built 20-40 CE) and the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_thunderbolt/">House of the Thunderbolt&lt;/a>, datable to the &lt;a href="https://en.wikipedia.org/wiki/Vespasian">Vespasianic period&lt;/a> (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_fortuna_annonaria/">House of Fortuna Annonaria&lt;/a>, with its garden (140-190 CE).&lt;/p>
-&lt;p>Ostia was heavily reconstructed in the 2&lt;!-- raw HTML omitted -->nd&lt;!-- raw HTML omitted --> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
+&lt;p>Ostia was heavily reconstructed in the 2&lt;sup>nd&lt;/sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
 &lt;p>The internal space was not always delimited by a portico; the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/insula_dei_dipinti/">Insula of the Paintings&lt;/a>, comprising the houses of Jove and Ganymede, of the Infant Bacchus and of the Paintings, arranged according to an L-shaped plan, had its façade facing onto two streets, forming a corner, while its inner sides faced onto a fairly extensive garden, without porticoes.&lt;/p>
-&lt;p>In the 3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> and 4&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
+&lt;p>In the 3&lt;sup>rd&lt;/sup> and 4&lt;sup>th&lt;/sup> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
 &lt;p>The internal garden of the house at Ostia described by &lt;a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo">St. Augustine&lt;/a> (&lt;a href="https://www.stoa.org/hippo/text9.html#TB9C10S23">&lt;em>Confessions&lt;/em> 9.10.23&lt;/a>), which forms the setting for the conversation with his mother &lt;a href="https://en.wikipedia.org/wiki/Saint_Monica">St. Monica&lt;/a> in CE 388, is precisely of this type: a decorative backdrop that enhanced the peace and quiet of the interior of the house, an antithesis to the frenetic but vain life of the city outside.&lt;/p>
-&lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;!-- raw HTML omitted -->st&lt;!-- raw HTML omitted -->-3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
-&lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
+&lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
+&lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
 &lt;figure>&lt;img src="../images/ostia_fig1.jpg"
  alt="General Plan of Ostia Antica">&lt;figcaption>
@@ -316,15 +349,17 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
 &lt;p>unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;!-- Bibliography for Location Description -->
 &lt;ul>
 &lt;li>G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, &lt;em>Topografia generale&lt;/em>, Scavi di Ostia I, Rome, 1953.&lt;/li>
 &lt;li>R. Meiggs, &lt;em>Roman Ostia&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/868614740">(worldcat)&lt;/a>&lt;/li>
 &lt;li>C. Pavolini, &lt;em>Ostia: Vita quotidiana&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/848372586">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Jean-Paul Descœudres, &lt;em>Ostia: Port et porte de la Rome antique&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/801326827">(worldcat)&lt;/a>&lt;/li>
 &lt;li>E.J. Shepherd, P. Olivanti (eds), &lt;em>Giardini ostiensi&lt;/em>, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. &lt;a href="http://www.worldcat.org/oclc/1130900997">(worldcat)&lt;/a>&lt;/li>
-&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;ldquo;Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio,&amp;rdquo; &lt;em>Rivista di Archeologia&lt;/em> 43, 2019, pp. 165-176. &lt;a href="http://www.worldcat.org/oclc/797910124">(worldcat)&lt;/a> &lt;a href="http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf">(Rivista di Archeologia)&lt;/a>&lt;/li>
-&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;ldquo;Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941),&amp;rdquo; &lt;em>Bollettino d’Arte&lt;/em>, in press. &lt;a href="http://www.worldcat.org/oclc/1536690">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;quot;Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio,&amp;quot; &lt;em>Rivista di Archeologia&lt;/em> 43, 2019, pp. 165-176. &lt;a href="http://www.worldcat.org/oclc/797910124">(worldcat)&lt;/a> &lt;a href="http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf">(Rivista di Archeologia)&lt;/a>&lt;/li>
+&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;quot;Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941),&amp;quot; &lt;em>Bollettino d’Arte&lt;/em>, in press. &lt;a href="http://www.worldcat.org/oclc/1536690">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!-- Bibliography for Garden Description -->
 &lt;ul>
 &lt;li>&lt;em>Giornale degli Scavi&lt;/em>, 1939, pp. 54-87.&lt;/li>
 &lt;li>Giovanni Becatti, &lt;em>Case ostiensi del tardo impero&lt;/em>, pp. 23-25. &lt;a href="http://www.worldcat.org/oclc/899106405">(worldcat)&lt;/a>&lt;/li>
@@ -334,8 +369,10 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;/ul>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/422995">422995&lt;/a>&lt;/p>
+&lt;!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
 &lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7007018">7007018&lt;/a>&lt;/p>
+&lt;!-- ID is for Location (Ostia Antica), not the individual garden -->
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Elizabeth J. Shepherd&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
@@ -358,6 +395,15 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>In the Late Hellenistic houses of Delos the &lt;em>impluvia&lt;/em> of peristyle courtyards were usually paved, and rainwater falling into these courtyards was emptied as wastewater by sewers into nearby streets. However, in two large houses (Quarter of the Theater, Insula II, Houses E and F) and two clubhouses of associations (House of Fourni; Quarter of the Stadium, Insula I, building B, the so-called perfumery) the &lt;em>impluvia&lt;/em> of the peristyle courtyards were not paved, with the exception of some scattered stone settings. Whereas one of them might have been left unfinished in a phase of remodeling (Quarter of the Theater, insula II, House F), the others were certainly all used, comprising of different phases of enlargement and embellishment. Thus, the lack of pavement cannot be due to the unfinished state of the buildings, but must have been deliberate. The sizes of these &lt;em>impluvia&lt;/em> range from 30.20 square meters to 75.80 square meters. In all cases no cistern was established under the &lt;em>impluvium&lt;/em>, as is usual in Delian buildings with peristyles. Furthermore, all four peristyle courtyards are provided with a sewer for the drainage of rain and waste water; the earthen floor of the &lt;em>impluvium&lt;/em> could probably not absorb the occasional large quantities of rain water pouring down in heavy storms, so that at least some of the rain water had to be drained away. So far, planting was only proposed for the courtyard of the so-called perfumery, but no specialized examinations or excavations were performed in any of the four courtyards. In addition to the above-mentioned characteristics, some other features might speak in favor of luxurious garden-peristyles for these Delian buildings. In Delian private buildings, peristyle gardens were probably introduced rather late, during the heyday of the free port in the three or four decades before 88 B.C. Within the local context, the Agora of the Italians could have served as the most immediate model for this new fashion. The design of these gardens would have been simple. They would have consisted mostly of small trees, shrubs, and plants, which did not need much water. All of them had to be irrigated by hand, like the garden of the Agora of the Italians and many of the kitchen and commercial gardens, as Late Hellenistic Delos was not provided with a water pipe system.&lt;/p>
 &lt;p>The core building of the &lt;strong>House of Fourni&lt;/strong> is arranged along a main axis with rooms on at least three different levels (Fig. 1). The main rooms were not oriented towards the south, as is usual in Delos, but towards the west, thus providing a view of the nearby bay of Fourni and the sea. A kind of nymphaeum (k), carved out of the natural rock and placed exactly on the main axis of the building, was added subsequently to the eastern façade of the building. A broad staircase led from the &lt;em>impluvium&lt;/em> of the courtyard (q) to a large raised room in the east (j), a remarkably open &lt;em>oecus maior&lt;/em> with doors on three sides and an opening to the nymphaeum on the fourth side. Therefore, the &lt;em>impluvium&lt;/em> of 75.80 square meters will have been frequently used and would certainly have been paved, had it not been conceived for a special purpose like planting. Today, the courtyard is (again?) covered with small shrubs. The overall design and some other features like &lt;em>opus signinum&lt;/em> pavements (rooms i, h and o) and ‘liturgical’ paintings for the cult of the &lt;em>lares compitales&lt;/em>, a cult usually performed by slaves and liberti of Italians or Romans, point to a Roman or Italian association, which might have introduced some new fashionable traits into Delian private architecture.&lt;/p>
+&lt;!--
+### Maps
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;figure>&lt;img src="../images/delos_fig5_maison_de_fourni.jpg"
  alt="Archaeological plan of the Maison de Fourni">&lt;figcaption>
@@ -365,6 +411,27 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
  &lt;/figcaption>
 &lt;/figure>
 
+&lt;!-- ### Images
+&lt;figure>&lt;img src="../images/delos_fig8_perfumery.jpg"
+ alt="Photo of the building identified as a perfumery, showing foundations and remaining walls.">&lt;figcaption>
+ &lt;h4>Fig. 4: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;figure>&lt;img src="../images/delos_fig9_theat_quart_ii_house_e.jpg"
+ alt="Photo of courtyard inside house E">&lt;figcaption>
+ &lt;h4>Fig. 5: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;figure>&lt;img src="../images/delos_fig10_theat_quart_house_f.jpg"
+ alt="Photo of courtyard inside house F">&lt;figcaption>
+ &lt;h4>Fig. 6: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+ -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st c. BCE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -376,6 +443,8 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;li>M. Trümper, &lt;em>Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.&lt;/em> Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. &lt;a href="http://www.worldcat.org/oclc/722868070">(worldcat)&lt;/a>.&lt;/li>
 &lt;li>M. Trümper, “Negotiating Religious and Ethnic Identity: the Case of Clubhouses in Late Hellenistic Delos,” in ed. I. Nielsen, &lt;em>Zwischen Kult und Gesellschaft. Kosmopolitische Zentren des antiken Mittelmeerraums als Aktionsraum von Kultvereinen und Religionsgemeinschaften. Akten eines Symposiums des Archäologischen Instituts der Universität Hamburg (12.-14. Oktober 2005).&lt;/em> Hephaistos 24, 2006, pp. 113-150. &lt;a href="http://www.worldcat.org/oclc/233697152">(worldcat)&lt;/a>.&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/599588">599588 (Delos, island)&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -383,7 +452,9 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Monika Trümper (ORCID: &lt;a href="https://orcid.org/0000-0003-4524-6242">0000-0003-4524-6242&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Perfumery (Quarter of the Stadium, Insula I, Building B)</title><link>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_perfumery/</link><pubDate>Sun, 25 Oct 2020 10:30:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_perfumery/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Perfumery (Quarter of the Stadium, Insula I, Building B)</title><link>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_perfumery/</link><pubDate>Sun, 25 Oct 2020 10:30:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_perfumery/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/">Achaea&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/delos/">Delos&lt;/a> &lt;br>
@@ -402,6 +473,15 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>In the Late Hellenistic houses of Delos the &lt;em>impluvia&lt;/em> of peristyle courtyards were usually paved, and rainwater falling into these courtyards was emptied as wastewater by sewers into nearby streets. However, in two large houses (Quarter of the Theater, Insula II, Houses E and F) and two clubhouses of associations (House of Fourni; Quarter of the Stadium, Insula I, building B, the so-called perfumery) the &lt;em>impluvia&lt;/em> of the peristyle courtyards were not paved, with the exception of some scattered stone settings. Whereas one of them might have been left unfinished in a phase of remodeling (Quarter of the Theater, insula II, House F), the others were certainly all used, comprising of different phases of enlargement and embellishment. Thus, the lack of pavement cannot be due to the unfinished state of the buildings, but must have been deliberate. The sizes of these &lt;em>impluvia&lt;/em> range from 30.20 square meters to 75.80 square meters. In all cases no cistern was established under the &lt;em>impluvium&lt;/em>, as is usual in Delian buildings with peristyles. Furthermore, all four peristyle courtyards are provided with a sewer for the drainage of rain and waste water; the earthen floor of the &lt;em>impluvium&lt;/em> could probably not absorb the occasional large quantities of rain water pouring down in heavy storms, so that at least some of the rain water had to be drained away. So far, planting was only proposed for the courtyard of the so-called perfumery, but no specialized examinations or excavations were performed in any of the four courtyards. In addition to the above-mentioned characteristics, some other features might speak in favor of luxurious garden-peristyles for these Delian buildings. In Delian private buildings, peristyle gardens were probably introduced rather late, during the heyday of the free port in the three or four decades before 88 B.C. Within the local context, the Agora of the Italians could have served as the most immediate model for this new fashion. The design of these gardens would have been simple. They would have consisted mostly of small trees, shrubs, and plants, which did not need much water. All of them had to be irrigated by hand, like the garden of the Agora of the Italians and many of the kitchen and commercial gardens, as Late Hellenistic Delos was not provided with a water pipe system.&lt;/p>
 &lt;p>The so-called &lt;strong>perfumery&lt;/strong> was equipped with a Rhodian peristyle (e), an open &lt;em>oecus maior&lt;/em> with colonnades and doors on all four sides (m-n), and with a kind of nymphaeum-reservoir (p) (Figs. 1, 2). The latter opened off the &lt;em>oecus maior&lt;/em> and was placed on the visual axis of the main entrance. Perfume was produced in a large exedra (f), which was connected with the peristyle to its north by an Ionic colonnade. The overall design is as unique as in the House of Fourni and could well have comprised a peristyle with a stylish garden of 51.20 square meters. A Roman or Italian association might have owned this clubhouse because Romans and Italians showed particular interest in the perfume trade. Slaves and liberti of several gentes that are attested in Delos distinguished themselves as &lt;em>thurarii&lt;/em> (dealers of incense) in the Mediterranean world.&lt;/p>
+&lt;!--
+### Maps
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;figure>&lt;img src="../images/delos_fig6_perfumery_plan.jpg"
  alt="Archaeological plan of the ‘Perfumery&amp;#39;">&lt;figcaption>
@@ -425,9 +505,11 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;li>P. Bruneau and J. Ducat, &lt;em>Guide de Délos. École française d Athènes.&lt;/em> 4th edition, Paris 2005, Nos. 79, 117, 124. &lt;a href="http://www.worldcat.org/oclc/884638358">(worldcat)&lt;/a>.&lt;/li>
 &lt;li>M. Trümper, &lt;em>Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.&lt;/em> Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. &lt;a href="http://www.worldcat.org/oclc/722868070">(worldcat)&lt;/a>.&lt;/li>
 &lt;li>J.-P. Brun, “Laudatissimum fuit antiquitus in Delo insula: La Maison IB du Quartier du stade et la production des parfums à Délos,” &lt;em>BCH&lt;/em> 123, 1999: 87-155. &lt;a href="https://www.persee.fr/doc/bch_0007-4217_1999_num_123_1_7212">(Persée)&lt;/a>.&lt;/li>
-&lt;li>J.-P. Brun, &amp;ldquo;The Production of Perfumes in Antiquity: The Cases of Delos and Paestum.&amp;rdquo; &lt;em>AJA&lt;/em> 104(2), 2000: 277–308. &lt;a href="https://www.jstor.org/stable/507452">(JSTOR)&lt;/a>.&lt;/li>
+&lt;li>J.-P. Brun, &amp;quot;The Production of Perfumes in Antiquity: The Cases of Delos and Paestum.&amp;quot; &lt;em>AJA&lt;/em> 104(2), 2000: 277–308. &lt;a href="https://www.jstor.org/stable/507452">(JSTOR)&lt;/a>.&lt;/li>
 &lt;li>M. Trümper, “Negotiating Religious and Ethnic Identity: the Case of Clubhouses in Late Hellenistic Delos,” in ed. I. Nielsen, &lt;em>Zwischen Kult und Gesellschaft. Kosmopolitische Zentren des antiken Mittelmeerraums als Aktionsraum von Kultvereinen und Religionsgemeinschaften. Akten eines Symposiums des Archäologischen Instituts der Universität Hamburg (12.-14. Oktober 2005).&lt;/em> Hephaistos 24, 2006, pp. 113-150. &lt;a href="http://www.worldcat.org/oclc/233697152">(worldcat)&lt;/a>.&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/599588">599588 (Delos, island)&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -435,7 +517,9 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Monika Trümper (ORCID: &lt;a href="https://orcid.org/0000-0003-4524-6242">0000-0003-4524-6242&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Peristyle Gardens in the Quarter of the Theater</title><link>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_peristyle_gardens/</link><pubDate>Sun, 25 Oct 2020 10:30:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_peristyle_gardens/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Peristyle Gardens in the Quarter of the Theater</title><link>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_peristyle_gardens/</link><pubDate>Sun, 25 Oct 2020 10:30:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/delos/delos_peristyle_gardens/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/">Achaea&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/delos/">Delos&lt;/a> &lt;br>
@@ -455,6 +539,15 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;p>In the Late Hellenistic houses of Delos the &lt;em>impluvia&lt;/em> of peristyle courtyards were usually paved, and rainwater falling into these courtyards was emptied as wastewater by sewers into nearby streets. However, in two large houses (Quarter of the Theater, Insula II, Houses E and F) and two clubhouses of associations (House of Fourni; Quarter of the Stadium, Insula I, building B, the so-called perfumery) the &lt;em>impluvia&lt;/em> of the peristyle courtyards were not paved, with the exception of some scattered stone settings. Whereas one of them might have been left unfinished in a phase of remodeling (Quarter of the Theater, insula II, House F), the others were certainly all used, comprising of different phases of enlargement and embellishment. Thus, the lack of pavement cannot be due to the unfinished state of the buildings, but must have been deliberate. The sizes of these &lt;em>impluvia&lt;/em> range from 30.20 square meters to 75.80 square meters. In all cases no cistern was established under the &lt;em>impluvium&lt;/em>, as is usual in Delian buildings with peristyles. Furthermore, all four peristyle courtyards are provided with a sewer for the drainage of rain and waste water; the earthen floor of the &lt;em>impluvium&lt;/em> could probably not absorb the occasional large quantities of rain water pouring down in heavy storms, so that at least some of the rain water had to be drained away. So far, planting was only proposed for the courtyard of the so-called perfumery, but no specialized examinations or excavations were performed in any of the four courtyards. In addition to the above-mentioned characteristics, some other features might speak in favor of luxurious garden-peristyles for these Delian buildings. In Delian private buildings, peristyle gardens were probably introduced rather late, during the heyday of the free port in the three or four decades before 88 B.C. Within the local context, the Agora of the Italians could have served as the most immediate model for this new fashion. The design of these gardens would have been simple. They would have consisted mostly of small trees, shrubs, and plants, which did not need much water. All of them had to be irrigated by hand, like the garden of the Agora of the Italians and many of the kitchen and commercial gardens, as Late Hellenistic Delos was not provided with a water pipe system.&lt;/p>
 &lt;p>The three-sided peristyle in the courtyard (b) of &lt;strong>House E&lt;/strong> in the insula II of the Quarter of the theater comprised a large rectangular altar in its center (Figs. 1, 2). An exedra with two columns (f) opened to the north and was only accessible via the &lt;em>impluvium&lt;/em>. Again, this arrangement would have required frequent use of the &lt;em>impluvium&lt;/em> and, therefore, even more so its systematic pavement. Instead, the &lt;em>impluvium&lt;/em> of 48.80 square meters, which is only equipped with some scattered stone slabs, was probably transformed into a kind of sacred garden. Two altars at either side of the entrance, which were probably combined with ‘liturgical’ paintings, might indicate that a Roman or Italian owned this house at least for a certain period.&lt;/p>
 &lt;p>Whether the &lt;em>impluvium&lt;/em> of 30.20 square meters (a) of &lt;strong>House F&lt;/strong> in insula II of the Quarter of the Theater was left unfinished or planned or even realized as a garden, cannot be decided (Figs. 1, 3). Following the latest fashion, the initiators of the last major transformation of this house might well have conceived of a planted &lt;em>impluvium&lt;/em>. This house, however, was not (yet?) equipped with any water supply.&lt;/p>
+&lt;!--
+### Maps
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;figure>&lt;img src="../images/delos_fig7_theat_quart_houses_e_f.jpg"
  alt="Archaeological plan of houses E and F">&lt;figcaption>
@@ -484,6 +577,8 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;li>P. Bruneau and J. Ducat, &lt;em>Guide de Délos. École française d Athènes.&lt;/em> 4th edition, Paris 2005, Nos. 79, 117, 124. &lt;a href="http://www.worldcat.org/oclc/884638358">(worldcat)&lt;/a>.&lt;/li>
 &lt;li>M. Trümper, &lt;em>Wohnen in Delos. Eine baugeschichtliche Untersuchung zum Wandel der Wohnkultur in hellenistischer Zeit.&lt;/em> Internationale Archäologie 46, Rahden/Westfalen 1998: 262-265, 317-318, figs. 59. 62, plan I. &lt;a href="http://www.worldcat.org/oclc/722868070">(worldcat)&lt;/a>.&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/599588">599588 (Delos, island)&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -491,7 +586,9 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Monika Trümper (ORCID: &lt;a href="https://orcid.org/0000-0003-4524-6242">0000-0003-4524-6242&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Villa of Herodes Atticus</title><link>https://roman-gardens.github.io/test-b/province/achaea/eua/villa_of_herodes_atticus/</link><pubDate>Mon, 20 Jul 2020 14:24:59 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/eua/villa_of_herodes_atticus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Villa of Herodes Atticus</title><link>https://roman-gardens.github.io/test-b/province/achaea/eua/villa_of_herodes_atticus/</link><pubDate>Mon, 20 Jul 2020 14:24:59 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/eua/villa_of_herodes_atticus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/">Achaea&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
 &lt;p>Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
@@ -499,6 +596,15 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/eua/">Eua&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/570241">Eua (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Villa of Herodes Atticus&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -514,6 +620,33 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>A large (20,000 sq. m.) villa on a small hill near the ancient site of Eua has been systematically excavated since the 1980s. Most of the discoveries, however, remain unpublished. Because the earliest remains date to the Flavian period and an inscription mentions the name Hipparchus, father of Herodes Atticus (103-171 A.D.), it is likely that this was family property inherited by Herodes and transformed by him into one of the most luxurious Roman estates in Greece.
 At the center of the plan was a large garden defined on three sides (north, south, and east) by porticoes paved in mosaics representing various mythological scenes in a continuous sequence (850 sq. m.). The numerous statues placed in the garden, representing divinities, historical characters, athletes, and philosophers, were part of a decorative program in which the sculptural and mosaic themes were linked. For example, in the north portico, in front of a mosaic depicting Menelaus holding the body of Patroclus, fragments of a statuary group representing the same subject were found (“Pasquino” type). In the south portico, a sculpture of Achilles and Penthesilea (copy of a second century B.C. original from Pergamon) was found in front of a mosaic with the same subject. Other mosaic subjects are the hunt of Aeneas and Dido, the Horai and Charites, the labors of Heracles, and cupids making wine. The eastern part of the villa had a nymphaeum and an exedra, containing six statues depicting girls, one of which dates to the fifth century B.C. The villa also had a Serapeum and an Antinoön.
 After the death of Herodes the villa probably became imperial property. A phase dating to the Tetrarchy is attested, and during the time of Constantine a mosaic, depicting the Circus Maximus, was added. The villa was destroyed by an earthquake in A.D. 400 A.D. and by the invasions of the Goths.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Images-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>From the 2nd century CE until 400 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -521,12 +654,19 @@ After the death of Herodes the villa probably became imperial property. A phase 
 &lt;li>G. Ieranò, “I tesori di un intellettuale,” &lt;em>Archeo&lt;/em> 6, 2001:48-53&lt;/li>
 &lt;li>G. Spyropoulos, &lt;em>Drei Meisterwerke der griechischen Plastik aus der Villa des Herodes Atticus zu Eva/Loukou.&lt;/em> Frankfurt-am-Main, 2001. &lt;a href="http://www.worldcat.org/oclc/1039041411">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/570241">570241&lt;/a>&lt;/p>
+&lt;!--#### TGN ID-->
+&lt;!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+&lt;!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="https://www.reading.ac.uk/classics/about/staff/a-marzano.aspx">Annalisa Marzano&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-6485-9143">0000-0002-6485-9143&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Neoplatonic School Near the Areopagus</title><link>https://roman-gardens.github.io/test-b/province/achaea/athens/athens_neoplatonic_school_near_the_areopagus/</link><pubDate>Mon, 20 Jul 2020 11:39:30 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/athens/athens_neoplatonic_school_near_the_areopagus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Neoplatonic School Near the Areopagus</title><link>https://roman-gardens.github.io/test-b/province/achaea/athens/athens_neoplatonic_school_near_the_areopagus/</link><pubDate>Mon, 20 Jul 2020 11:39:30 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/achaea/athens/athens_neoplatonic_school_near_the_areopagus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/">Achaea&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
 &lt;p>Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.

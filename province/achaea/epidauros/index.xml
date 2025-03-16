@@ -6,6 +6,11 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/epidauros/">Epidauros&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/570228">Epidauros (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description
+
+## Sublocation
+
+### Sublocation Description-->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Sanctuary of Hyernetho&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -17,9 +22,28 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>According to local legend, the Argive maiden, Hyrnetho, died in an ancestral struggle and was buried on this site &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.28">(Pausanias, 2.28.6-7)&lt;/a>. The sanctuary lay in the midst of a grove of wild olive trees. Established law, even in Roman times, forbade anyone to remove broken branches of these olives or any other trees in the grove.&lt;/p>
+&lt;!--### Maps
+
+### Plans
+
+### Images
+
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
+&lt;!-- ### Bibliography
+
+#### Periodo ID
+
+#### Pleiades ID -->
+&lt;!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+&lt;!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;!--#### TGN ID-->
+&lt;!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+&lt;!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="link">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

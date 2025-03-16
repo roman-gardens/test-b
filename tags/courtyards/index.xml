@@ -15,12 +15,12 @@
 &lt;li>&lt;a href="http://www.getty.edu/vow/AATFullDisplay?find=tabernae&amp;amp;logic=AND&amp;amp;note=&amp;amp;english=N&amp;amp;prev_page=1&amp;amp;subjectid=300005366">tabernae&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300148696">amphorae (storage vessels)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinia (rooms)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300039548">table&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300039548">tables (support furniture)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300400601">doliums&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300002574">aedicules&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052565">gutters (building drainage components)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://www.getty.edu/vow/AATFullDisplay?find=stucco&amp;amp;logic=AND&amp;amp;note=&amp;amp;english=N&amp;amp;prev_page=1&amp;amp;subjectid=300014966">stucco&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300014966">stucco&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300003990">hearth&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -31,6 +31,8 @@
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;p>W. F. Jashemski, 1993, &lt;em>Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Volume 2, Appendices, p.75.&lt;/em> &lt;a href="https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569">(worldcat)&lt;/a>
 Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 1986, &lt;em>Corpus topographicum Pompeianum Pars IIIA, p.40-41&lt;/em> &lt;a href="https://www.worldcat.org/title/corpus-topographicum-pompeianum/oclc/8667821">(worldcat)&lt;/a>&lt;/p>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/456321707">456321707&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -41,23 +43,25 @@ Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 198
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;br>
 Jessica Venner (&lt;a href="https://orcid.org/0000-0001-5828-6222">https://orcid.org/0000-0001-5828-6222&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>House with Peristyle</title><link>https://roman-gardens.github.io/test-b/province/italia/ostia/house_with_peristyle/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/ostia/house_with_peristyle/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!-- Format: dd MONTH_NAME yyyy -->
+&lt;!-- DATE --></description></item><item><title>House with Peristyle</title><link>https://roman-gardens.github.io/test-b/province/italia/ostia/house_with_peristyle/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/ostia/house_with_peristyle/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/">Ostia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/422995">Ostia (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> century BCE.&lt;/p>
-&lt;p>From the 2&lt;!-- raw HTML omitted -->nd&lt;!-- raw HTML omitted --> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;sup>th&lt;/sup> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;sup>th&lt;/sup> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;sup>rd&lt;/sup> century BCE.&lt;/p>
+&lt;p>From the 2&lt;sup>nd&lt;/sup> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
 &lt;p>Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_bucrania/">House of the Bucrania&lt;/a>). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.&lt;/p>
 &lt;p>The transition to a different type of house was marked by the so-called peristyle house, such as the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_on_via_del_tempio_rotondo/">House on the Via del Tempio Rotondo&lt;/a>, which dates to the &lt;a href="https://en.wikipedia.org/wiki/Augustus">Augustan period&lt;/a>, the one found below the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/schola_of_trajan/">Schola of Trajan&lt;/a> (built 20-40 CE) and the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_thunderbolt/">House of the Thunderbolt&lt;/a>, datable to the &lt;a href="https://en.wikipedia.org/wiki/Vespasian">Vespasianic period&lt;/a> (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_fortuna_annonaria/">House of Fortuna Annonaria&lt;/a>, with its garden (140-190 CE).&lt;/p>
-&lt;p>Ostia was heavily reconstructed in the 2&lt;!-- raw HTML omitted -->nd&lt;!-- raw HTML omitted --> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
+&lt;p>Ostia was heavily reconstructed in the 2&lt;sup>nd&lt;/sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
 &lt;p>The internal space was not always delimited by a portico; the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/insula_dei_dipinti/">Insula of the Paintings&lt;/a>, comprising the houses of Jove and Ganymede, of the Infant Bacchus and of the Paintings, arranged according to an L-shaped plan, had its façade facing onto two streets, forming a corner, while its inner sides faced onto a fairly extensive garden, without porticoes.&lt;/p>
-&lt;p>In the 3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> and 4&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
+&lt;p>In the 3&lt;sup>rd&lt;/sup> and 4&lt;sup>th&lt;/sup> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
 &lt;p>The internal garden of the house at Ostia described by &lt;a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo">St. Augustine&lt;/a> (&lt;a href="https://www.stoa.org/hippo/text9.html#TB9C10S23">&lt;em>Confessions&lt;/em> 9.10.23&lt;/a>), which forms the setting for the conversation with his mother &lt;a href="https://en.wikipedia.org/wiki/Saint_Monica">St. Monica&lt;/a> in CE 388, is precisely of this type: a decorative backdrop that enhanced the peace and quiet of the interior of the house, an antithesis to the frenetic but vain life of the city outside.&lt;/p>
-&lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;!-- raw HTML omitted -->st&lt;!-- raw HTML omitted -->-3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
-&lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
+&lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
+&lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
 &lt;figure>&lt;img src="../images/ostia_fig1.jpg"
  alt="General Plan of Ostia Antica">&lt;figcaption>
@@ -95,36 +99,40 @@ Jessica Venner (&lt;a href="https://orcid.org/0000-0001-5828-6222">https://orcid
  &lt;h4>Figure 1: Plan (from Morard, Wavelet).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
- &lt;/p>
+ &lt;!--missing illustration-->&lt;/p>
 &lt;p>&lt;figure>&lt;img src="../images/ostia_fig19.jpg"
  alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations">&lt;figcaption>
  &lt;h4>Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
- &lt;/p>
+ &lt;!--missing illustration-->&lt;/p>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>erected 20-40 CE &lt;br>
 destroyed 160-200 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
 &lt;p>winter of 1938-1939&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;!-- Bibliography for Location Description -->
 &lt;ul>
 &lt;li>G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, &lt;em>Topografia generale&lt;/em>, Scavi di Ostia I, Rome, 1953.&lt;/li>
 &lt;li>R. Meiggs, &lt;em>Roman Ostia&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/868614740">(worldcat)&lt;/a>&lt;/li>
 &lt;li>C. Pavolini, &lt;em>Ostia: Vita quotidiana&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/848372586">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Jean-Paul Descœudres, &lt;em>Ostia: Port et porte de la Rome antique&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/801326827">(worldcat)&lt;/a>&lt;/li>
 &lt;li>E.J. Shepherd, P. Olivanti (eds), &lt;em>Giardini ostiensi&lt;/em>, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. &lt;a href="http://www.worldcat.org/oclc/1130900997">(worldcat)&lt;/a>&lt;/li>
-&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;ldquo;Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio,&amp;rdquo; &lt;em>Rivista di Archeologia&lt;/em> 43, 2019, pp. 165-176. &lt;a href="http://www.worldcat.org/oclc/797910124">(worldcat)&lt;/a> &lt;a href="http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf">(Rivista di Archeologia)&lt;/a>&lt;/li>
-&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;ldquo;Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941),&amp;rdquo; &lt;em>Bollettino d’Arte&lt;/em>, in press. &lt;a href="http://www.worldcat.org/oclc/1536690">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;quot;Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio,&amp;quot; &lt;em>Rivista di Archeologia&lt;/em> 43, 2019, pp. 165-176. &lt;a href="http://www.worldcat.org/oclc/797910124">(worldcat)&lt;/a> &lt;a href="http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf">(Rivista di Archeologia)&lt;/a>&lt;/li>
+&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;quot;Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941),&amp;quot; &lt;em>Bollettino d’Arte&lt;/em>, in press. &lt;a href="http://www.worldcat.org/oclc/1536690">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!-- Bibliography for Garden Description -->
 &lt;ul>
 &lt;li>Arena, &lt;em>Ostia repubblicana&lt;/em>, p. 23. &lt;a href="">(worldcat)&lt;/a>&lt;/li>
-&lt;li>T. Morard and D. Wavelet, &lt;em>Mélanges de l&amp;rsquo;École française de Rome: Antiquité&lt;/em> Tome 114, No. 2 (2002), Rome, pp. 759-815. &lt;a href="http://www.worldcat.org/oclc/859589040">(worldcat)&lt;/a> &lt;a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&amp;amp;view=2up&amp;amp;seq=183">hathitrust&lt;/a>&lt;/li>
+&lt;li>T. Morard and D. Wavelet, &lt;em>Mélanges de l'École française de Rome: Antiquité&lt;/em> Tome 114, No. 2 (2002), Rome, pp. 759-815. &lt;a href="http://www.worldcat.org/oclc/859589040">(worldcat)&lt;/a> &lt;a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&amp;amp;view=2up&amp;amp;seq=183">hathitrust&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/422995">422995&lt;/a>&lt;/p>
+&lt;!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
 &lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7007018">7007018&lt;/a>&lt;/p>
+&lt;!-- ID is for Location (Ostia Antica), not the individual garden -->
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Thomas Morard&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
@@ -135,16 +143,16 @@ destroyed 160-200 CE&lt;/p>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/">Ostia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/422995">Ostia (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> century BCE.&lt;/p>
-&lt;p>From the 2&lt;!-- raw HTML omitted -->nd&lt;!-- raw HTML omitted --> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;sup>th&lt;/sup> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;sup>th&lt;/sup> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;sup>rd&lt;/sup> century BCE.&lt;/p>
+&lt;p>From the 2&lt;sup>nd&lt;/sup> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
 &lt;p>Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_bucrania/">House of the Bucrania&lt;/a>). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.&lt;/p>
 &lt;p>The transition to a different type of house was marked by the so-called peristyle house, such as the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_on_via_del_tempio_rotondo/">House on the Via del Tempio Rotondo&lt;/a>, which dates to the &lt;a href="https://en.wikipedia.org/wiki/Augustus">Augustan period&lt;/a>, the one found below the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/schola_of_trajan/">Schola of Trajan&lt;/a> (built 20-40 CE) and the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_thunderbolt/">House of the Thunderbolt&lt;/a>, datable to the &lt;a href="https://en.wikipedia.org/wiki/Vespasian">Vespasianic period&lt;/a> (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_the_fortuna_annonaria/">House of Fortuna Annonaria&lt;/a>, with its garden (140-190 CE).&lt;/p>
-&lt;p>Ostia was heavily reconstructed in the 2&lt;!-- raw HTML omitted -->nd&lt;!-- raw HTML omitted --> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
+&lt;p>Ostia was heavily reconstructed in the 2&lt;sup>nd&lt;/sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
 &lt;p>The internal space was not always delimited by a portico; the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/insula_dei_dipinti/">Insula of the Paintings&lt;/a>, comprising the houses of Jove and Ganymede, of the Infant Bacchus and of the Paintings, arranged according to an L-shaped plan, had its façade facing onto two streets, forming a corner, while its inner sides faced onto a fairly extensive garden, without porticoes.&lt;/p>
-&lt;p>In the 3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> and 4&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
+&lt;p>In the 3&lt;sup>rd&lt;/sup> and 4&lt;sup>th&lt;/sup> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-b/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
 &lt;p>The internal garden of the house at Ostia described by &lt;a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo">St. Augustine&lt;/a> (&lt;a href="https://www.stoa.org/hippo/text9.html#TB9C10S23">&lt;em>Confessions&lt;/em> 9.10.23&lt;/a>), which forms the setting for the conversation with his mother &lt;a href="https://en.wikipedia.org/wiki/Saint_Monica">St. Monica&lt;/a> in CE 388, is precisely of this type: a decorative backdrop that enhanced the peace and quiet of the interior of the house, an antithesis to the frenetic but vain life of the city outside.&lt;/p>
-&lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;!-- raw HTML omitted -->st&lt;!-- raw HTML omitted -->-3&lt;!-- raw HTML omitted -->rd&lt;!-- raw HTML omitted --> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
-&lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;!-- raw HTML omitted -->th&lt;!-- raw HTML omitted --> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
+&lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
+&lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
 &lt;figure>&lt;img src="../images/ostia_fig1.jpg"
  alt="General Plan of Ostia Antica">&lt;figcaption>
@@ -186,23 +194,27 @@ destroyed 160-200 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
 &lt;p>winter of 1938-1939&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;!-- Bibliography for Location Description -->
 &lt;ul>
 &lt;li>G. Calza, G. Becatti, I. Gismondi, G. De Angelis D’Ossat, H. Bloch, &lt;em>Topografia generale&lt;/em>, Scavi di Ostia I, Rome, 1953.&lt;/li>
 &lt;li>R. Meiggs, &lt;em>Roman Ostia&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/868614740">(worldcat)&lt;/a>&lt;/li>
 &lt;li>C. Pavolini, &lt;em>Ostia: Vita quotidiana&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/848372586">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Jean-Paul Descœudres, &lt;em>Ostia: Port et porte de la Rome antique&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/801326827">(worldcat)&lt;/a>&lt;/li>
 &lt;li>E.J. Shepherd, P. Olivanti (eds), &lt;em>Giardini ostiensi&lt;/em>, Bullettino della Commissione archeologica comunale di Roma, 109, 2008, pp. 69-98. &lt;a href="http://www.worldcat.org/oclc/1130900997">(worldcat)&lt;/a>&lt;/li>
-&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;ldquo;Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio,&amp;rdquo; &lt;em>Rivista di Archeologia&lt;/em> 43, 2019, pp. 165-176. &lt;a href="http://www.worldcat.org/oclc/797910124">(worldcat)&lt;/a> &lt;a href="http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf">(Rivista di Archeologia)&lt;/a>&lt;/li>
-&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;ldquo;Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941),&amp;rdquo; &lt;em>Bollettino d’Arte&lt;/em>, in press. &lt;a href="http://www.worldcat.org/oclc/1536690">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;quot;Le sistemazioni a verde di Michele Busiri Vici per Ostia Antica: un caso di studio,&amp;quot; &lt;em>Rivista di Archeologia&lt;/em> 43, 2019, pp. 165-176. &lt;a href="http://www.worldcat.org/oclc/797910124">(worldcat)&lt;/a> &lt;a href="http://www.rivistadiarcheologia.it/en/articolo/le-sistemazioni-a-verde-di-michele-busiri-bici-per-ostia-antica-un-caso-di-studi/8484#pdf">(Rivista di Archeologia)&lt;/a>&lt;/li>
+&lt;li>M. De Vico Fallani, C. Pavolini, E. J. Shepherd, M. Pileri, &amp;quot;Un sogno lasciato a metà: il progetto di Michele Busiri Vici per le sistemazioni arboree e per i giardini nella zona di Ostia Antica Scavi (1939-1941),&amp;quot; &lt;em>Bollettino d’Arte&lt;/em>, in press. &lt;a href="http://www.worldcat.org/oclc/1536690">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!-- Bibliography for Garden Description -->
 &lt;ul>
 &lt;li>&lt;em>Giornale degli Scavi&lt;/em>, 1938, pp. 65-69, 75-81.&lt;/li>
-&lt;li>T. Morard and D. Wavelet, &lt;em>Mélanges de l&amp;rsquo;École française de Rome: Antiquité&lt;/em> Tome 114, No. 2 (2002), Rome, pp. 759-815. &lt;a href="http://www.worldcat.org/oclc/859589040">(worldcat)&lt;/a> &lt;a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&amp;amp;view=2up&amp;amp;seq=183">hathitrust&lt;/a>&lt;/li>
+&lt;li>T. Morard and D. Wavelet, &lt;em>Mélanges de l'École française de Rome: Antiquité&lt;/em> Tome 114, No. 2 (2002), Rome, pp. 759-815. &lt;a href="http://www.worldcat.org/oclc/859589040">(worldcat)&lt;/a> &lt;a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015068961740&amp;amp;view=2up&amp;amp;seq=183">hathitrust&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/422995">422995&lt;/a>&lt;/p>
+&lt;!-- Pleiades resource for Location (Ostia Antica), not for the individual garden -->
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
 &lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7007018">7007018&lt;/a>&lt;/p>
+&lt;!-- ID is for Location (Ostia Antica), not the individual garden -->
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Thomas Morard&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
@@ -222,6 +234,8 @@ destroyed 160-200 CE&lt;/p>
 
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
+&lt;!--## Sublocation-->
+&lt;!--### Sublocation Description-->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of Asinus Nica, Central District (Maison de l’Ane, quartier central)&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -233,9 +247,8 @@ destroyed 160-200 CE&lt;/p>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300015342">mosaics (visual works)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300003228">stairs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinia (rooms)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#">bath&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#">basin&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#">semicircular basin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300045614">basins (vessels)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Like several peristyle houses of the ancient part of Cuicul, the house of Asinus Nica, about 870 square meters in size, was inhabited and transformed from the second to the fifth century. The fifth century additions are the large reception room XI with a marine Venus mosaic and the private baths with the Asinus Nica mosaics. The more ancient part of the house, south of wall M-M’ is rather small and more irregular in shape.&lt;/p>
@@ -257,10 +270,12 @@ destroyed 160-200 CE&lt;/p>
 
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-5th century CE&lt;/p>
+&lt;!--#### Excavation Dates
+-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
 &lt;li>Blanchard-Lemée, M., &lt;em>Maisons à mosaïques du quartier central de Djemila (Cuicul)&lt;/em>, Paris, 1975, pp. 129-151. &lt;a href="http://www.worldcat.org/oclc/461390883">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Février, P.-A., Blanchard-Lemée, M., &lt;em>L&amp;rsquo;édifice appelé &amp;ldquo;Maison de Bacchus&amp;rdquo; à Djemila&lt;/em>, Études d&amp;rsquo;antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. &lt;a href="http://www.worldcat.org/oclc/1090653355">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Février, P.-A., Blanchard-Lemée, M., &lt;em>L'édifice appelé &amp;quot;Maison de Bacchus&amp;quot; à Djemila&lt;/em>, Études d'antiquités africaines, CNRS Editions, Paris, 2019, SSN 0768-2352. &lt;a href="http://www.worldcat.org/oclc/1090653355">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/305068">305068&lt;/a>&lt;/p>
@@ -268,11 +283,16 @@ destroyed 160-200 CE&lt;/p>
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="https://www.persee.fr/authority/396899">Michèle Blanchard-Lemée&lt;/a>&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>II.2.4 House of Messius Ampliatus</title><link>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--07 July 2020-->
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>II.2.4 House of Messius Ampliatus</title><link>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/">Italia&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
@@ -291,25 +311,39 @@ destroyed 160-200 CE&lt;/p>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>A. The &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> which bordered the &lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyle&lt;/a> garden on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.&lt;/p>
 &lt;p>B. The east &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> gave access to the narrow garden to the back of the house.&lt;/p>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
 &lt;li>
 &lt;p>Jashemski, W.F. 1979. &lt;em>‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.&lt;/em>, American Journal of Archaeology, vol. 83, no. 4, pp. 403–411. [link](&lt;a href="https://www.jstor.org/stable/504139">https://www.jstor.org/stable/504139&lt;/a>. Accessed 2 Dec. 2020.)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Spinazzola, V. and Aurigemma, S. 1953. &lt;em>Pompei Alla Luce Degli Scavi Nuovi Di Via Dell&amp;rsquo;abbondanza (anni 1910-1923),&lt;/em> Roma: Libreria dello Stato, map after p. 376 where this garden is labeled &lt;em>hortus&lt;/em>.&lt;a href="http://www.worldcat.org/oclc/905639908">worldcat&lt;/a>&lt;/p>
+&lt;p>Spinazzola, V. and Aurigemma, S. 1953. &lt;em>Pompei Alla Luce Degli Scavi Nuovi Di Via Dell'abbondanza (anni 1910-1923),&lt;/em> Roma: Libreria dello Stato, map after p. 376 where this garden is labeled &lt;em>hortus&lt;/em>.&lt;a href="http://www.worldcat.org/oclc/905639908">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/433204">433204&lt;/a>&lt;/p>
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Peristyle garden in house of Messius Ampliatus (II.ii.4)</title><link>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Peristyle garden in house of Messius Ampliatus (II.ii.4)</title><link>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/">Italia&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/">Region II&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/456321707">Region II (Pleiades)&lt;/a>&lt;/p>
@@ -334,12 +368,16 @@ destroyed 160-200 CE&lt;/p>
 &lt;p>Jashemski, Wilhelmina F, &lt;em>‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.&lt;/em>,American Journal of Archaeology, vol. 83, no. 4, 1979, pp. 403–411. [link](&lt;a href="https://www.jstor.org/stable/504139">https://www.jstor.org/stable/504139&lt;/a>. Accessed 2 Dec. 2020.)&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/634179974">634179974&lt;/a>&lt;/p>
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Sanctuary B, the templa Concordiae</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_templa_concordiae/</link><pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_templa_concordiae/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Sanctuary B, the templa Concordiae</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_templa_concordiae/</link><pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_templa_concordiae/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
@@ -365,7 +403,7 @@ destroyed 160-200 CE&lt;/p>
 &lt;li>&lt;a href="#">cella&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
-&lt;p>Sanctuary B, the &lt;em>templa Concordiae&lt;/em> (117-138 CE), is a monument from the time of Hadrian dedicated to several deities, four of whom are known from the texts: Concordia, &lt;em>Frugifer&lt;/em>, Liber Pater and Neptune (Figure 7). The complex is distinguished from the other cult complexes of the city by the integration of a sacred theater.
+&lt;p>Sanctuary B, the &lt;em>templa Concordiae&lt;/em> (117-138 CE), is a monument from the time of Hadrian dedicated to several deities, four of whom are known from the texts: Concordia, &lt;em>Frugifer&lt;/em>, Liber Pater and Neptune. The complex is distinguished from the other cult complexes of the city by the integration of a sacred theater.
 The sanctuary comprises a courtyard surrounded by a quadriportico on which five &lt;em>cellae&lt;/em> opened to the northwest. The largest and most elaborate, that dedicated to Concord, is located on the axis of the building and its extension in the theater below. This axiality is expressed by a central aisle that leads from the western portico to the altar located in the center of the courtyard. The area was not paved; one can imagine that it was planted as a garden whose vegetation formed a green setting around the altar.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
@@ -379,9 +417,9 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;p>117-138 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
-&lt;li>Aounallah, S., Maurin, L., &amp;ldquo;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;rdquo;, in &lt;em>Hommes, cultures et paysages de l&amp;rsquo;Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., &lt;em>Dougga, Études d&amp;rsquo;architecture religieuse 2. Les sanctuaires du forum, du centre de l&amp;rsquo;agglomération et de la Grande rue courbe&lt;/em> (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. &lt;a href="http://www.worldcat.org/oclc/957698433">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Malek, A.-A., &amp;ldquo;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;rdquo;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 360, pl. 10. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Aounallah, S., Maurin, L., &amp;quot;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;quot;, in &lt;em>Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., &lt;em>Dougga, Études d'architecture religieuse 2. Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe&lt;/em> (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. &lt;a href="http://www.worldcat.org/oclc/957698433">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Malek, A.-A., &amp;quot;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;quot;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 360, pl. 10. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades_id">Pleiades_ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/315223">315223&lt;/a>&lt;/p>
@@ -390,7 +428,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="http://worldcat.org/identities/lccn-n2012075871/">Amina-Aïcha Malek&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-1628-615X">0000-0002-1628-615X&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication Date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>The anonymous sanctuary, Dar Lachheb</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_anonymous_sanctuary_dar_lachheb/</link><pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_anonymous_sanctuary_dar_lachheb/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>The anonymous sanctuary, Dar Lachheb</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_anonymous_sanctuary_dar_lachheb/</link><pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_anonymous_sanctuary_dar_lachheb/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
@@ -430,10 +468,10 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;p>184-187 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
-&lt;li>Aounallah, S., Maurin, L., &amp;ldquo;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;rdquo;, in &lt;em>Hommes, cultures et paysages de l&amp;rsquo;Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., &lt;em>Dougga, Études d&amp;rsquo;architecture religieuse 2. Les sanctuaires du forum, du centre de l&amp;rsquo;agglomération et de la Grande rue courbe&lt;/em> (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. &lt;a href="http://www.worldcat.org/oclc/957698433">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Brouquier-Reddé, V., Chehidi, M.A., Ghaki M., Khanoussi M., Maurin L., Saint-Amans S., Dougga, Études d&amp;rsquo;architecture religieuse 2. &lt;em>Les sanctuaires du forum, du centre de l&amp;rsquo;agglomération et de la Grande rue courbe&lt;/em> (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016 pp. 393-476, fig. 29-32, 86. &lt;a href="http://www.worldcat.org/oclc/949932485">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Malek, A.-A., &amp;ldquo;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;rdquo;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Aounallah, S., Maurin, L., &amp;quot;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;quot;, in &lt;em>Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Aounallah, S., Golvin, J.-C. (Dir.), Ben Rhomdane, H., Brouquier-Reddé, V., Chehidi, M.A., Ghaki, M., Khanoussi, M., Maurin, L., Saint-Amans, S., &lt;em>Dougga, Études d'architecture religieuse 2. Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe&lt;/em> (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016, p. 440, fig. 86. &lt;a href="http://www.worldcat.org/oclc/957698433">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Brouquier-Reddé, V., Chehidi, M.A., Ghaki M., Khanoussi M., Maurin L., Saint-Amans S., Dougga, Études d'architecture religieuse 2. &lt;em>Les sanctuaires du forum, du centre de l'agglomération et de la Grande rue courbe&lt;/em> (Mémoires, 42), Bordeaux : Ausonius Éditions, 2016 pp. 393-476, fig. 29-32, 86. &lt;a href="http://www.worldcat.org/oclc/949932485">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Malek, A.-A., &amp;quot;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;quot;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades_id">Pleiades_ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/315223">315223&lt;/a>&lt;/p>
@@ -442,7 +480,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="http://worldcat.org/identities/lccn-n2012075871/">Amina-Aïcha Malek&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-1628-615X">0000-0002-1628-615X&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication Date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>The sanctuary of Caelestis</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis/</link><pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>The sanctuary of Caelestis</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis/</link><pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
@@ -481,9 +519,9 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;p>222-235 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
-&lt;li>Aounallah, S., Maurin, L., &amp;ldquo;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;rdquo;, in &lt;em>Hommes, cultures et paysages de l&amp;rsquo;Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Aounallah, S., Maurin, L., &amp;quot;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;quot;, in &lt;em>Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Golvin, J.-C., Khanoussi, M. (dir.), &lt;em>Dougga, études d’architecture religieuse. Les sanctuaires desVictoires de Caracalla, de « Pluton » et de Caelestis&lt;/em> (Mémoires, 12), Bordeaux : Ausonius Éditions, 2005, pp. 99-182, fig.1, 21, 157, 171-172. &lt;a href="http://www.worldcat.org/oclc/844610963">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Malek, A.-A., &amp;ldquo;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;rdquo;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 366, pl. 16. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Malek, A.-A., &amp;quot;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;quot;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 366, pl. 16. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades_id">Pleiades_ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/315223">315223&lt;/a>&lt;/p>
@@ -492,7 +530,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="http://worldcat.org/identities/lccn-n2012075871/">Amina-Aïcha Malek&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-1628-615X">0000-0002-1628-615X&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication Date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>The sanctuary of Minerva 2</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2/</link><pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>The sanctuary of Minerva 2</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2/</link><pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
@@ -512,13 +550,13 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;p>The sanctuary of Minerva 2&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
-&lt;li>&lt;a href="#">temple&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300007595">temples (buildings)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#">sanctuary&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300430426">planting bed&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#">cella&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#">ambulatio&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#">altar&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300003725">altars (religious fixtures)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The sanctuary of Minerva 2, (138-161 CE), built later than the &lt;em>templa Concordiae&lt;/em>, presents a very different configuration. The &lt;em>cella&lt;/em>, projecting outwards from the courtyard lined with porticoes, is built on a very high podium whose summit corresponded to the level of the &lt;em>peribolus&lt;/em> roof and to which access was gained by a monumental staircase. The temple, by its insertion in the topography of the site, seems to emerge from the cliff into which it was embedded. The approach was a long allée bordered on both sides by planting beds that emphasized the perspective centered on the &lt;em>cella&lt;/em>. An open-air &lt;em>ambulatio&lt;/em>, bordered by a balustrade, ran alongside the porticoes and the staircase, restricting access into the planted areas. Located on the outskirts of the city, one can imagine that the temple nestled in the cliff, perhaps surrounded by trees. The vegetation thus embraced the sanctuary as a whole and framed the altar located on the axial path leading to the temple.&lt;/p>
@@ -534,9 +572,9 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;p>138-161 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
-&lt;li>Aounallah, S., Maurin, L., &amp;ldquo;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;rdquo;, in &lt;em>Hommes, cultures et paysages de l&amp;rsquo;Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Malek, A.-A., &amp;ldquo;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;rdquo;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Saint-Amans, S. &amp;ldquo;Topographie religieuse de Thugga (Dougga)&amp;rdquo;&amp;quot;, in &lt;em>Ville romaine d&amp;rsquo;Afrique proconsulaire (Tunisie)&lt;/em>, (Scripta
+&lt;li>Aounallah, S., Maurin, L., &amp;quot;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;quot;, in &lt;em>Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Malek, A.-A., &amp;quot;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;quot;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Saint-Amans, S. &amp;quot;Topographie religieuse de Thugga (Dougga)&amp;quot;&amp;quot;, in &lt;em>Ville romaine d'Afrique proconsulaire (Tunisie)&lt;/em>, (Scripta
 Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &lt;a href="http://www.worldcat.org/oclc/218514555">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades_id">Pleiades_ID&lt;/h4>
@@ -546,7 +584,7 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="http://worldcat.org/identities/lccn-n2012075871/">Amina-Aïcha Malek&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-1628-615X">0000-0002-1628-615X&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication Date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>The sanctuary of the Victories of Caracalla</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_the_victories_of_caracalla/</link><pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_the_victories_of_caracalla/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>The sanctuary of the Victories of Caracalla</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_the_victories_of_caracalla/</link><pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thugga/the_sanctuary_of_the_victories_of_caracalla/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
@@ -599,9 +637,9 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 &lt;p>214 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
-&lt;li>Aounallah, S., Maurin, L., &amp;ldquo;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;rdquo;, in &lt;em>Hommes, cultures et paysages de l&amp;rsquo;Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Aounallah, S., Maurin, L., &amp;quot;Remarques sur la topographie rurale et urbaine du pagus et de la ciuitas de Thugga (Dougga, Tunisie)&amp;quot;, in &lt;em>Hommes, cultures et paysages de l'Antiquité à la période moderne : Mélanges offerts à Jean Peyras&lt;/em>, Rennes, Presses universitaires de Rennes, 2013. &lt;a href="http://www.worldcat.org/oclc/7380877046">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Golvin J.-C., Khanoussi M. (dir.), &lt;em>Dougga, études d’architecture religieuse. Les sanctuaires desVictoires de Caracalla, de « Pluton » et de Caelestis&lt;/em> (Mémoires, 12), Bordeaux : Ausonius Éditions, 2005, pp. 33-77, fig. 17, 64. &lt;a href="http://www.worldcat.org/oclc/844610963">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Malek, A.-A., &amp;ldquo;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;rdquo;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230,
+&lt;li>Malek, A.-A., &amp;quot;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;quot;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230,
 p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Sections from &lt;a href="http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf">http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf&lt;/a>&lt;/li>
 &lt;/ul>
@@ -639,6 +677,15 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;p>The courtyard contained perhaps as many as eight wells, three of which are still visible today and five of which were tentatively identified in recent geophysical examinations. The area of the former swamp was still sufficiently humid and could have supplied the necessary water for plants. Although many Hellenistic squares and agorai were not paved, the lack of a pavement is remarkable within the context of Delos. In the last third of the second century B.C. all heavily frequented squares, streets, and quays, which were especially used for commerce and trade, were fully paved with large gneiss slabs. Since the Italians spared no expenses in constructing their first agora or in embellishing it later on, the unpaved floor of the courtyard cannot be due to financial shortcomings, but must have been chosen deliberately to meet a specific purpose. The courtyard lacks a sewer to dispose of waste and especially rain water. The wastewater of the later bath suite (room 27) was not emptied into the sewer of the nearby street, as usual, but was instead drained into the courtyard. Therefore, all available water seems to have been deliberately used to irrigate a garden. Comparisons with other buildings show that the original building of the Agora of the Italians has nothing in common with civic-political agorai, or specific commercial markets, or palaestrae, but resembles much larger ambulatory garden-peristyles of Hellenistic palaces (e.g. Aigai, Pella, Jericho) and Late Republican houses in the Vesuvian area or the lavish garden-porticus in Rome such as the Porticus Pompei and the Porticus Liviae. Like these, the Agora of the Italians was most probably conceived and used as a public park for all kinds of agreeable meetings and sojourns.&lt;/p>
 &lt;p>The porticoes, and maybe even the courtyard, were decorated with statues. Most of the nearly 240 sculptural fragments found within the confines and in the immediate neighborhood of the Agora seem to come from honorary statues, which were mostly presented in the rectangular and semicircular statue niches, but also outside of them, probably in the porticoes. However, some fragments belonged to historical-political monuments (e.g., at least two or even as many as six statues of Celts) and to decorative sculpture suited for a garden (e.g., Dionysos, Satyr/Apollo/Pothos, herms). These statues could have been placed either in the porticoes or in the courtyard.&lt;/p>
 &lt;p>Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora of the Italians was never referred to as an agora, but probably as a &lt;em>pastas italike&lt;/em> (as restored in Roussel and Launey, &lt;em>Inscriptions de Délos&lt;/em>, no. 2612). The Latin translation of this could have been &lt;em>porticus Italica&lt;/em> or &lt;em>porticus Italicorum&lt;/em> which would have more appropriate for a luxurious garden-portico, rather than the agora or forum.&lt;/p>
+&lt;!--
+### Maps
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;figure>&lt;img src="../images/truemper1.png"
  alt="Plan of the agora">&lt;figcaption>
@@ -676,13 +723,15 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;li>A. Sarris, “L’Agora des Italiens,” &lt;em>BCH&lt;/em> 125, 2001: 612-615. &lt;a href="http://www.worldcat.org/oclc/1537699">(worldcat)&lt;/a>.&lt;/li>
 &lt;li>J. Marcadé and F. Queyrel, “Le Gaulois blessé de Délos reconsidéré,” &lt;em>MonPiot&lt;/em> 82, 2003: 5-97. &lt;a href="http://www.worldcat.org/oclc/1460650">(worldcat)&lt;/a>.&lt;/li>
 &lt;li>Ph. Bruneau and J. Ducat, &lt;em>Guide de Délos.&lt;/em> École française d Athènes. 4th edition, Paris, 2005. &lt;a href="http://www.worldcat.org/oclc/884638358">(worldcat)&lt;/a>.&lt;/li>
-&lt;li>M. Trümper, &lt;em>Die &amp;lsquo;Agora des Italiens&amp;rsquo; in Delos. Baugeschichte, Architektur, Ausstattung und Funktion einer späthellenistischen Porticus-Anlage.&lt;/em> Internationale Archäologie 104. Rahden/Westfalen, 2008. &lt;a href="http://www.worldcat.org/oclc/643238596">(worldcat)&lt;/a>.&lt;/li>
+&lt;li>M. Trümper, &lt;em>Die 'Agora des Italiens' in Delos. Baugeschichte, Architektur, Ausstattung und Funktion einer späthellenistischen Porticus-Anlage.&lt;/em> Internationale Archäologie 104. Rahden/Westfalen, 2008. &lt;a href="http://www.worldcat.org/oclc/643238596">(worldcat)&lt;/a>.&lt;/li>
 &lt;li>M. Trümper, &lt;em>Graeco-Roman slave markets. Fact or Fiction.&lt;/em> Oxford, 2009. &lt;a href="http://www.worldcat.org/oclc/660567181">(worldcat)&lt;/a>.&lt;/li>
-&lt;li>S. Montel, &amp;ldquo;Représentations italiennes à Délos. Les niches de l&amp;rsquo;agora des Italiens,&amp;rdquo;&amp;quot; in: M. Simon (ed.), &lt;em>Identités romaines. Conscience de soi et représentations de l&amp;rsquo;autre dans la Rome antique (IVe siècle av. J.-C. - VIIIe siècle apr. J.-C.).&lt;/em> Paris, 2011: 243–254. &lt;a href="http://www.worldcat.org/oclc/800941877">(worldcat)&lt;/a>.&lt;/li>
-&lt;li>M. Trümper, &amp;ldquo;The honorific practice of the &amp;lsquo;Agora of the Italians&amp;rsquo; in Delos&amp;rdquo;, in: J. Griesbach (ed.), &lt;em>Polis und Porträt. Standbilder als Medien der öffentlichen Repräsentation im hellenistischen Osten.&lt;/em> Wiesbaden, 2014: 69–85. &lt;a href="http://www.worldcat.org/oclc/889706631">(worldcat)&lt;/a>.&lt;/li>
+&lt;li>S. Montel, &amp;quot;Représentations italiennes à Délos. Les niches de l'agora des Italiens,&amp;quot;&amp;quot; in: M. Simon (ed.), &lt;em>Identités romaines. Conscience de soi et représentations de l'autre dans la Rome antique (IVe siècle av. J.-C. - VIIIe siècle apr. J.-C.).&lt;/em> Paris, 2011: 243–254. &lt;a href="http://www.worldcat.org/oclc/800941877">(worldcat)&lt;/a>.&lt;/li>
+&lt;li>M. Trümper, &amp;quot;The honorific practice of the 'Agora of the Italians' in Delos&amp;quot;, in: J. Griesbach (ed.), &lt;em>Polis und Porträt. Standbilder als Medien der öffentlichen Repräsentation im hellenistischen Osten.&lt;/em> Wiesbaden, 2014: 69–85. &lt;a href="http://www.worldcat.org/oclc/889706631">(worldcat)&lt;/a>.&lt;/li>
 &lt;li>F. Coarelli, &lt;em>I mercanti nel tempio. Delo. Culto, politica, commercio.&lt;/em> Athens, 2016. &lt;a href="http://www.worldcat.org/oclc/966305712">(worldcat)&lt;/a>.&lt;/li>
-&lt;li>F. Herbin, &amp;ldquo;Die Statue des Ofellius,&amp;rdquo; in: F. Queyrel – R. von den Hoff (eds.), &lt;em>Das Leben griechischer Porträts. Porträtstatuen des 5. bis 1. Jhs. v. Chr.&lt;/em> Bildnispraktiken und Neu-Kontextualisierungen. Paris, 2019: 326–335. &lt;a href="http://www.worldcat.org/oclc/1129887972">(worldcat)&lt;/a>.&lt;/li>
+&lt;li>F. Herbin, &amp;quot;Die Statue des Ofellius,&amp;quot; in: F. Queyrel – R. von den Hoff (eds.), &lt;em>Das Leben griechischer Porträts. Porträtstatuen des 5. bis 1. Jhs. v. Chr.&lt;/em> Bildnispraktiken und Neu-Kontextualisierungen. Paris, 2019: 326–335. &lt;a href="http://www.worldcat.org/oclc/1129887972">(worldcat)&lt;/a>.&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/394168051">394168051 (Agora of the Italians)&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -690,7 +739,9 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Monika Trümper (ORCID: &lt;a href="https://orcid.org/0000-0003-4524-6242">0000-0003-4524-6242&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>East Temple (Temple de l'Est)</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/east_temple/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/east_temple/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>East Temple (Temple de l'Est)</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/east_temple/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/east_temple/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
@@ -707,7 +758,7 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>East Temple (Temple de l&amp;rsquo;Est)&lt;/p>
+&lt;p>East Temple (Temple de l'Est)&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="#">temple&lt;/a>&lt;/li>
@@ -731,8 +782,107 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;ul>
 &lt;li>Alexander, M.A., Ben Abed-Ben Khader, A. and David, S., &lt;em>Corpus des Mosaïques de Tunisie&lt;/em>, &lt;em>Thuburbo Majus, Les mosaïques de la région Est&lt;/em>, V. II, fasc.4,INA, Tunis, 1994, pp. 1-4, plan 1-2. &lt;a href="http://www.worldcat.org/oclc/71513636">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Ben Abed-Ben Khader, A., &lt;em>Corpus des Mosaïques de Tunisie&lt;/em>, &lt;em>Thuburbo Majus, Les mosaïques de la région Ouest&lt;/em>, V. II, fasc.3, INA, Tunis, 1987.&lt;a href="http://www.worldcat.org/oclc/20058336">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, W. F., &amp;ldquo;Roman Gardens in Tunisia: Preliminary Excavations in the House of Bacchus and Ariadne and in the East Temple at Thuburbo Maius,&amp;rdquo; &lt;em>AJA&lt;/em> 99 (1995), pp. 559-576, p. 572, fig. 14. &lt;a href="http://www.worldcat.org/oclc/7376761548">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Malek, A.-A., &amp;ldquo;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;rdquo;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230. &lt;a href="http://www.worldcat.org/oclc/1085352690">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, W. F., &amp;quot;Roman Gardens in Tunisia: Preliminary Excavations in the House of Bacchus and Ariadne and in the East Temple at Thuburbo Maius,&amp;quot; &lt;em>AJA&lt;/em> 99 (1995), pp. 559-576, p. 572, fig. 14. &lt;a href="http://www.worldcat.org/oclc/7376761548">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Malek, A.-A., &amp;quot;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;quot;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230. &lt;a href="http://www.worldcat.org/oclc/1085352690">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="pleiades_id">Pleiades_ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/315220">315220&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7001750">7001750&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="http://worldcat.org/identities/lccn-n80037970/">Wilhelmina F. Jashemski&lt;/a>&lt;/p>
+&lt;!--add in orcid id and info-->
+&lt;h3 id="publication-date">Publication Date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Temple of Baalat (Temple de Balaat)</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/temple_of_baalat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/temple_of_baalat/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;p>The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A &lt;em>praetor&lt;/em> governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/">THUBURBO MAIUS (Henchir Kasbat), Tunisia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/315220">THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)&lt;/a>&lt;/p>
+&lt;figure>&lt;img src="../images/thuburbo_temple_of_baalat.jpg"
+ alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus">&lt;figcaption>
+ &lt;h4>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Temple of Baalat (Temple de Balaat)&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">temple&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">sanctuary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Only the central passage (III) way leading to the temple (IV) was paved. The rest of the courtyard (II), which was enclosed by a portico (I), was probably planted as in temple E (Plan view, Fig.1).&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/Temple%20of%20Baalat.jpg"
+ alt="Plan of the Temple of Baalat ">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Ben Abed-Ben Khader, A., &lt;em>Corpus des Mosaïques de Tunisie&lt;/em>, &lt;em>Thuburbo Majus, Les mosaïques de la région des Grands Thermes&lt;/em>, V. II, fasc.2, INA, Tunis, 1985, pp. 51-3, plan 10. &lt;a href="http://www.worldcat.org/oclc/905765362">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ben Abed-Ben Khader, A., &lt;em>Corpus des Mosaïques de Tunisie&lt;/em>, &lt;em>Thuburbo Majus, Les mosaïques de la région Ouest&lt;/em>, V. II, fasc.3, INA, Tunis, 1987.&lt;a href="http://www.worldcat.org/oclc/20058336">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Malek, A.-A., &amp;quot;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;quot;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, V. Brouquier Reddé, Fr. Baratte, E. Rocca (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 360, fig. 10. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="pleiades_id">Pleiades_ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/315220">315220&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7001750">7001750&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="http://worldcat.org/identities/lccn-n80037970/">Wilhelmina F. Jashemski&lt;/a>&lt;/p>
+&lt;h3 id="publication-date">Publication Date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Temple of Caelestis (Temple de Caelestis)</title><link>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/temple_of_caelestis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/temple_of_caelestis/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;p>The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A &lt;em>praetor&lt;/em> governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/africa_proconsularis/thuburbo_maius/">THUBURBO MAIUS (Henchir Kasbat), Tunisia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/315220">THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)&lt;/a>&lt;/p>
+&lt;figure>&lt;img src="../images/thuburbo_temple_of_caelestis.jpg"
+ alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus">&lt;figcaption>
+ &lt;h4>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Temple of Caelestis (Temple de Caelestis)&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">temple&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">sanctuary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>The marble causeway leading to the temple was bordered on each side with soil that was probably planted as in temple E (Plan view, Fig. 1).&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/Temple_of_Caelestis1.jpg"
+ alt="Plan of the Temple of Caelestis ">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the Temple of Caelestis (CMT, V. II, fasc.2, plan 9)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Ben Abed-Ben Khader, A., &lt;em>Corpus des Mosaïques de Tunisie&lt;/em>, &lt;em>Thuburbo Majus&lt;/em>, &lt;em>Les mosaïques de la région des Grands Thermes&lt;/em>, V. II, fasc.2, INA, Tunis, 1985, pp. 47-9, plan 9. &lt;a href="http://www.worldcat.org/oclc/905765362">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ben Abed-Ben Khader, A., &lt;em>Corpus des Mosaïques de Tunisie&lt;/em>, &lt;em>Thuburbo Majus, Les mosaïques de la région Ouest&lt;/em>, V. II, fasc.3, INA, Tunis, 1987.&lt;a href="http://www.worldcat.org/oclc/20058336">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Malek, A.-A., &amp;quot;Le jardin dans les sanctuaires du Maghreb romain, premières approches&amp;quot;, in &lt;em>Du culte aux sanctuaires : l’architecture religieuse dans l’Afrique romaine et byzantine&lt;/em>, Brouquier Reddé, V., Baratte, Fr., Rocca E. (dir.), Paris, de Boccard, coll. Orient et Méditerranée, 2018, pp. 213-230, 360, pl. 10. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades_id">Pleiades_ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/315220">315220&lt;/a>&lt;/p>

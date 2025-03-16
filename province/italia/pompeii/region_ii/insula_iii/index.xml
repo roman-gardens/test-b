@@ -3,8 +3,14 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/">Region II&lt;/a>&lt;/p>
+&lt;!-- pleiades link prompts for login
+## House
+[II.iii.7/9 (Pleiades)](https://pleiades.stoa.org/places/243620947)
+-->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Commercial restaurant garden.&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -21,9 +27,13 @@
 &lt;li>Jashemski, Wilhelmina F, 1993. &lt;em>The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius, vol.II&lt;/em>, p. 85. &lt;a href="http://www.worldcat.org/oclc/769881162">worldcat&lt;/a>&lt;/li>
 &lt;li>Della, Corte M. 1954. &lt;em>Case Ed Abitanti Di Pompei. Pompei-scavi:&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/878618392">worldcat&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/425769173">425769173&lt;/a>&lt;/p>
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

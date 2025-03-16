@@ -6,8 +6,12 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/athens/">Athens&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/579885">Athens (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/807514119">Agora of Athens (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Temple of Hephaistos&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -20,6 +24,15 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>On the western edge of the Athenian Agora on Kolonos hill was the &lt;a href="https://en.wikipedia.org/wiki/Temple_of_Hephaestus">Temple of Hephaistos&lt;/a>, built in the second half of the 5th century B.C. Excavations in 1937 around the temple revealed numerous square planting pits cut into the living rock in the 3rd century B.C. and again in the 1st century B.C. (Fig. 1). Rock-cut planting pits were preserved in four rows on the south, with isolated examples of such pits on the north and west sides (G on plan). The excavator cogently argued for rows of plantings to the north, south and west of the temple. The lack of planting pits on the north and west sides can be explained by the fact that the rocky hill upon which the temple was built fell away sharply on the north and west, requiring leveling layers above the natural rock. Into these deposits trees or shrubs were planted, leaving no trace of planting pits in the rock below. On the steeper southern side, however, the rock slope had to be shaved off, necessitating the cutting of planting pits into the rock. Possibly more than 60 such pits were arranged in rows parallel to the temple in the 3rd century; two rows on the north and south sides, and one row on the west side. After the Roman destruction of many Athenian buildings by Sulla in 86 B.C., at least the south side was replanted and two more rows of pits dug, resulting in four rows of trees or shrubs on this side. In many of the pits was a terracotta planting pot in ashy soil at a depth of ca. 50 cm. These planting pots, possibly containing laurel and pomegranate shrubs, had drainage and root holes in the bottom. The lack of maintenance of the irrigation pipes leading to the garden caused the plantings to wither and die by the second half of the 1st century A.D. The garden has been replanted with myrtle bushes and pomegranate trees.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;figure>&lt;img src="../images/hephaistos.jpg"
  alt="plan of the temple with surviving rows of planting pits marked as open squares">&lt;figcaption>
@@ -27,14 +40,25 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
  &lt;/figcaption>
 &lt;/figure>
 
+&lt;!--### Images-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>3rd century BCE to the 3rd century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
 &lt;li>D.B. Thompson, “The Garden of Hephaistos,” &lt;em>Hesperia&lt;/em> 6, 1937: 396-425. &lt;a href="https://www.jstor.org/stable/146648">(JSTOR)&lt;/a>, &lt;a href="https://www.ascsa.edu.gr/uploads/media/hesperia/146648.pdf">(ASCSA)&lt;/a>.&lt;/li>
 &lt;li>M. Carroll-Spillecke, “The gardens of Greece from Homeric to Roman times,” &lt;em>Journal of Garden History&lt;/em> 12.2, 1992: 90, figs. 10-11. &lt;a href="http://www.worldcat.org/oclc/4898050192">(worldcat)&lt;/a>.&lt;/li>
-&lt;li>M. Carroll, &amp;ldquo;The sacred places of the immortal ones: ancient Greek and Roman sacred groves,&amp;rdquo; in J. Woudstra and C. Roth (eds.), &lt;em>A History of Groves.&lt;/em> London: Routledge, 2018: 22-23, fig 1.4. &lt;a href="http://www.worldcat.org/oclc/1012849097">(worldcat)&lt;/a>.&lt;/li>
+&lt;li>M. Carroll, &amp;quot;The sacred places of the immortal ones: ancient Greek and Roman sacred groves,&amp;quot; in J. Woudstra and C. Roth (eds.), &lt;em>A History of Groves.&lt;/em> London: Routledge, 2018: 22-23, fig 1.4. &lt;a href="http://www.worldcat.org/oclc/1012849097">(worldcat)&lt;/a>.&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/558659669">558659669 (Hephaisteion)&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -42,4 +66,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="#">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

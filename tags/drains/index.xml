@@ -35,6 +35,8 @@
 &lt;li>Sogliano, A. 1879. &lt;em>Le pitture murali campane scoverte negli anni 1867-79&lt;/em>, p. 224, no.694&lt;br>
 Viola, L. 1879. &lt;em>Gli scavi di Pompei dal 1873 al 1878&lt;/em>, p. 11&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/456321707">456321707&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -44,4 +46,5 @@ Viola, L. 1879. &lt;em>Gli scavi di Pompei dal 1873 al 1878&lt;/em>, p. 11&lt;/l
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!-- DATE --></description></item></channel></rss>

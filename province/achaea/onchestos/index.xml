@@ -6,6 +6,17 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/onchestos/">Onchestos&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/540984">Onchestos (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW
+
+## Sublocation
+
+
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Sanctuary of Poseidon Onchestios&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -18,8 +29,57 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>According to Pausanias, the ancient city of Onchestos in Boeotia lay in ruins by the time he visited the site in the 2nd century A.D., but the shrine and statue of Poseidon Onchestios and the sacred grove survived (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.26.5">9.26.5&lt;/a>). This, he says, was the grove that Homer praised in his poetry (&lt;em>Il.&lt;/em> &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:2.459-2.510">2.506&lt;/a>; see also &lt;em>Homeric Hymn to Apollo&lt;/em> &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0013.tlg003.perseus-eng1:3">229-238&lt;/a>). Perhaps the trees that Pausanias saw were not quite as old as he thought, since Strabo, writing over a hundred years earlier, described the site as treeless and the temple empty (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng1:9.2">9.2.33&lt;/a>). Replanting in the sanctuary might account for the presence of the trees seen later by Pausanias.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+
+### Plans
+
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Images-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified (mentioned in the 1st and 2nd century CE)&lt;/p>
+&lt;!--
+### Bibliography
+
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/540984">540984&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -27,4 +87,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="link">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

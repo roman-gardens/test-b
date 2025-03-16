@@ -6,8 +6,12 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/achaea/athens/">Athens&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/579885">Athens (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/807514119">Agora of Athens (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Altar of the Twelve Gods&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -19,13 +23,27 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/ul>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>A grove of olive and laurel trees surrounding the Altar of the Twelve Gods in the Athenian Agora is mentioned in the late 1st century A.D. by the Roman writer Statius in his epic poem &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1020.phi001.perseus-lat1:12">Thebaid (12.481-496)&lt;/a>. Excavations conducted there revealed the remains of the planting pits of trees, although there appears to have been a very limited number, only three or four pits.&lt;/p>
+&lt;!--
+
+### Plans
+
+### Images
+
+NEEDED - search bibliography for plans.
+
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+ -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>late 1st century CE (mentioned)&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
 &lt;li>M. Crosby, “The Altar of the Twelve Gods in Athens,” &lt;em>Hesperia Suppl.&lt;/em> 8, Commemorative Studies in Honor of Theodore Leslie Shear. Princeton, 1949, pp. 82-103, 447-450, pl. 11-14. &lt;a href="https://www.jstor.org/stable/1353886">(JSTOR)&lt;/a>.&lt;/li>
 &lt;li>J. McK. Camp, &lt;em>The Athenian Agora. Excavations in the heart of Classical Athens.&lt;/em> London, 1986, pp. 40-42, figs. 23-24. &lt;a href="http://www.worldcat.org/oclc/1153939923">(worldcat)&lt;/a>.&lt;/li>
-&lt;li>M. Carroll, &amp;ldquo;The sacred places of the immortal ones: ancient Greek and Roman sacred groves,&amp;rdquo; in J. Woudstra and C. Roth (eds.), &lt;em>A History of Groves.&lt;/em> London: Routledge, 2018, pp. 7-18. &lt;a href="http://www.worldcat.org/oclc/1012849097">(worldcat)&lt;/a>.&lt;/li>
+&lt;li>M. Carroll, &amp;quot;The sacred places of the immortal ones: ancient Greek and Roman sacred groves,&amp;quot; in J. Woudstra and C. Roth (eds.), &lt;em>A History of Groves.&lt;/em> London: Routledge, 2018, pp. 7-18. &lt;a href="http://www.worldcat.org/oclc/1012849097">(worldcat)&lt;/a>.&lt;/li>
 &lt;/ul>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/807514119">807514119&lt;/a>&lt;/p>
@@ -34,4 +52,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="#">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

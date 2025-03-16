@@ -45,11 +45,13 @@ W. F. Jashemski, 1993, &lt;em>Gardens of Pompeii: Herculaneum and the villas des
 Balázs Kapossy, 1969, &lt;em>Brunnenfiguren der hellenistischen und römischen Zeit, p.40.&lt;/em>
 John Goldicutt and Norman Neuerburg, 2016, &lt;em>Specimens of Ancient Decorations from Pompeii, p. 119, no.20.&lt;/em>&lt;br>
 Erich Pernice and Franz Winter, 1925, &lt;em>Gefässe und Geräthe aus BronzeDie Hellenistische Kunst in Pompeii, 5, p.49.&lt;/em>&lt;br>
-Salza Prina Ricotti, 1979, &lt;em>&amp;lsquo;Triclini&amp;rsquo;, In CronPomp, 5, pp.114-115.&lt;/em>&lt;br>
-P. Soprano, 1950, &lt;em>&amp;lsquo;I triclini all’aperto di Pompei&amp;rsquo;, In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore, pp.305-6, no.25.&lt;/em> (Address wrongly given as II.v.2 at pp.308-309, no. 37).&lt;br>
-Vittorio Spinazzola, 1910-1923, &lt;em>Pompei alla luce degli Scavi Nuovi di Via dell&amp;rsquo;Abbondanza, pp.407-418 and figs. 467-478, 481 on pp.409-416, 418.&lt;/em>&lt;br>
-Thomas D. Price and A. W. Van Buren, 1935, &lt;em>&amp;lsquo;The House of Marcus Loreius Tiburtinus at Pompei&amp;rsquo;, In MAAR 12, pp.151-153 and pls. 11-13.&lt;/em>&lt;br>
+Salza Prina Ricotti, 1979, &lt;em>'Triclini', In CronPomp, 5, pp.114-115.&lt;/em>&lt;br>
+P. Soprano, 1950, &lt;em>'I triclini all’aperto di Pompei', In Pompeiana, raccolta di studi per il secondo centenario degli scavi di Pompei, Napoli, Gaetano Macchiaroli, Editore, pp.305-6, no.25.&lt;/em> (Address wrongly given as II.v.2 at pp.308-309, no. 37).&lt;br>
+Vittorio Spinazzola, 1910-1923, &lt;em>Pompei alla luce degli Scavi Nuovi di Via dell'Abbondanza, pp.407-418 and figs. 467-478, 481 on pp.409-416, 418.&lt;/em>&lt;br>
+Thomas D. Price and A. W. Van Buren, 1935, &lt;em>'The House of Marcus Loreius Tiburtinus at Pompei', In MAAR 12, pp.151-153 and pls. 11-13.&lt;/em>&lt;br>
 Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&lt;/p>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/456321707">456321707&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -59,12 +61,23 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="contributors">Contributors&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Rural Villa in Gorhambury</title><link>https://roman-gardens.github.io/test-b/province/britannia/gorhambury/gorhambury_rural_villa/</link><pubDate>Sat, 11 Jul 2020 10:45:22 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/britannia/gorhambury/gorhambury_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!-- Format: dd MONTH_NAME yyyy -->
+&lt;!-- DATE --></description></item><item><title>Rural Villa in Gorhambury</title><link>https://roman-gardens.github.io/test-b/province/britannia/gorhambury/gorhambury_rural_villa/</link><pubDate>Sat, 11 Jul 2020 10:45:22 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/britannia/gorhambury/gorhambury_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/britannia/">Britannia&lt;/a>&lt;/p>
 &lt;h2 id="province-description">Province Description&lt;/h2>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/britannia/gorhambury/">Gorhambury&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/79485">Gorhambury (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Rural Villa in Gorhambury&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -77,6 +90,9 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>At this site in Hertfordshire near the town of Verulamium (St. Albans) excavations have revealed a multi-phased Roman farm, characterized in late Iron Age and Roman times by an outer courtyard with various service buildings and an inner courtyard in which the farm house stood (Fig. 1).&lt;/p>
 &lt;p>An avenue 20 meters wide led axially from the gate at the eastern end of the inner courtyard a cross to the front of the house (H in Fig. 1). On either side of the avenue was a line of circular pits spaced 4-6 meters apart (A in Fig. 1). These were filled with fine, homogeneous loam and have been interpreted as planting holes for trees or shrubs. Alternatively, the rows of holes have been interpreted as the postholes of a covered walkway or arbour leading to the house, supporting climbing plants. This feature of the courtyard is contemporary with the first masonry house built around A.D. 100, and represents an attempt to design the compound fronting the house in a more formal way. After 175 the avenue leading to the rebuilt house seems not to have been flanked by trees or an arbour, and numerous trackways leading into both courtyards from the north and south suggest that the entrance to the main residence was no longer strictly axial.&lt;/p>
+&lt;!--
+### Maps
+-->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;figure>&lt;img src="../images/Gorhambury_13_or_9.1.jpg"
  alt="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn.">&lt;figcaption>
@@ -84,6 +100,9 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
  &lt;/figcaption>
 &lt;/figure>
 
+&lt;!--
+### Images
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>around A.D. 100 - 175&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -91,6 +110,8 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;li>A. Selkirk, “Gorhambury,” &lt;em>Current Archaeology&lt;/em> 87, 1983: 120-121, fig. on p. 116.&lt;/li>
 &lt;li>D.S. Neal, A. Wardle and J. Hunn, &lt;em>Excavation of the Iron Age, Roman and Medieval Settlement at Gorhambury, St. Albans&lt;/em>. English Heritage Report 14, London, 1990, p. 44, fig. 56. &lt;a href="http://www.worldcat.org/oclc/908621649">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/79485">79485&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -98,4 +119,6 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

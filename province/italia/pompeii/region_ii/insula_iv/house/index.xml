@@ -3,18 +3,23 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/">Region II&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/italia/pompeii/region_ii/insula_iv/">Insula IV&lt;/a>&lt;/p>
+&lt;!-- pleiades link is invalid
+## House
+[House of Julia Felix (Pleiades)](https://pleiades.stoa.org/places/955554415)-->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Three separate gardens in the Praedia di Julia Felix.&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052558">cisterns (plumbing components)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300435392">jet d&amp;rsquo;eau&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300435392">jet d'eau&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300312262">statuettes (free-standing sculpture)&lt;/a>&lt;/li>
@@ -40,11 +45,17 @@
  &lt;/figcaption>
 &lt;/figure>
 
+&lt;!--&lt;figure>&lt;img src="../images/Fig.%2020,%20II.iv.%20%20%205.25.59.jpg"
+ alt=" Fig. 20, II.iv. 5.25.59.- portico and garden.">&lt;figcaption>
+ &lt;h4>portico and garden&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
-&lt;li>&lt;em>Annali Dell&amp;rsquo;instituto Di Correspondenza Archeologica,&lt;/em> 1830, p.50 &lt;a href="http://www.worldcat.org/oclc/470771737">worldcat&lt;/a>&lt;/li>
+&lt;li>&lt;em>Annali Dell'instituto Di Correspondenza Archeologica,&lt;/em> 1830, p.50 &lt;a href="http://www.worldcat.org/oclc/470771737">worldcat&lt;/a>&lt;/li>
 &lt;li>Bonucci, Da Carlo. 2018. &lt;em>Pompei Descritta Da Carlo Bonucc,&lt;/em> p.219 &lt;a href="http://www.worldcat.org/oclc/23518809">worldcat&lt;/a>&lt;/li>
 &lt;li>Bragantini, Irene. 1981. &lt;em>Pitture E Pavimenti Di Pompei.&lt;/em> Roma: Ministero per i beni culturali e ambientali, Istituto centrale per il catalogo e la documentazione, 1981. 1:238 &lt;a href="http://www.worldcat.org/oclc/13334913">worldcat&lt;/a>&lt;/li>
 &lt;li>Chambalu, August. 1895. &lt;em>Die weiderverschüttete Besitzung der Julia Felix beim Amphitheater in Pompeji,&lt;/em> pp. 14-15 and plan of Weber (1757) after p. 20
@@ -71,9 +82,13 @@
 &lt;a href="http://www.worldcat.org/oclc/715456384">worlcat&lt;/a>&lt;/li>
 &lt;li>Zahn, Wilhelm. 1828. &lt;em>Die Schönsten Ornamente Und Merkwürdigsten Gemälde Aus Pompeji, Herkulanum Und Stabiae&lt;/em>, 2, pl.100 (plan) &lt;a href="http://www.worldcat.org/oclc/1141530520">worldcat&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/955554415">955554415&lt;/a>&lt;/p>
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
