@@ -15,19 +15,41 @@ a.nav {
 body {
   font-family: "Georgia", "Palatino", serif;
   font-size: 12pt;
-  line-height: 1.4;
+  line-height: 1.3;
 }
 
-
-/* test website styles*/
-body.test {
-  background: #f2fd30;
+body.localhost {
+  background: #8c8;
 }
-.test-header {
+
+body.test-a {
+  background: #f44;
+}
+
+body.test-b {
+  background: #f84;
+}
+
+body.test-drafts {
+  background: #8cf;
+}
+
+div.test-header {
   text-align: center;
-  font-size: 24pt;
+  font-size: 150%;
 }
 
+div.container {
+  margin: 0 auto;
+}
+
+h2 {
+  margin: 0.5em 0 0.2em;
+}
+
+h3 {
+  margin: 0.5em 0 0.2em;
+}
 
 .container--outer {
 	margin: 0 auto 25px;
@@ -91,6 +113,43 @@ body.test {
   font-size: 10.5pt;
 }
 
+nav.breadcrumbs {
+  font-weight: bold;
+  font-size: 130%;
+  padding: 0 0.5em;
+  margin-bottom: 0.5em;
+  background: #262;
+  color: #fff;
+}
+
+nav.breadcrumbs a {
+  color: #fff;
+}
+
+ul.sublocations {
+  margin: 0 0 0.5em;
+  padding: 0 3em 0.5em;
+  border-bottom: 1px solid #888;
+}
+
+ul.sublocations li {
+  font-weight: bold;
+}
+
+.count {
+  margin: 1em 0;
+}
+
+article.list__item {
+  padding: 0;
+  margin: 0 0 1.5em 0;
+  border: 0;
+}
+
+.list__header {
+  margin: 0;
+}
+
 #map {
   width: 100%;
   height: 400px;
@@ -107,37 +166,38 @@ body.test {
 }
 
 #search-results-list {
-	margin: 1em;
+	margin: 1em 0;
 	list-style: none;
 }
 
 #search-results-list li {
-	margin: 1em 1em;
+	margin: 1em 0;
 }
 
-#search-results-list small {
-	color: #666;
+.smallcrumbs {
+	color: #262;
+  font-size: 90%;
+  margin: 0;
+  line-height: 1.0;
 }
 
 .widget a {
   color: #000;
 }
 
-.subdivisions {
-  margin: 1em 0;
-  padding: 1em;
-  background: #eee;
-  border: 1px solid #ccc;
+.permalink {
+  margin: 0.5em 0;
 }
 
 .draft {
   background: #fff2e7;
 }
 
-.draft::before {
-  content: "- - - DRAFT - - -";
-  color: #c22d30;
+.draft div.draft {
+  background: #f80;
+  color: #fff;
   font-size: 250%;
   font-weight: bold;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
 }
