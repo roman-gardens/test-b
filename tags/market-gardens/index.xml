@@ -22,7 +22,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/achaea/delos/delos_fig11_archaeological_plan.jpg" alt="Map of Delos with archaeological features marked" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig11_archaeological_plan.jpg" alt="Map of Delos with archaeological features marked" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Archaeological plan of the island, 1:2500. Drawing by Nicolas Bresch from Brunet 1999, fig. 1.&lt;/figcaption>
 &lt;/figure>
 &lt;!--

@@ -23,7 +23,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/arabia_petraea/babatha/1_arabia_petraea_map.jpg" alt="Map of Petra location" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/1_arabia_petraea_map.jpg" alt="Map of Petra location" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="plans">Plans&lt;/h3>
@@ -31,7 +31,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/arabia_petraea/babatha/2_babatha_orchard_plan.jpg" alt="Proposed plan of Babatha&amp;#39;s orchard" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/2_babatha_orchard_plan.jpg" alt="Proposed plan of Babatha&amp;#39;s orchard" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -39,7 +39,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/arabia_petraea/babatha/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure> -->
 &lt;!--
@@ -153,7 +153,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/judaea/ein_gedi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 
@@ -164,7 +164,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/judaea/ein_gedi/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)&lt;/figcaption>
 &lt;/figure>
 
@@ -174,7 +174,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/judaea/ein_gedi/Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.&lt;/figcaption>
 &lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>

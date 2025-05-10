@@ -31,7 +31,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -40,14 +40,14 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/achaea/delos/truemper1.png" alt="Plan of the agora" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper1.png" alt="Plan of the agora" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/achaea/delos/truemper2.png" alt="Plan of the agora with surrounding buildings" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper2.png" alt="Plan of the agora with surrounding buildings" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -55,14 +55,14 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/achaea/delos/truemper3.jpg" alt="Photo of Agora of the Italians from the southwest" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper3.jpg" alt="Photo of Agora of the Italians from the southwest" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/achaea/delos/truemper4.jpg" alt="Photo of Agora of the Italians from the southeast" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper4.jpg" alt="Photo of Agora of the Italians from the southeast" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 4: Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -106,7 +106,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -136,7 +136,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -145,7 +145,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/africa_proconsularis/pupput/house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Viridarium with Niches (Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -153,7 +153,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -162,7 +162,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/africa_proconsularis/pupput/photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>Fig. 2: Photograph of the garden (from Ben Abed Ben Khader, 2006, fig. 9, p. 521)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -170,7 +170,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/refs/heads/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
