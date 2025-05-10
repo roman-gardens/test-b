@@ -41,6 +41,29 @@ div.test-header {
 
 div.container {
   margin: 0 auto;
+  max-width:1280px;
+}
+
+figure {
+  margin-bottom: 2em;
+}
+
+figure img {
+  margin-bottom: 0.5em;
+  max-height: 400px;
+  box-shadow: 4px 4px 8px 4px #888;
+}
+
+img.zoom {
+  position: fixed;
+  top:0;
+  left:0;
+  max-width: fit-content;
+  width: initial;
+}
+
+figcaption {
+  color: #000;
 }
 
 h2 {
@@ -49,6 +72,20 @@ h2 {
 
 h3 {
   margin: 0.5em 0 0.2em;
+}
+
+.fullscreen {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #000;
+  z-index: 9999999;
 }
 
 .container--outer {
