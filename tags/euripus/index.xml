@@ -35,7 +35,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." onclick="fullscreen(this)">
  &lt;figcaption>Fig.1: Plan of the House of the Grand Oecus (CMT, plans 1, 2). &lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->

@@ -10,7 +10,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_anonymous_sanctuary_dar_lachheb.jpg" alt="Plan of Thugga" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_anonymous_sanctuary_dar_lachheb.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -33,7 +33,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_anonymous_sanctuary.jpg" alt="Plan of the anonymous sanctuary, Dar Lachheb" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_anonymous_sanctuary.jpg" alt="Plan of the anonymous sanctuary, Dar Lachheb" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb (From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

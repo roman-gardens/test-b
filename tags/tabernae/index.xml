@@ -112,7 +112,7 @@ B. Another small garden was found to the rear of the &lt;a href="http://vocab.ge
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 62, Plan of Region II, insula viii&lt;/figcaption>
 &lt;/figure>-->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>

@@ -55,7 +55,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/thermae_agrippae_fig1.jpg" alt="Marble Plan Fragment" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/thermae_agrippae_fig1.jpg" alt="Marble Plan Fragment" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1. Marble Plan Fragment (Yegül, fig. 143, p. 134).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -63,7 +63,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/thermae_agrippae_fig2.jpg" alt="Base Plan of the Thermae Agrippae" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/thermae_agrippae_fig2.jpg" alt="Base Plan of the Thermae Agrippae" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2. Base Plan of the Thermae Agrippae (Yegül, fig. 145, p. 134, after Huelsen).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->

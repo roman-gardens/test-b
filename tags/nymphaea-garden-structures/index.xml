@@ -61,21 +61,21 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" onclick="fullscreen(this)">
  &lt;figcaption>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Gardens of the Oppian palace" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Gardens of the Oppian palace" onclick="fullscreen(this)">
  &lt;figcaption>Figure 2. Gardens of the Oppian palace (image source).&lt;/figcaption>
 &lt;/figure>-->
 &lt;!--
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" onclick="fullscreen(this)">
  &lt;figcaption>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/figcaption>
 &lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -189,7 +189,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -217,28 +217,28 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" onclick="fullscreen(this)">
  &lt;figcaption>Figure 1: Plan (after Becatti 1961).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4.jpg" alt="Photo of Nymphaeum" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4.jpg" alt="Photo of Nymphaeum" onclick="fullscreen(this)">
  &lt;figcaption>Figure 2: Nymphaeum (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig5_better.jpg" alt="Axonometry" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig5_better.jpg" alt="Axonometry" onclick="fullscreen(this)">
  &lt;figcaption>Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4b.jpg" alt="Section" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4b.jpg" alt="Section" onclick="fullscreen(this)">
  &lt;figcaption>Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -294,7 +294,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -331,28 +331,28 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" onclick="fullscreen(this)">
  &lt;figcaption>Figure 1: Plan (after Boersma 1985).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" onclick="fullscreen(this)">
  &lt;figcaption>Figure 2: Axonometry (from Boersma 1985).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig22.jpg" alt="The garden seen from the oecus" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig22.jpg" alt="The garden seen from the oecus" onclick="fullscreen(this)">
  &lt;figcaption>Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23.jpg" alt="Well head with bucrania" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23.jpg" alt="Well head with bucrania" onclick="fullscreen(this)">
  &lt;figcaption>Figure 4: Well head with bucrania (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -412,7 +412,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -421,7 +421,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig5_maison_de_fourni.jpg" alt="Archaeological plan of the Maison de Fourni" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig5_maison_de_fourni.jpg" alt="Archaeological plan of the Maison de Fourni" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Maison de Fourni, sketch, 1:250. Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- ### Images
@@ -429,7 +429,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
@@ -437,7 +437,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 5: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
@@ -445,7 +445,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 6: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -495,7 +495,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -504,7 +504,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery&amp;#39;" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery&amp;#39;" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -512,7 +512,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -564,7 +564,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -573,7 +573,7 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig7_theat_quart_houses_e_f.jpg" alt="Archaeological plan of houses E and F" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig7_theat_quart_houses_e_f.jpg" alt="Archaeological plan of houses E and F" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Quarter of the Theater, Insula II, houses E and F, 1:250. Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -581,14 +581,14 @@ Paul Zanker, 1998, &lt;em>Pompeii: Public and Private Life, pp.477-480.&lt;/em>&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -649,7 +649,7 @@ After the death of Herodes the villa probably became imperial property. A phase 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -659,7 +659,7 @@ After the death of Herodes the villa probably became imperial property. A phase 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -669,7 +669,7 @@ After the death of Herodes the villa probably became imperial property. A phase 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -719,7 +719,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/omegahouse.jpg" alt="plan of a house with a possible garden peristyle" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/omegahouse.jpg" alt="plan of a house with a possible garden peristyle" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

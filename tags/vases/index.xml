@@ -20,7 +20,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -49,14 +49,14 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan (after M. Supino; PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="photos">Photos&lt;/h3>
@@ -64,7 +64,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
