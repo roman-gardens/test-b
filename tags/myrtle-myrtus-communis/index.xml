@@ -30,7 +30,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -39,7 +39,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/hephaistos.jpg" alt="plan of the temple with surviving rows of planting pits marked as open squares" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/hephaistos.jpg" alt="plan of the temple with surviving rows of planting pits marked as open squares" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1.&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -48,7 +48,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

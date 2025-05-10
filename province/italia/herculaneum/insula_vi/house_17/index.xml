@@ -24,14 +24,14 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_vi/house_17/herculaneum_vi_17.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_vi/house_17/herculaneum_vi_17.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" onclick="zoom(this)">
  &lt;figcaption>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_vi/house_17/h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_vi/house_17/h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" onclick="zoom(this)">
  &lt;figcaption>Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico&lt;/figcaption>
 &lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>

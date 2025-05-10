@@ -180,7 +180,7 @@ Jessica Venner (&lt;a href="https://orcid.org/0000-0001-5828-6222">https://orcid
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="zoom(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -200,7 +200,7 @@ Jessica Venner (&lt;a href="https://orcid.org/0000-0001-5828-6222">https://orcid
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig16_better_colored.jpg" alt="Plan of the Garden beneath the House of the Fishes" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig16_better_colored.jpg" alt="Plan of the Garden beneath the House of the Fishes" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan (after Becatti, 1961).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -253,7 +253,7 @@ Jessica Venner (&lt;a href="https://orcid.org/0000-0001-5828-6222">https://orcid
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="zoom(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -285,14 +285,14 @@ Jessica Venner (&lt;a href="https://orcid.org/0000-0001-5828-6222">https://orcid
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" onclick="zoom(this)">
  &lt;figcaption>Figure 1: Plan (from Morard, Wavelet).&lt;/figcaption>
 &lt;/figure> &lt;!--missing illustration-->&lt;/p>
 &lt;p>
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig19.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig19.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" onclick="zoom(this)">
  &lt;figcaption>Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure> &lt;!--missing illustration-->&lt;/p>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -347,7 +347,7 @@ destroyed 160-200 CE&lt;/p>
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="zoom(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -371,14 +371,14 @@ destroyed 160-200 CE&lt;/p>
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" onclick="zoom(this)">
  &lt;figcaption>Figure 1: Plan (from Morard, Wavelet).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig19.jpg" alt="Photo of the courtyard of the Schola of Trajan and part of the House with Peristyle, reconstructed after 1938 excavations" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig19.jpg" alt="Photo of the courtyard of the Schola of Trajan and part of the House with Peristyle, reconstructed after 1938 excavations" onclick="zoom(this)">
  &lt;figcaption>Figure 2: The courtyard of the Schola of Trajan and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

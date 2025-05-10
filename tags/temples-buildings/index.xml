@@ -44,7 +44,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" onclick="zoom(this)">
  &lt;figcaption>Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -52,7 +52,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" onclick="zoom(this)">
  &lt;figcaption>Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -144,7 +144,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" onclick="zoom(this)">
  &lt;figcaption> Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -152,7 +152,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" onclick="zoom(this)">
  &lt;figcaption> Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -160,7 +160,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig3.jpg" alt="Base plan of the Hercules Musarum" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig3.jpg" alt="Base plan of the Hercules Musarum" onclick="zoom(this)">
  &lt;figcaption>Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -168,7 +168,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" onclick="zoom(this)">
  &lt;figcaption>Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -244,7 +244,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" onclick="zoom(this)">
  &lt;figcaption>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -252,7 +252,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" onclick="zoom(this)">
  &lt;figcaption>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -260,7 +260,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" onclick="zoom(this)">
  &lt;figcaption>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -302,7 +302,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_water_sanctuary.jpg" alt="Plan of Thamugadi." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_water_sanctuary.jpg" alt="Plan of Thamugadi." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -334,7 +334,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -343,7 +343,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/water_sanctuary%20_aqua_eptimania_felix1.jpg" alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/water_sanctuary%20_aqua_eptimania_felix1.jpg" alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix (Lassus, J., 1981, fig. 9)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -351,7 +351,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -361,7 +361,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -398,7 +398,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_templa_concordiae.jpg" alt="Plan of Thugga" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_templa_concordiae.jpg" alt="Plan of Thugga" onclick="zoom(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -421,7 +421,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/sanctuary_b.jpg" alt="Plan of the Sanctuary B, the templa Concordiae" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/sanctuary_b.jpg" alt="Plan of the Sanctuary B, the templa Concordiae" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the Sanctuary B, the templa Concordiae (From Aounallah, S., Golvin, J.-C. (dir.) 2016, p. 505, fig. 44)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -451,7 +451,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_anonymous_sanctuary_dar_lachheb.jpg" alt="Plan of Thugga" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_anonymous_sanctuary_dar_lachheb.jpg" alt="Plan of Thugga" onclick="zoom(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -474,7 +474,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_anonymous_sanctuary.jpg" alt="Plan of the anonymous sanctuary, Dar Lachheb" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_anonymous_sanctuary.jpg" alt="Plan of the anonymous sanctuary, Dar Lachheb" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb (From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -505,7 +505,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_caelestis.jpg" alt="Plan of Thugga" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_caelestis.jpg" alt="Plan of Thugga" onclick="zoom(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -527,7 +527,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis.jpg" alt="The sanctuary of Caelestis" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis.jpg" alt="The sanctuary of Caelestis" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the sanctuary of Caelestis (From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -557,7 +557,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_minerva.jpg" alt="Plan of Thugga" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_minerva.jpg" alt="Plan of Thugga" onclick="zoom(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -582,7 +582,7 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2.jpg" alt="Plan of the sanctuary of Minerva 2" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2.jpg" alt="Plan of the sanctuary of Minerva 2" onclick="zoom(this)">
  &lt;figcaption>Fig.1 Plan of the sanctuary of Minerva 2 (From Saint-Amans, S., 2004, p. 216, fig. 2a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -613,7 +613,7 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of Thugga" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of Thugga" onclick="zoom(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -636,7 +636,7 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of the sanctuary of the Victories of Caracalla" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of the sanctuary of the Victories of Caracalla" onclick="zoom(this)">
  &lt;figcaption>Fig.1: Plan of the sanctuary of the Victories of Caracalla (From Golvin, J.-C., Khanoussi M. (dir.) 2005, p. 41, fig. 17. http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf))&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -644,14 +644,14 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/restitution_sanctuaire_caracalla_Page_2.jpg" alt="Cross section of the courtyard (A-A’)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/restitution_sanctuaire_caracalla_Page_2.jpg" alt="Cross section of the courtyard (A-A’)" onclick="zoom(this)">
  &lt;figcaption>Fig.2: Cross section of the courtyard (A-A’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/restitution_sanctuaire_caracalla_Page_3.jpg" alt="Cross section of the courtyard (B-B’)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/restitution_sanctuaire_caracalla_Page_3.jpg" alt="Cross section of the courtyard (B-B’)" onclick="zoom(this)">
  &lt;figcaption>Fig.3: Cross section of the courtyard (B-B’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -683,7 +683,7 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_east_temple.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_east_temple.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -705,7 +705,7 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/East_temple_Plan.jpg" alt="Plan of the East Temple" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/East_temple_Plan.jpg" alt="Plan of the East Temple" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the East Temple (CMT, V. II, fasc.4, plan 1-2. Malek, A.-A., 2018, fig. 14)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -737,7 +737,7 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_temple_of_baalat.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_temple_of_baalat.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -758,7 +758,7 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/Temple%20of%20Baalat.jpg" alt="Plan of the Temple of Baalat " loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/Temple%20of%20Baalat.jpg" alt="Plan of the Temple of Baalat " onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -788,7 +788,7 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_temple_of_caelestis.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_temple_of_caelestis.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -809,7 +809,7 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/Temple_of_Caelestis1.jpg" alt="Plan of the Temple of Caelestis " loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/Temple_of_Caelestis1.jpg" alt="Plan of the Temple of Caelestis " onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the Temple of Caelestis (CMT, V. II, fasc.2, plan 9)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

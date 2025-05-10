@@ -35,7 +35,7 @@ NEEDED - search bibliography for plans.
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -97,7 +97,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -106,7 +106,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59.&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -115,7 +115,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -163,7 +163,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -173,7 +173,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -183,7 +183,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

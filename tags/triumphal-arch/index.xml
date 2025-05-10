@@ -42,7 +42,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" onclick="zoom(this)">
  &lt;figcaption>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -50,7 +50,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" onclick="zoom(this)">
  &lt;figcaption>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -58,7 +58,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" onclick="zoom(this)">
  &lt;figcaption>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->

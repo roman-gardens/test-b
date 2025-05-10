@@ -39,7 +39,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 
@@ -54,7 +54,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -69,7 +69,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -128,7 +128,7 @@ NEEDED - search bibliography for plans.
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -179,7 +179,7 @@ NEEDED - search bibliography for plans.
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -189,7 +189,7 @@ NEEDED - search bibliography for plans.
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -199,7 +199,7 @@ NEEDED - search bibliography for plans.
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -245,7 +245,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -255,7 +255,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -265,7 +265,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

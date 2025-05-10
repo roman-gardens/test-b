@@ -10,7 +10,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_black_and_white_triclinium.jpg" alt="Plan of the residential quarters (Th. Leroy)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_black_and_white_triclinium.jpg" alt="Plan of the residential quarters (Th. Leroy)" onclick="zoom(this)">
  &lt;figcaption>Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -40,7 +40,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -49,7 +49,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/AFR_Pup_Hbwt_Amalek1.jpg" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/AFR_Pup_Hbwt_Amalek1.jpg" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Black and White Triclinium (Ch. Peirce, from Ben Abed Ben Khader, A., 1990)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -57,7 +57,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -67,7 +67,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -103,7 +103,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" onclick="zoom(this)">
  &lt;figcaption>Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -133,7 +133,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -142,7 +142,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Viridarium with Niches (Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -150,7 +150,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -159,7 +159,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" onclick="zoom(this)">
  &lt;figcaption>Fig. 2: Photograph of the garden (from Ben Abed Ben Khader, 2006, fig. 9, p. 521)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -167,7 +167,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

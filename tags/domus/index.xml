@@ -47,7 +47,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/severan_complex_fig1.jpg" alt="Plan of the Palatine" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/severan_complex_fig1.jpg" alt="Plan of the Palatine" onclick="zoom(this)">
  &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -116,7 +116,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" onclick="zoom(this)">
  &lt;figcaption>Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -124,7 +124,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" onclick="zoom(this)">
  &lt;figcaption>Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -216,7 +216,7 @@ Esquiline Hill &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilinu
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" onclick="zoom(this)">
  &lt;figcaption>Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -224,7 +224,7 @@ Esquiline Hill &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilinu
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/porticusliviae_fig2.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/porticusliviae_fig2.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" onclick="zoom(this)">
  &lt;figcaption>Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -232,7 +232,7 @@ Esquiline Hill &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilinu
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Entrance to the Porticus Liviae" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Entrance to the Porticus Liviae" onclick="zoom(this)">
  &lt;figcaption>Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres.&lt;/figcaption>
 &lt;/figure>-->
 &lt;!-- -->
@@ -329,21 +329,21 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" onclick="zoom(this)">
  &lt;figcaption>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Gardens of the Oppian palace" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Gardens of the Oppian palace" onclick="zoom(this)">
  &lt;figcaption>Figure 2. Gardens of the Oppian palace (image source).&lt;/figcaption>
 &lt;/figure>-->
 &lt;!--
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" onclick="zoom(this)">
  &lt;figcaption>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/figcaption>
 &lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -392,7 +392,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="zoom(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -423,28 +423,28 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" onclick="zoom(this)">
  &lt;figcaption>Figure 1: Plan (after Calza 1953).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" onclick="zoom(this)">
  &lt;figcaption>Figure 2: Garden, 1941 (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" onclick="zoom(this)">
  &lt;figcaption>Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig13b_threshold.jpg" alt="Section of the basin in th" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig13b_threshold.jpg" alt="Section of the basin in th" onclick="zoom(this)">
  &lt;figcaption>Figure 4: Section of the basin (from Ricciardi, Scrinari 1996).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -489,7 +489,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -519,7 +519,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -527,7 +527,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." onclick="zoom(this)">
  &lt;figcaption>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -560,7 +560,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." onclick="zoom(this)">
  &lt;figcaption>Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -591,7 +591,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -599,21 +599,21 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" onclick="zoom(this)">
  &lt;figcaption>Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/pool_and_fish_pool.jpg" alt="The pool and fish pool." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/pool_and_fish_pool.jpg" alt="The pool and fish pool." onclick="zoom(this)">
  &lt;figcaption>Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/fish_pool.jpg" alt="The fish pool." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/fish_pool.jpg" alt="The fish pool." onclick="zoom(this)">
  &lt;figcaption>Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -651,7 +651,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -680,7 +680,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -688,14 +688,14 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." onclick="zoom(this)">
  &lt;figcaption>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." onclick="zoom(this)">
  &lt;figcaption>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -728,7 +728,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -758,7 +758,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -766,14 +766,14 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="zoom(this)">
  &lt;figcaption>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="zoom(this)">
  &lt;figcaption>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -807,7 +807,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_hylas.jpg" alt="Plan of Cuicul." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_hylas.jpg" alt="Plan of Cuicul." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -831,7 +831,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_hylas_plan1.jpg" alt="Plan of the House of Hylas. More details are included in the garden description section above." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_hylas_plan1.jpg" alt="Plan of the House of Hylas. More details are included in the garden description section above." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Hylas (Blanchard-Lemée, M., 1975, fig. 77)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -839,7 +839,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_hylas_photo.jpg" alt="View of the corridor and the basin. On the background, the courtyard garden." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_hylas_photo.jpg" alt="View of the corridor and the basin. On the background, the courtyard garden." onclick="zoom(this)">
  &lt;figcaption>Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -873,7 +873,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_the_three_basins.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_the_three_basins.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -893,7 +893,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Btb_Wjashemski_color.jpg" alt="Plan of the Bulding of the Three Basins; CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Btb_Wjashemski_color.jpg" alt="Plan of the Bulding of the Three Basins; CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the Bulding of the Three Basins (CMT, Thuburbo Majus, V. II, fasc.2, plan 19-20)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -926,7 +926,7 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_hermaphrodite_house.jpg" alt="Plan of Thamugadi." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_hermaphrodite_house.jpg" alt="Plan of Thamugadi." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -956,7 +956,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -965,7 +965,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/hermaphrodite_house.jpg" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/hermaphrodite_house.jpg" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the Hermaphrodite House (Germain, S., 1969, fig. 7)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -973,7 +973,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -983,7 +983,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1018,7 +1018,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" alt="Plan of Thamugadi." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" alt="Plan of Thamugadi." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1046,7 +1046,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1055,7 +1055,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_at%20_the_w%20_of_the_filadelfes.jpg" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_at%20_the_w%20_of_the_filadelfes.jpg" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House at the west of the filadelfes Baths. (Germain, S., 1969, fig. 10)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -1063,7 +1063,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1073,7 +1073,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1109,7 +1109,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_sertius.jpg" alt="Plan of Thamugadi." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_sertius.jpg" alt="Plan of Thamugadi." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1140,7 +1140,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1149,7 +1149,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of%20_sertius.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of%20_sertius.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Sertius (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -1157,7 +1157,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1167,7 +1167,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1203,7 +1203,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1234,7 +1234,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1243,7 +1243,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l&amp;#39;Empire romain, p. 88-92, Plan fig.40" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l&amp;#39;Empire romain, p. 88-92, Plan fig.40" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Planters (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -1251,7 +1251,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1260,14 +1260,14 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_planters_drawing.jpg" alt="Drawing of the courtyard of the House of the Planter; rights statement" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_planters_drawing.jpg" alt="Drawing of the courtyard of the House of the Planter; rights statement" onclick="zoom(this)">
  &lt;figcaption>Fig. 2: Drawing of the courtyard of the House of the Planter (Ballu, A., 1897,fig. 36)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/%23" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/%23" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" onclick="zoom(this)">
  &lt;figcaption>Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1276,7 +1276,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1312,7 +1312,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_warehouse.jpg" alt="Plan of Thamugadi." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_warehouse.jpg" alt="Plan of Thamugadi." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1343,7 +1343,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1352,7 +1352,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Warehouse (Germain, S., 1969, fig. 12)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -1360,7 +1360,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1370,7 +1370,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1405,7 +1405,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_neptune.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_neptune.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1427,7 +1427,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hn_Wjashemski%20%281%291.jpg" alt="Plan of the House of Neptune" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hn_Wjashemski%20%281%291.jpg" alt="Plan of the House of Neptune" onclick="zoom(this)">
  &lt;figcaption>Fig.1: Plan of the House of Neptune (CMT, Thuburbo Majus, V. II, fasc.1, plan 20-30)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1458,7 +1458,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_house_of_the_trifolium.jpg" alt="Plan of Thugga" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_house_of_the_trifolium.jpg" alt="Plan of Thugga" onclick="zoom(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1480,7 +1480,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/House_of_the_trillium_Dougga_color.jpg" alt="Plan of Trifolium" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/House_of_the_trillium_Dougga_color.jpg" alt="Plan of Trifolium" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1513,7 +1513,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_black_and_white_triclinium.jpg" alt="Plan of the residential quarters (Th. Leroy)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_black_and_white_triclinium.jpg" alt="Plan of the residential quarters (Th. Leroy)" onclick="zoom(this)">
  &lt;figcaption>Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1543,7 +1543,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1552,7 +1552,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/AFR_Pup_Hbwt_Amalek1.jpg" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/AFR_Pup_Hbwt_Amalek1.jpg" alt="Plan of the House of the Black and White Triclinium; Ch. Peirce, in Ben Abed Ben Khader, A., 1990" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Black and White Triclinium (Ch. Peirce, from Ben Abed Ben Khader, A., 1990)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -1560,7 +1560,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1570,7 +1570,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1606,7 +1606,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/city_plan_house_of_the_viridarium_with_niches.jpg" alt="Plan of the residential quarters (Th. Leroy)" onclick="zoom(this)">
  &lt;figcaption>Plan of the residential quarters (Th. Leroy, from Ben Abed Ben Khader, A., Griesheimer, M., 2001)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1636,7 +1636,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1645,7 +1645,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/house_of_the_viridarium_with_niches.jpg" alt="Plan of the House of the Viridarium with Niches; Ben Abed Ben Khader, A., 2006" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Viridarium with Niches (Ch. Peirce, from Ben Abed Ben Khader, A., 1994, Pl. CLXXI)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -1653,7 +1653,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1662,7 +1662,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/photo_of_the_viridarium_with_niches.jpg" alt="Photograph of the garden; from Ben Abed Ben Khader, fig. 9, p. 521" onclick="zoom(this)">
  &lt;figcaption>Fig. 2: Photograph of the garden (from Ben Abed Ben Khader, 2006, fig. 9, p. 521)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
@@ -1670,7 +1670,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/pupput/FILENAME" alt="ALT_TEXT" onclick="zoom(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1729,7 +1729,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_H_Wjashemski1.jpg" alt="Fig.1: Plan of the House H" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_H_Wjashemski1.jpg" alt="Fig.1: Plan of the House H" onclick="zoom(this)">
  &lt;figcaption>Fig.1: Plan of the House H (CMT, pp.121-128).&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -1788,7 +1788,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1846,7 +1846,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Hd_Wjashemski.jpg" alt="Fig. 1: House of the Dolphins." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Hd_Wjashemski.jpg" alt="Fig. 1: House of the Dolphins." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: House of the Dolphins (CMT, plans 5-6)&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -1900,7 +1900,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hfb_Wjashemski1.jpg" alt="Fig. 1: Plan view of the House of the Figured Basin." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hfb_Wjashemski1.jpg" alt="Fig. 1: Plan view of the House of the Figured Basin." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan view of the House of the Figured Basin (CMT, plan 22). &lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -1956,7 +1956,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." onclick="zoom(this)">
  &lt;figcaption>Fig.1: Plan of the House of the Grand Oecus (CMT, plans 1, 2). &lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -2014,7 +2014,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/House_Lucius_verus1.jpg" alt="Fig. 1: Plan of the House of Lucius Verus." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/House_Lucius_verus1.jpg" alt="Fig. 1: Plan of the House of Lucius Verus." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Lucius Verus (Afrique dans l&amp;#39;Occident romain, fig. 8)&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -2077,7 +2077,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Hp_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Peacock." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Hp_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Peacock." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Peacock. (CMT, plans 3-4)&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -2133,7 +2133,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Ht_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Treasure." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Ht_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Treasure." onclick="zoom(this)">
  &lt;figcaption>Fig.1: Plan of the House of the Treasure (CMT, plans 3,4) &lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -2191,7 +2191,7 @@ The house is dated to the II century.&lt;/p>
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." onclick="zoom(this)">
  &lt;figcaption>Fig.1: Plan of the House of the West (CMT, plan 4)&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -2245,7 +2245,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Hwm_Wjashemski1.jpg" alt="Fig.1: Plan of the house of the White Mosaic." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Hwm_Wjashemski1.jpg" alt="Fig.1: Plan of the house of the White Mosaic." onclick="zoom(this)">
  &lt;figcaption>Fig.1: Plan of the house of the White Mosaic. (CMT, plan 7)&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -2302,7 +2302,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Sd_Wjashemski1.jpg" alt="Fig. 1: Plan of the Sollertianna Domus." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Sd_Wjashemski1.jpg" alt="Fig. 1: Plan of the Sollertianna Domus." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the Sollertianna Domus. (CMT, plans 1-2)&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -2335,7 +2335,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -2372,7 +2372,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hba_malek%20fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hba_malek%20fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Bacchus and Ariadne. (CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -2380,21 +2380,21 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/photography_of_the_decayed_tree_root.jpg" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/photography_of_the_decayed_tree_root.jpg" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" onclick="zoom(this)">
  &lt;figcaption>Fig. 2: Decayed tree root 23 cm in diameter. (Photo J. Foss, Jashemski, W. F., 1995, fig. 5)&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" onclick="zoom(this)">
  &lt;figcaption>Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 7)&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" onclick="zoom(this)">
  &lt;figcaption>Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 11)&lt;/figcaption>
 &lt;/figure>
 &lt;!--convert photos to jpeg-->
@@ -2432,7 +2432,7 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -2456,7 +2456,7 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hn_Wjashemski1.jpg" alt="Plan of the House of Nicentus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hn_Wjashemski1.jpg" alt="Plan of the House of Nicentus" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Nicentus ( CMT, V. II, fasc.1, plan 10-11)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -2487,7 +2487,7 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_the_palms.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_the_palms.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -2509,7 +2509,7 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/house_of_palms.jpg" alt="Plan of the House of the Palms " loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/house_of_palms.jpg" alt="Plan of the House of the Palms " onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Palms (CMT, V. II, fasc.1, plan 25-26. )&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -2541,7 +2541,7 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_protomes.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_protomes.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -2567,7 +2567,7 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hp_Wjashemski1.jpg" alt="Plan of the House of the Protomes" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hp_Wjashemski1.jpg" alt="Plan of the House of the Protomes" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Protomes (CMT, V. II, fasc.3, plan 4-5)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -2597,7 +2597,7 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_the_trussed_animals.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_the_trussed_animals.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="zoom(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -2620,7 +2620,7 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hta_Wjashemski1.jpg" alt="Plan of the House of the Trussed Animals" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hta_Wjashemski1.jpg" alt="Plan of the House of the Trussed Animals" onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Trussed Animals (CMT, plan 21, 22)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

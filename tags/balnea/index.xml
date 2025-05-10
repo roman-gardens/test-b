@@ -47,7 +47,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/severan_complex_fig1.jpg" alt="Plan of the Palatine" loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/severan_complex_fig1.jpg" alt="Plan of the Palatine" onclick="zoom(this)">
  &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -82,7 +82,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -112,7 +112,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -120,7 +120,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." onclick="zoom(this)">
  &lt;figcaption>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -153,7 +153,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -183,7 +183,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="zoom(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -191,14 +191,14 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="zoom(this)">
  &lt;figcaption>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." loading="lazy" onclick="zoom(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="zoom(this)">
  &lt;figcaption>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
