@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-b/province/britannia/gatcombe/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2020 15:13:29 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-b/province/britannia/gatcombe/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Estate in Gatcombe</title><link>https://roman-gardens.github.io/test-b/province/britannia/gatcombe/gatcombe_rural_estate/</link><pubDate>Fri, 10 Jul 2020 15:13:29 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/britannia/gatcombe/gatcombe_rural_estate/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/britannia/">Britannia&lt;/a>&lt;/p>
+&lt;p>&lt;a href="">Britannia&lt;/a>&lt;/p>
 &lt;h2 id="province-description">Province Description&lt;/h2>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/britannia/gatcombe/">Gatcombe&lt;/a> &lt;br>
@@ -25,12 +25,13 @@ A sublocation is any area larger than an individual garden, but located within a
 ### Maps
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/Gatcombe_fig_12_or_8.1.jpg"
- alt="Fig. 1: Plan of the farm with villa buildings (A).">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the farm with villa buildings (A).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/gatcombe/Gatcombe_fig_12_or_8.1.jpg" alt="Fig. 1: Plan of the farm with villa buildings (A)." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the farm with villa buildings (A).&lt;/figcaption>
+&lt;/figure>
 &lt;!--
 ### Images
 -->

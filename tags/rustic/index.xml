@@ -20,18 +20,20 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>D. A rustic shrine was attached to the north side of the house and a long narrow garden (d) was located here. There was evidence of earlier construction at this location.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/herculaneum_or.i_d.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_i/house_2-3/herculaneum_or.i_d.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-d.jpg"
- alt="Herculaneum - insula orientalis I. 1-3-d">&lt;figcaption>
- &lt;h4>Herculaneum - insula orientalis I. 1-3-d&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_i/house_2-3/h_orientalis_1_1-3-d.jpg" alt="Herculaneum - insula orientalis I. 1-3-d" onclick="fullscreen(this)">
+ &lt;figcaption>Herculaneum - insula orientalis I. 1-3-d&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -46,4 +48,4 @@
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>
+&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>

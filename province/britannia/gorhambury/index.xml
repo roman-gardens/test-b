@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-b/province/britannia/gorhambury/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2020 10:45:22 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-b/province/britannia/gorhambury/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Gorhambury</title><link>https://roman-gardens.github.io/test-b/province/britannia/gorhambury/gorhambury_rural_villa/</link><pubDate>Sat, 11 Jul 2020 10:45:22 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/britannia/gorhambury/gorhambury_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/britannia/">Britannia&lt;/a>&lt;/p>
+&lt;p>&lt;a href="">Britannia&lt;/a>&lt;/p>
 &lt;h2 id="province-description">Province Description&lt;/h2>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/britannia/gorhambury/">Gorhambury&lt;/a> &lt;br>
@@ -29,12 +29,13 @@ A sublocation is any area larger than an individual garden, but located within a
 ### Maps
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/Gorhambury_13_or_9.1.jpg"
- alt="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/gorhambury/Gorhambury_13_or_9.1.jpg" alt="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)&lt;/figcaption>
+&lt;/figure>
 &lt;!--
 ### Images
 -->

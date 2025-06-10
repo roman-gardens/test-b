@@ -49,33 +49,37 @@
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig1.jpg"
- alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name">&lt;figcaption>
- &lt;h4> Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" onclick="fullscreen(this)">
+ &lt;figcaption> Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig2.jpg"
- alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex">&lt;figcaption>
- &lt;h4> Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" onclick="fullscreen(this)">
+ &lt;figcaption> Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig3.jpg"
- alt="Base plan of the Hercules Musarum">&lt;figcaption>
- &lt;h4>Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig3.jpg" alt="Base plan of the Hercules Musarum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig4.jpg"
- alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas">&lt;figcaption>
- &lt;h4>Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)&lt;/p>
@@ -145,26 +149,29 @@
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig1.jpg"
- alt="Photograph of the Severan Forma Urbis depicting the Divorum">&lt;figcaption>
- &lt;h4>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig2_edited.jpg"
- alt="Reconstructed plan of the Divorum">&lt;figcaption>
- &lt;h4>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig3_placeholder.jpg"
- alt="Perspective view looking north along the central axis of the Divorum">&lt;figcaption>
- &lt;h4>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>80 CE&lt;/p>
@@ -213,12 +220,13 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Fourteen fluted white columns supported a portico that enclosed this large garden (a) at the rear of the tablinium. A fence had been attached to the outside of the columns as evidenced by holes with metal pieces remaining; the top holes placed 0.75 m. high. A grand view the length of the garden could be enjoyed from the large exedra (b) to the south, framed by two columns, and many other surrounding rooms had garden views.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.5._region_viii._insula_iii.png"
- alt="Plan of Region VIII Insula III">&lt;figcaption>
- &lt;h4>Plan of Region VIII Insula III&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iii/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Region VIII Insula III&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -263,19 +271,21 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Eighteen partially fluted columns supported the large portico (a) surrounding this spacious peristyle garden. Excavated in 1861, the garden was located at the rear of the tablinum and could be viewed from the large triclinium on the east or the exedra on the west. A wooden fence had enclosed the garden as evidenced by the vertical slots in the columns where the fence had been secured. The portico held two puteals, one marble and the other travertine. A gutter circled the garden and at the south end a pool 0.90 x 1.05 m.; 0.18 m. deep contained a fountain. There was also a fountain located in the atrium, which became a common house feature after the completion of the aquaduct. At the edge of the marble impluvium two ornate trapezophori flanked a round opening containing the bronze water key that controlled the water jet in the center of the impluvium.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.20.region_viii._insula_iv.png"
- alt="Plan of Region VIII Insula IV">&lt;figcaption>
- &lt;h4>Plan of Region VIII Insula IV&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Region VIII Insula IV&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.13.viii.iv.15_11.10.59.jpg"
- alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.13.viii.iv.15_11.10.59.jpg" alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -316,31 +326,35 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The earthquake most likely was the reason the corner columns were reinforced by pillars on this portico which originally had an upper gallery or loggia. This portico surrounded an elegant garden (a) which was excavated in 1861. The northeast corner had a wall between the columns; the rest of the columns were connected by a wooden fence. Fig. 10, 8.17.78 A water jet in the center of the garden spouted from a round marble table on a column into a pool 1.40 x 1.55 m.; 1.35 m. deep. The pool had eight iron hooks which Fiorelli suggested were for securing food items that could be kept cool by the flowing water and the shade provided by surrounding trees and shrubs. A marble monopodium was found in the northwest corner of the garden amidst the plantings. Visible across the length of the garden from the street entrance was the marble fountain statuette of a boy with a duck under his arm holding a vase in his right hand from which water cascaded down marble water steps into a channel. A channel around the perimeter of the garden caught the water that sprung from bronze pipes concealed in the columns at a height of about 1.25 m. from ground level. An excellent view of the garden could be enjoyed from the rooms on each side including the large exedra on the south, and on the southeast, the wide portico could have been used as a summer triclinium. The graffiti in this house included a notation of the purchase of sale of 200 lbs. of hog’s lard and 250 bunches of garlic in July: IIX ID IVLIAS AXVNGIA P CC/ ALIV (m) MANVPLOS CCL (CIL IV. 2070) scratched on the right wall. The corner pillar of the portico counseled: MORAM SI QVARES / SPARGE MILIV (m) ET COL/ LIGE (CIL IV. 2069), if you want to waste time, scatter millet and then pick it up.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.20.region_viii._insula_iv.png"
- alt="Plan of Region VIII Insula IV">&lt;figcaption>
- &lt;h4>Plan of Region VIII Insula IV&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Region VIII Insula IV&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/fig.10.viii.iv.4_8.17.78.jpg"
- alt="Fig. 10, 8.17.78 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 10, 8.17.78 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.10.viii.iv.4_8.17.78.jpg" alt="Fig. 10, 8.17.78 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 10, 8.17.78 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig.11.viii.iv.4_11.12.59.jpg"
- alt="Fig. 11, 11.12.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 11, 11.12.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.11.viii.iv.4_11.12.59.jpg" alt="Fig. 11, 11.12.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11, 11.12.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig.12_viii.iv.4_11.13.59.jpg"
- alt="Fig. 12, 11.13.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 12, 11.13.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.12_viii.iv.4_11.13.59.jpg" alt="Fig. 12, 11.13.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12, 11.13.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -503,26 +517,29 @@ Esquiline Hill &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilinu
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/porticusliviae_fig1.jpg"
- alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder">&lt;figcaption>
- &lt;h4>Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!-- -->
-&lt;figure>&lt;img src="../images/porticusliviae_fig2.jpg"
- alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae">&lt;figcaption>
- &lt;h4>Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!-- -->
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Entrance to the Porticus Liviae">&lt;figcaption>
- &lt;h4>Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres.&lt;/h4>
- &lt;/figcaption>
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109.&lt;/figcaption>
 &lt;/figure>
--->
+&lt;!-- -->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/porticusliviae_fig2.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres.&lt;/figcaption>
+&lt;/figure>
+&lt;!-- -->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Entrance to the Porticus Liviae" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres.&lt;/figcaption>
+&lt;/figure>-->
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>7 CE&lt;/p>
@@ -613,24 +630,27 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Domus_Tiberiana">&lt;em>Domus Tiberiana&lt;/em>&lt;/a> on the Palatine was incorporated into the &lt;em>Domus Aurea&lt;/em>. Resting on &lt;a href="http://vocab.getty.edu/page/aat/300004295">cryptoporticoes&lt;/a> and vaulted substructures, the palace was surrounded by &lt;a href="http://vocab.getty.edu/page/aat/300002613">colonnades&lt;/a> which opened onto a &lt;a href="http://vocab.getty.edu/page/aat/300008100">hanging garden&lt;/a> (&lt;em>nemora pensile&lt;/em>), accessible from the Forum by a grand staircase on the north and another to the east.&lt;/p>
 &lt;p>The unfinished Temple to the Divine Claudius became a monumental &lt;a href="http://vocab.getty.edu/page/aat/300006809">&lt;em>nymphaeum&lt;/em>&lt;/a>. The eastern wall of the temple platform was transformed into ornamental &lt;a href="http://vocab.getty.edu/page/aat/300002704">niched&lt;/a> &lt;a href="http://vocab.getty.edu/page/aat/300002526">facades&lt;/a> with abundant &lt;a href="http://vocab.getty.edu/page/aat/300006179">fountain&lt;/a> jets fed by a new branch of the &lt;a href="https://pleiades.stoa.org/places/423563">&lt;em>Aqua Claudia&lt;/em>&lt;/a>. The &lt;a href="http://vocab.getty.edu/page/aat/300010463">brick&lt;/a> remains of this &lt;em>nymphaeum&lt;/em> are visible today along the &lt;a href="https://pleiades.stoa.org/places/688514720">&lt;em>Via Claudia&lt;/em>&lt;/a>&lt;!--(Fig. 3)-->. The water features drained into the &lt;em>stagnum&lt;/em>.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_aurea_fig1.jpg"
- alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana">&lt;figcaption>
- &lt;h4>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Gardens of the Oppian palace">&lt;figcaption>
- &lt;h4>Figure 2. Gardens of the Oppian palace (image source).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/figcaption>
 &lt;/figure>
--->
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Photograph of Neronian nymphaeum on the Caelian">&lt;figcaption>
- &lt;h4>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Gardens of the Oppian palace" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2. Gardens of the Oppian palace (image source).&lt;/figcaption>
+&lt;/figure>-->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>post-64 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -711,12 +731,13 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_asinus_nica.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -740,19 +761,21 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>The open area of this peristyle garden, about 9 by 8.5 meters in size, is enclosed by 1 meter-high walls and divided into compartments. Some these were pools, as we can still see hydraulic mortar inside. From the semi-circular pool, a rilled wall brought water to a lower pool, shaped as half a concave octagon. The eastern compartment was a pool that may have been decorated with a water spout, of which only bases remain. It contained a smaller pool, rectangular with two niches. In the western compartment, no mortar was found; it was certainly planted. Four quoining pillars, standing directly on the rock, and eight columns, sitting on low walls, supported the four porticoes that were paved with geometrical mosaics.&lt;/p>
 &lt;p>The house lacked wide-open views from exedra and from the galleries towards the pools and the gardens. This irregularity can be explained by the presence of a first floor opening directly onto the Cardo Maximus, the existence of which is shown by a staircase with seven steps. A reception room was located on the first floor, so that the enclosed garden and the pools could be seen through windows or galleries from the upper floor. From this elevation, the luxurious decoration and lavish use of water would have been seen to full effect.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_asinus_nica_plan1.jpg"
- alt="Plan of the House of Asinus Nica.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_asinus_nica_photo.jpg"
- alt="View of the garden.">&lt;figcaption>
- &lt;h4>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-5th century CE&lt;/p>
 &lt;!--#### Excavation Dates
@@ -779,12 +802,13 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_castorius.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -807,25 +831,28 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>We can see the complex building of Late Antiquity (1500 m2), centered around the peristyle, with a large central area (8.10 x 7.70 m) (Fig. 1). The bases of the columns (four on each side) are not visible; therefore, they seem to lay on a lower level, hidden by later phase of construction. During the first half of the fifth century, low walls were set against the columns, except on the west side, where the open area was entered from the gallery. On the north side, an apse, paved with a mosaic representing a shell, encroaches upon the inner space. On the east side, in front of the large exedra XVIII, a mass of masonry includes three small semi-circular pools. A large rectangular fish pool rests against the mass of masonry; there are little terracotta amphoras inside the edges. At the center of this pool, rose a tall hexagonal base engraved with an ivy scroll and unreadable inscriptions, standing on a hollow base. The peristyle galleries were paved with mosaics: there were geometric patterns and two inscriptions glorifying the owner Castorius and his family.&lt;/p>
 &lt;p>The L shaped space between the fish pool and the columns was probably planted.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_castorius_plan1.jpg"
- alt="Plan of the House of Castorius.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_castorius_photo1.jpg"
- alt="Southwest corner of the peristyle XVI, the L shaped planted area.">&lt;figcaption>
- &lt;h4>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_castorius_photo2.jpg"
- alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool.">&lt;figcaption>
- &lt;h4>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>5th century&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -873,39 +900,44 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora of the Italians was never referred to as an agora, but probably as a &lt;em>pastas italike&lt;/em> (as restored in Roussel and Launey, &lt;em>Inscriptions de Délos&lt;/em>, no. 2612). The Latin translation of this could have been &lt;em>porticus Italica&lt;/em> or &lt;em>porticus Italicorum&lt;/em> which would have more appropriate for a luxurious garden-portico, rather than the agora or forum.&lt;/p>
 &lt;!--
 ### Maps
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/truemper1.png"
- alt="Plan of the agora">&lt;figcaption>
- &lt;h4>Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper1.png" alt="Plan of the agora" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/truemper2.png"
- alt="Plan of the agora with surrounding buildings">&lt;figcaption>
- &lt;h4>Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper2.png" alt="Plan of the agora with surrounding buildings" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/truemper3.jpg"
- alt="Photo of Agora of the Italians from the southwest">&lt;figcaption>
- &lt;h4>Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper3.jpg" alt="Photo of Agora of the Italians from the southwest" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/truemper4.jpg"
- alt="Photo of Agora of the Italians from the southeast">&lt;figcaption>
- &lt;h4>Fig. 4: Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper4.jpg" alt="Photo of Agora of the Italians from the southeast" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-1st c. BCE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -959,12 +991,13 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The excavation of this site was begun in 1873-1874 and is still incomplete. A silver bust, supposedly of the emperor Galba, found in the street in front of this house gave the site its name. Twelve stuccoed tufa columns support a portico which encloses this peristyle garden. A marble faced cruciform basin in the center contained a small column with a fountain. The columns were connected by a low wall with an entrance on the east opposite the exedra providing a view of the garden and fountain.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/herculaneum_casa_di_galba.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_vii/herculaneum_casa_di_galba.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -978,7 +1011,7 @@ Ruggiero, &lt;em>Ercolano&lt;/em>, p. 663 &lt;a href="http://www.worldcat.org/oc
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 20210&lt;/p></description></item><item><title>Petra Garden and Pool Complex</title><link>https://roman-gardens.github.io/test-b/province/arabia_petraea/petra/arabia-petragarden/</link><pubDate>Thu, 08 Oct 2020 10:30:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/arabia_petraea/petra/arabia-petragarden/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Petra Garden and Pool Complex</title><link>https://roman-gardens.github.io/test-b/province/arabia_petraea/petra/arabia-petragarden/</link><pubDate>Thu, 08 Oct 2020 10:30:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/arabia_petraea/petra/arabia-petragarden/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/arabia_petraea/">Arabia Petraea&lt;/a>&lt;br>
 &lt;a href="https://pleiades.stoa.org/places/981506">Arabia (province) (Pleiades)&lt;/a>&lt;/p>
 &lt;p>The
@@ -1033,62 +1066,71 @@ story of Roman Arabia begins with the death of the Nabataean king, &lt;a href="h
 &lt;p>The Petra garden continued in use after the Roman annexation of Petra in 106 CE, at which time the Great Temple was converted into an &lt;em>odeion&lt;/em> or &lt;em>bouleutereion&lt;/em>. It is likely that, within this context, the garden functioned as a public park much like the urban parks in contemporary Rome. Several examples of evidence for renovations have been identified with this phase of the site. For example, the addition of a bridge allowed easy access to the island-pavilion that was originally only accessible by swimming or possibly boating. In addition, a reorganization of the hydraulic system may represent a new approach to water consumption influenced by the Romans, whose rules about the use of natural resources differed from those of local inhabitants.&lt;/p>
 &lt;p>A deep deposit of sediment above the pool floor indicates that the pool went out of use or was not well-maintained for a period of time before the collapse of the pavilion walls into the pool as a result of the earthquake of 363 CE that caused much destruction in Petra. The remnants of later walls, evidence for the reuse of the hydraulic installations, and a raised field that occupies part of the earthen terrace, testify to the continued use of the site for agricultural purposes through the post-Roman occupation of Petra and into the modern era.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
-&lt;figure>&lt;img src="../images/1_arabia_petraea_map.jpg"
- alt="Map of Petra location">&lt;figcaption>
- &lt;p>Fig. 1: Map showing the location of ancient Petra in Arabia Petraea. Map by L.-A. Bedal, based on &lt;a href="https://commons.wikimedia.org/w/index.php?curid=26047529">Andrein with the assistance of EraNavigator&lt;/a>&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/2_arabia_petra_city_center.jpg"
- alt="Plan of Petra&amp;#39;s city center">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Petra&amp;#39;s city center showing the location of the garden and pool complex on the Southern Terrace. Plan by L.-A. Bedal&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/2_arabia_petra_city_center.jpg" alt="Plan of Petra&amp;#39;s city center" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Petra&amp;#39;s city center showing the location of the garden and pool complex on the Southern Terrace. Plan by L.-A. Bedal&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/3_arabia_petra_garden_plan.jpg"
- alt="Archaeological plan showing garden and pool complex">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of the garden and pool complex, 2018. Permission of L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/3_arabia_petra_garden_plan.jpg" alt="Archaeological plan showing garden and pool complex" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of the garden and pool complex, 2018. Permission of L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/4_arabia_petra_gpr.jpg"
- alt="plan of ground-penetrating radar results">&lt;figcaption>
- &lt;h4>Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/4_arabia_petra_gpr.jpg" alt="plan of ground-penetrating radar results" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/5_arabia_petra_southernterrace.jpg"
- alt="View of the Southern Terrace and its structures">&lt;figcaption>
- &lt;h4>Fig. 5: Aerial view of the structures on the Southern Terrace in Petra&amp;#39;s City Center. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/5_arabia_petra_southernterrace.jpg" alt="View of the Southern Terrace and its structures" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Aerial view of the structures on the Southern Terrace in Petra&amp;#39;s City Center. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/6_arabia_petra_pathway.jpg"
- alt="Overhead view of Trench 17">&lt;figcaption>
- &lt;h4>Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/6_arabia_petra_pathway.jpg" alt="Overhead view of Trench 17" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/7_arabia_petra_trellis.jpg"
- alt="Imagined reconstruction of the trellised pathway">&lt;figcaption>
- &lt;h4>Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/7_arabia_petra_trellis.jpg" alt="Imagined reconstruction of the trellised pathway" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/8_arabia_petra_flowerpot.jpg"
- alt="Photo and illustrations of an unglazed ceramic pot with small round hole">&lt;figcaption>
- &lt;h4>Fig. 8: Fragment of a perforated planting pot with reconstruction drawing. Photo and drawing by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/8_arabia_petra_flowerpot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 8: Fragment of a perforated planting pot with reconstruction drawing. Photo and drawing by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/9_arabia_petra_garden_fresco.jpg"
- alt="Painted ceiling in a vaulted room.">&lt;figcaption>
- &lt;h4>Fig. 9: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/9_arabia_petra_garden_fresco.jpg" alt="Painted ceiling in a vaulted room." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 9: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="tables">Tables&lt;/h3>
 &lt;p>Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey and Bedal 2015)&lt;/p>
 &lt;style>
@@ -1833,59 +1875,66 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_41_I.vii.11_12_11.32.59.jpg"
- alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_42_I.vii.12_14.3.68.jpg"
- alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_42_I.vii.12_14.3.68.jpg" alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_43_I.vii.11_33.27.61.jpg"
- alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_43_I.vii.11_33.27.61.jpg" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_44_I.vii.11_12_11.33.59.jpg"
- alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1925.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1961,12 +2010,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1873-1874.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -2030,30 +2080,33 @@ At the center of the plan was a large garden defined on three sides (north, sout
 After the death of Herodes the villa probably became imperial property. A phase dating to the Tetrarchy is attested, and during the time of Constantine a mosaic, depicting the Circus Maximus, was added. The villa was destroyed by an earthquake in A.D. 400 A.D. and by the invasions of the Goths.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>From the 2nd century CE until 400 CE&lt;/p>

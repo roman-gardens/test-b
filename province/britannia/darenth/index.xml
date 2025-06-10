@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-b/province/britannia/darenth/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 12:08:30 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-b/province/britannia/darenth/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Darenth</title><link>https://roman-gardens.github.io/test-b/province/britannia/darenth/darenth_rural_villa/</link><pubDate>Wed, 08 Jul 2020 12:08:30 -0400</pubDate><guid>https://roman-gardens.github.io/test-b/province/britannia/darenth/darenth_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/britannia/">Britannia&lt;/a>&lt;/p>
+&lt;p>&lt;a href="">Britannia&lt;/a>&lt;/p>
 &lt;h2 id="province-description">Province Description&lt;/h2>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/province/britannia/darenth/">Darenth&lt;/a> &lt;br>
@@ -30,12 +30,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;!-- The Gs referenced in the article are not clear as there are three Gs in the figure-->
 &lt;!--### Maps-->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/darenth.png"
- alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/darenth/darenth.png" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>ca. 100 CE - late 4th century CE&lt;/p>
