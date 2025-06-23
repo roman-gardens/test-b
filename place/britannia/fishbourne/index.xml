@@ -4,7 +4,7 @@
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-b/place/britannia/fishbourne/">Fishbourne&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/79466">Fishbourne (Pleiades)&lt;/a>&lt;/p>
+&lt;a href="https://pleiades.stoa.org/places/79466">Fishbourne&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;!--## Sublocation-->
@@ -16,7 +16,7 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Roman Palace in Fishbourne&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="#">archaeological gardens&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300045614">basins (vessels)&lt;/a>&lt;/li>
@@ -28,7 +28,7 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300404778">terrace gardens&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008142">vegetable gardens&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE. Carefully excavated by Barry Cunliffe, using techniques of environmental archaeology, the garden excavations at the palace have long served as a model in the development of Roman garden archaeology, although the findings did not initially prompt the investigation of other gardens in Britain. Today the site has been developed for display and education.&lt;/p>
 &lt;p>The palace contains gardens within its internal courtyards, as well in a larger area to the south, where terraces and other landscape architectural features lay between the residence and the deep water channel (Fig 1.). The main garden of the palace is located in the large central courtyard, and dates to the late 1st century CE. Only the northern half has been excavated, while the remainder lies beneath the gardens of adjacent houses. The garden is bisected by a wide path leading between the entrance to the villa and a large audience hall. Lining the path, bedding trenches in alternating rectangular and semi-circular patterns survived as patterns of dark gray loam against an ochre-colored clay and gravel subsoil. Similar cuttings were found along the colonnades.&lt;/p>
 &lt;p>Pollen samples were taken in the garden areas in the hope that traces of pollen had survived from flowers and shrubs that had grown in the garden. Unfortunately, only a small quantity of pollen from weeds of cultivation, such as plantain and daisy, remained. As no positive archaeobotanical evidence for specific plants survived on site, literary sources were used to select plants that would have survived in the conditions of this northern province. Pliny the Younger refers to clipped box lining the edges of the pathways in the gardens of his Tuscan estate. This lime-loving shrub would have been very appropriate in the deliberately marled loam of these trenches, so, in 1968, it was planted and has thrived. Figure 2 shows the excavated trenches, and figure 3 shows the replanted box.&lt;/p>
@@ -37,7 +37,7 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>There is circumstantial evidence for there having been a vegetable garden in the angle between the ends of the north and west wings of the palace where there is a dark, humus-rich soil containing heavily abraded pottery, suggesting that the soil had been intensively cultivated. It also had its own water supply, provided through wooden pipes with iron collars.&lt;/p>
 &lt;p>Limited excavations to the south of the palace revealed an artificial terrace which bore evidence of landscaping, including a pool, a gravel path, possible bedding trenches and what may have been the base for a column or statue. Excavations to the east of the palace in the mid 1980's uncovered evidence for semi-formal gardens.&lt;/p>
 &lt;!-- ### Maps -->
-&lt;h3 id="plans">Plans&lt;/h3>
+&lt;h2 id="plans">Plans&lt;/h2>
 
 
 
@@ -48,7 +48,7 @@ A sublocation is any area larger than an individual garden, but located within a
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/fishbourne/fishbourne-fig-1.jpg" alt="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="images">Images&lt;/h3>
+&lt;h2 id="images">Images&lt;/h2>
 
 
 
@@ -69,11 +69,11 @@ A sublocation is any area larger than an individual garden, but located within a
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/fishbourne/fishbourne-fig-3.jpg" alt="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="dates">Dates&lt;/h3>
+&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>late 1st century CE - unspecified&lt;/p>
-&lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
+&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
 &lt;p>1961-69, mid 1980s&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>M. Carroll, &lt;em>Earthly Paradises. Ancient Gardens in History and Archaeology.&lt;/em> London: The British Museum Press, 2003, 86, fig. 66; 101, fig. 79&lt;/li>
 &lt;li>M. Carroll, They came, they saw, they gardened. &lt;em>The Garden: Journal of the Royal Horticultural Society&lt;/em> 128.6, 2003, 460-463, figs. p. 462&lt;/li>
@@ -84,13 +84,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;/ul>
 &lt;!--#### Periodo ID-->
 &lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/79466">79466&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7032567">7032567&lt;/a>&lt;/p>
-&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;h2 id="pleiades-id">Pleiades ID&lt;/h2>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/79466">Fishbourne&lt;/a>&lt;/p>
+&lt;h2 id="tgn-id">TGN ID&lt;/h2>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7032567">Fishbourne Roman Palace (historic site)&lt;/a>&lt;/p>
+&lt;h2 id="contributor">Contributor&lt;/h2>
 &lt;p>&lt;a href="https://classics.cornell.edu/kathryn-gleason">Kathryn Gleason&lt;/a> (ORCID:&lt;a href="https://orcid.org/0000-0001-6260-8378">0000-0001-6260-8378&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;h2 id="publication-date">Publication date&lt;/h2>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
 &lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
