@@ -18,11 +18,12 @@ a + a[target=_blank] {
 }
 a[target=_blank], a[target=_blank]:hover {
   font-family: "Candara", "Arial", sans-serif;
-  color: #44f;
+  color: #44f ! important;
 }
 a[target=_blank]::after {
   content: "🗗";
   padding-left: 2px;
+  padding-right: 2em;
 }
 
 
@@ -342,7 +343,7 @@ table.meta a {
 }
 
 table.meta tr.draft {
-  background: #fff2e7;
+  background: #fda; /* #fff2e7; */
 }
 
 table.meta .path {

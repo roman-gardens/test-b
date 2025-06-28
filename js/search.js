@@ -22,6 +22,9 @@ function displayResults (qterms, results, store) {
 
       // find text around first instance of first query term
       let q1 = qterms[0].normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+      // find singular even when query is plural
+      // TODO: can we use lunr's stemming?
+      q1 = q1.replace(/s$/, 's?')
       let re = new RegExp(`^.*?(.{0,140})(${q1})(.{0,140}).*?$`, 'is')
       // extract and highlight first term
       let snippet = content.replace(re, '$1<em>$2</em>$3')
@@ -77,7 +80,9 @@ if (q) {
   // Only return results that contain ALL query terms
   let qterms = q.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\W+/g, ' ').trim().split(' ')
   let qall = '+' + qterms.join(' +')
-  console.log(qall)
+
+  // remove some stopwords -- TODO: can lunr do this for us?
+  qall = q.replaceAll(/\s?\\+(at|in|of|the)/g, '')
 
   try {
     // Perform the search
