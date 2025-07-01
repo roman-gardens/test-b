@@ -63,36 +63,21 @@
 &lt;p>Limited excavations to the south of the palace revealed an artificial terrace which bore evidence of landscaping, including a pool, a gravel path, possible bedding trenches and what may have been the base for a column or statue. Excavations to the east of the palace in the mid 1980's uncovered evidence for semi-formal gardens.&lt;/p>
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/fishbourne/fishbourne-fig-1.jpg" alt="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 1: Plan of the Roman Palace showing the position of the gardens.&lt;div class="credit">Credit: Courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="images">Images&lt;/h2>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/fishbourne/fishbourne-fig-2.jpg" alt="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 2: View of formal garden excavation.&lt;div class="credit">Credit: Photo courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/div>&lt;/figcaption>
 &lt;/figure>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/fishbourne/fishbourne-fig-3.jpg" alt="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 3: View of replanted formal garden.&lt;div class="credit">Credit: Photo courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>late 1st century CE - unspecified&lt;/p>
@@ -147,8 +132,4 @@
 
 
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="publication-date">Publication date&lt;/h2>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--## Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>

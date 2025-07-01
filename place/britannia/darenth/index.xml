@@ -48,15 +48,10 @@
 &lt;!-- The Gs referenced in the article are not clear as there are three Gs in the figure-->
 &lt;!--## Maps-->
 &lt;h2 id="plans">Plans&lt;/h2>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/darenth/darenth.png" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" onclick="fullscreen(this)">
- &lt;figcaption>Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20.&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P).&lt;div class="credit">Credit: Adapted from Detsicas 1983, fig. 20.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;!--## Images-->
 &lt;h2 id="dates">Dates&lt;/h2>
@@ -106,8 +101,4 @@
 
 
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="publication-date">Publication date&lt;/h2>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--## Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>

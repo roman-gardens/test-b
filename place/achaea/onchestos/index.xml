@@ -51,15 +51,10 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/onchestos/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
+ &lt;figcaption>
+ CAPTION&lt;/figcaption>
 &lt;/figure>
 
 ## Plans
@@ -69,15 +64,10 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/onchestos/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
+ &lt;figcaption>
+ CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
 &lt;!--## Images-->
@@ -87,15 +77,10 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/onchestos/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
+ &lt;figcaption>
+ CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
 &lt;h2 id="dates">Dates&lt;/h2>

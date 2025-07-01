@@ -36,7 +36,7 @@
 &lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.1333">Strabo&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>We know of a grove of trees in the precinct of the temple of Poseidon, thanks to Pausanias’ and Strabo’s descriptions of it in the early 1st and the later 2nd century A.D. (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng1:8.6.22">Strab. 8.6.22&lt;/a>; &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.1.7">Paus. 2.1.7&lt;/a>). According to Pausanias, on one side of the precinct stood statues of athletes who had been victorious in the Isthmian games, and opposite them was a row of pine trees. The fact that these trees stood in a row suggests that they were intentionally planted.&lt;/p>
+&lt;p>We know of a grove of trees in the precinct of the temple of Poseidon, thanks to Pausanias' and Strabo's descriptions of it in the early 1st and the later 2nd century A.D. (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng1:8.6.22">Strab. 8.6.22&lt;/a>; &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.1.7">Paus. 2.1.7&lt;/a>). According to Pausanias, on one side of the precinct stood statues of athletes who had been victorious in the Isthmian games, and opposite them was a row of pine trees. The fact that these trees stood in a row suggests that they were intentionally planted.&lt;/p>
 &lt;!--## Maps-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -44,15 +44,10 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
+ &lt;figcaption>
+ CAPTION&lt;/figcaption>
 &lt;/figure>
 
 ## Plans
@@ -62,15 +57,10 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
+ &lt;figcaption>
+ CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
 &lt;!--## Images-->
@@ -80,15 +70,10 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
+ &lt;figcaption>
+ CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
 &lt;h2 id="dates">Dates&lt;/h2>

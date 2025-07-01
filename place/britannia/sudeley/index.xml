@@ -44,15 +44,10 @@
 ## Maps
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/sudeley/Sudeley_Fig_16_or_11.1.jpg" alt="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden" onclick="fullscreen(this)">
- &lt;figcaption>Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden.&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden.&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 ## Images
@@ -106,11 +101,4 @@
 
 
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="contributor">Contributor&lt;/h2>
-&lt;h2 id="orcid">ORCID:&lt;/h2>
-&lt;p>&lt;a href="https://orcid.org/0000-0001-9958-8032">Maureen Carroll&lt;/a>)&lt;/p>
-&lt;h2 id="publication-date">Publication date&lt;/h2>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--## Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>

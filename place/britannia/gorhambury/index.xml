@@ -45,15 +45,10 @@
 ## Maps
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/gorhambury/Gorhambury_13_or_9.1.jpg" alt="Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it. Adapted from Neal, Wardle, and Hunn. (Rights statement)&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 1: Plan of the farm with two ditched enclosures surrounding the house (H) and an avenue of trees or an arbor (A) leading to it.&lt;div class="credit">Credit: Adapted from Neal, Wardle, and Hunn.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 ## Images
@@ -62,7 +57,7 @@
 &lt;p>around A.D. 100 - 175&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>A. Selkirk, “Gorhambury,” &lt;em>Current Archaeology&lt;/em> 87, 1983: 120-121, fig. on p. 116.&lt;/li>
+&lt;li>A. Selkirk, &amp;quot;Gorhambury,&amp;quot; &lt;em>Current Archaeology&lt;/em> 87, 1983: 120-121, fig. on p. 116.&lt;/li>
 &lt;li>D.S. Neal, A. Wardle and J. Hunn, &lt;em>Excavation of the Iron Age, Roman and Medieval Settlement at Gorhambury, St. Albans&lt;/em>. English Heritage Report 14, London, 1990, p. 44, fig. 56. &lt;a href="https://search.worldcat.org/title/908621649">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -105,8 +100,4 @@
 
 
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="publication-date">Publication date&lt;/h2>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--## Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>

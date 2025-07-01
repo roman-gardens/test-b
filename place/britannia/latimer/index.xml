@@ -50,26 +50,16 @@
 ## Maps
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/latimer/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G).&lt;div class="credit">Credit: Adapted from Branigan 1971, fig. 20.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="images">Images&lt;/h2>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/latimer/Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 2: Reconstruction of the house and garden.&lt;div class="credit">Credit: Courtesy of K. Branigan.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>early 4th century CE - unspecified&lt;/p>
@@ -78,7 +68,7 @@
 &lt;li>K. Branigan, Latimer. &lt;em>Belgic, Roman, Dark Age and Early Modern Farm&lt;/em>, Bristol, 1971, pp. 85-86, 184, figs. 14, 20 &lt;a href="https://search.worldcat.org/title/462254320">(worldcat)&lt;/a>&lt;/li>
 &lt;li>M. Carroll, &lt;em>Earthly Paradises. Ancient Gardens in History and Archaeology.&lt;/em> London: The British Museum Press, 2003, 19, fig. 29&lt;/li>
 &lt;li>M. Carroll, They came, they saw, they gardened. &lt;em>The Garden: Journal of the Royal Horticultural Society&lt;/em> 128.6, 2003, 461, fig. p. 463&lt;/li>
-&lt;li>R.J. Zeepvat, “Roman Gardens in Britain,” in: A.E. Brown, ed., Garden Archaeology. Council for British Archaeology Research Report 78, London, 1991, p. 56, fig. 5.3. &lt;a href="https://search.worldcat.org/title/246578144">(worldcat)&lt;/a>&lt;/li>
+&lt;li>R.J. Zeepvat, &amp;quot;Roman Gardens in Britain,&amp;quot; in: A.E. Brown, ed., Garden Archaeology. Council for British Archaeology Research Report 78, London, 1991, p. 56, fig. 5.3. &lt;a href="https://search.worldcat.org/title/246578144">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -120,8 +110,4 @@
 
 
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="publication-date">Publication date&lt;/h2>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--## Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>

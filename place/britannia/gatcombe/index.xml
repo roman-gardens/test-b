@@ -35,15 +35,10 @@
 ## Maps
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
-
-
-
-
-
-
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/gatcombe/Gatcombe_fig_12_or_8.1.jpg" alt="Fig. 1: Plan of the farm with villa buildings (A)." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 1: Plan of the farm with villa buildings (A).&lt;/figcaption>
+ &lt;figcaption>
+ Fig. 1: Plan of the farm with villa buildings (A).&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 ## Images
@@ -95,8 +90,4 @@
 
 
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="publication-date">Publication date&lt;/h2>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--## Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>
