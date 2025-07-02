@@ -51,9 +51,9 @@
 &lt;/figure>
 &lt;h2 id="images">Images&lt;/h2>
 &lt;!-- &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/FILENAME" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
- CAPTION&lt;/figcaption>
+ &lt;/figcaption>
 &lt;/figure> -->
 &lt;!--
 -->

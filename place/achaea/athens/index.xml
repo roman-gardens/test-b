@@ -12,11 +12,7 @@
 
 NEEDED - search bibliography for plans.
 
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure> -->
+-->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>M. Crosby, &amp;quot;The Altar of the Twelve Gods in Athens,&amp;quot; &lt;em>Hesperia Suppl.&lt;/em> 8, Commemorative Studies in Honor of Theodore Leslie Shear. Princeton, 1949, pp. 82-103, 447-450, pl. 11-14. &lt;a href="https://www.jstor.org/stable/1353886">(JSTOR)&lt;/a>.&lt;/li>
@@ -84,21 +80,9 @@ NEEDED - search bibliography for plans.
 &lt;p>In the 4th century B.C., the schools and gardens of the philosophers Plato, Aristotle, Theophrastos and Epicurus were built in the vicinity of the gymnasia in the suburbs of Athens. Like the gymnasia, these schools were held in especially high esteem by members of the wealthy, educated class of Roman society who eagerly absorbed Greek culture and often completed their education in Athens. It is difficult to say in exactly what condition these schools were at this time, but the memory of them in their prime was still vivid. The educational institutions of Athens were maintained until the emperor Justinian decreed that the schools be closed in 529 A.D.&lt;/p>
 &lt;p>Many dialogues and descriptions of private villas of Roman aristocrats reveal that parts of their estates were landscaped and designed to evoke Greek gymnasia and schools, where, in theory at least, hours could be spent discoursing and philosophizing. Parts of the villas, such as those of Cicero and the emperor Hadrian, were occasionally named 'Academy' and &amp;quot;Lykeion&amp;quot; after the gymnasia and schools of Athens.&lt;/p>
 &lt;p>Cicero set the scene in &lt;em>De finibus&lt;/em> &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi048.perseus-lat1:5.1">(5.1.3)&lt;/a> for a group of men in the Academy near the gardens of Epicurus in 79 B.C., and he mentioned the garden of Plato in the same suburb (&lt;em>Fin.&lt;/em> &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0474.phi048.perseus-lat1:5.1">5.1.2&lt;/a>). Roman statues of Epicurus and the Epicurean philosopher Colotes found outside the Dipylon gate on the road to the Academy may reflect some rebuilding prompted by Hadrian. Heliodoros (&lt;em>Aethiopica&lt;/em> &lt;a href="#">1.16.5&lt;/a>), writing in the 3rd century A.D., mentioned a gathering of men near the garden of Epicurus.&lt;/p>
-&lt;!-- ## Maps
-
-![alt_text](../images/image_name.ext)
-*CAPTION*
-
-## Plans
-
-![ALT_TEXT](IMG_URL)
-*CAPTION*
-
-## Images
-
-![alt_text](../images/image_name.ext)
-*CAPTION*
--->
+&lt;!-- ## Maps -->
+&lt;!-- ## Plans -->
+&lt;!-- ## Images -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>E. Vanderpool, &amp;quot;The museum and garden of the peripatetics,&amp;quot; &lt;em>Archaiologikē Ephemeris,&lt;/em> 1953-1954, pt. 2: 126-28. &lt;a href="https://search.worldcat.org/title/646185402">(worldcat)&lt;/a>.&lt;/li>
@@ -160,11 +144,6 @@ NEEDED - search bibliography for plans.
 &lt;p>Ancient literary references to the plane, elm, poplar, and olive trees in the Academy are numerous. Excavations in the suburb of Academy have shown that a new gymnasium was built there in the late Hellenistic/early Roman period. This gymnasium consisted of a central courtyard enclosed by porticoes on all four sides (Fig. 1). The northern wing of the building complex contained rooms which were probably used as libraries and for lectures, while the south, west and east wings appear to have had a row of desks, of which only the stone bases remain, running down the middle of each corridors. The courtyard itself may have been used as a palaestra for training, although by this period Greek education focused less on physical training than on lectures, debates, and literary study. The courtyard had a pool in the center (P on plan) and a podium for statues (S on plan), possibly of the Muses, at the northern end, both of which certainly would have restricted any space for athletics. No paving in the courtyard could be found, and it possible that it was planted in some way, perhaps with shade trees (G on plan).&lt;/p>
 &lt;!--## Maps-->
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
@@ -174,11 +153,6 @@ NEEDED - search bibliography for plans.
 &lt;/figure>
 &lt;!--## Images-->
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
@@ -297,15 +271,10 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>The most monumental building dedicated to education and intellectual pursuits in Athens was the so-called Library of Hadrian (Fig. 1). It consisted of four columned halls with exedrae at regular intervals on the north and south sides, and a library room flanked by lecture halls on the east.&lt;br>
-In the center of the building was a large open peristyle courtyard with a long pool (stippled on plan). The courtyard has been reconstructed as a garden (G on plan) in which students and scholars could stroll, and there were almost certainly statues in this area. One is reminded of Vitruvius' recommendation to plant the open areas between the colonnades of buildings with greenery, which he believed improved the air and made walks in this environment healthy for body and mind &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-eng1:5.9.5">(Vitr. 5.9.5.)&lt;/a>. The building bears a strong resemblance typologically, and very likely thematically, to the late Hellenistic/early Roman gymnasium outside the city in the &lt;a href="#">Academy&lt;/a>. Pausanias, our literary source for Hadrian's building projects in Athens, referred to the library as a splendid building with 100 columns, adorned with statues and paintings &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18.9">(Paus. 1.18.9)&lt;/a>.&lt;/p>
+&lt;p>The most monumental building dedicated to education and intellectual pursuits in Athens was the so-called Library of Hadrian (Fig. 1). It consisted of four columned halls with exedrae at regular intervals on the north and south sides, and a library room flanked by lecture halls on the east.&lt;/p>
+&lt;p>In the center of the building was a large open peristyle courtyard with a long pool (stippled on plan). The courtyard has been reconstructed as a garden (G on plan) in which students and scholars could stroll, and there were almost certainly statues in this area. One is reminded of Vitruvius' recommendation to plant the open areas between the colonnades of buildings with greenery, which he believed improved the air and made walks in this environment healthy for body and mind &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-eng1:5.9.5">(Vitr. 5.9.5.)&lt;/a>. The building bears a strong resemblance typologically, and very likely thematically, to the late Hellenistic/early Roman gymnasium outside the city in the &lt;a href="#">Academy&lt;/a>. Pausanias, our literary source for Hadrian's building projects in Athens, referred to the library as a splendid building with 100 columns, adorned with statues and paintings &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18.9">(Paus. 1.18.9)&lt;/a>.&lt;/p>
 &lt;!--## Maps-->
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
@@ -315,11 +284,6 @@ In the center of the building was a large open peristyle courtyard with a long p
 &lt;/figure>
 &lt;!--## Images-->
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>2nd century CE and later&lt;/p>
@@ -557,11 +521,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>It is possible that a garden might have been present in one of the inner courtyards of the building, especially since the complex was directly supplied by sufficient water from a late Roman aqueduct. The smallest of the courtyards (7 x 7 m.), the southeast court, was paved with terracotta tiles and cannot, therefore, have been planted, but the central courtyard seems not to have been paved (G on plan). The building stood on a plot of land of irregular shape that was enclosed within a boundary wall. This has been reconstructed as an informal garden area (G on plan), although no traces of plantings have survived. The complex was abandoned by ca. 530 A.D.&lt;/p>
 &lt;!--## Maps-->
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
@@ -571,11 +530,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/figure>
 &lt;!--## Images-->
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>early 5th century CE to ca. 530 CE&lt;/p>
@@ -693,11 +647,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>On the western edge of the Athenian Agora on Kolonos hill was the &lt;a href="https://en.wikipedia.org/wiki/Temple_of_Hephaestus">Temple of Hephaistos&lt;/a>, built in the second half of the 5th century B.C. Excavations in 1937 around the temple revealed numerous square planting pits cut into the living rock in the 3rd century B.C. and again in the 1st century B.C. (Fig. 1). Rock-cut planting pits were preserved in four rows on the south, with isolated examples of such pits on the north and west sides (G on plan). The excavator cogently argued for rows of plantings to the north, south and west of the temple. The lack of planting pits on the north and west sides can be explained by the fact that the rocky hill upon which the temple was built fell away sharply on the north and west, requiring leveling layers above the natural rock. Into these deposits trees or shrubs were planted, leaving no trace of planting pits in the rock below. On the steeper southern side, however, the rock slope had to be shaved off, necessitating the cutting of planting pits into the rock. Possibly more than 60 such pits were arranged in rows parallel to the temple in the 3rd century; two rows on the north and south sides, and one row on the west side. After the Roman destruction of many Athenian buildings by Sulla in 86 B.C., at least the south side was replanted and two more rows of pits dug, resulting in four rows of trees or shrubs on this side. In many of the pits was a terracotta planting pot in ashy soil at a depth of ca. 50 cm. These planting pots, possibly containing laurel and pomegranate shrubs, had drainage and root holes in the bottom. The lack of maintenance of the irrigation pipes leading to the garden caused the plantings to wither and die by the second half of the 1st century A.D. The garden has been replanted with myrtle bushes and pomegranate trees.&lt;/p>
 &lt;!--## Maps-->
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
@@ -707,11 +656,6 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/figure>
 &lt;!--## Images-->
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>3rd century BCE to the 3rd century CE&lt;/p>
@@ -833,16 +777,9 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>Several Roman houses in Athens make use of the remains of Classical and Hellenistic buildings, and, as far as we can tell, these houses generally had courtyards paved with marble chips, pebbles or tile set in mortar, rather than with gardens. One house on the northwest slope of the Areopagus, however, was of early Roman date and might have had a garden, since the surface of its peristyle courtyard was unpaved (Fig. 1). In the center of this courtyard was a rectangular water basin with apsidal ends, and in the southwest corner was a well.
-Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan). Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard. Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.&lt;/p>
+&lt;p>Several Roman houses in Athens make use of the remains of Classical and Hellenistic buildings, and, as far as we can tell, these houses generally had courtyards paved with marble chips, pebbles or tile set in mortar, rather than with gardens. One house on the northwest slope of the Areopagus, however, was of early Roman date and might have had a garden, since the surface of its peristyle courtyard was unpaved (Fig. 1). In the center of this courtyard was a rectangular water basin with apsidal ends, and in the southwest corner was a well.&lt;/p>
+&lt;p>Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan). Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard. Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.&lt;/p>
 &lt;!--## Maps-->
-&lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
--->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus1.jpg" alt="plan of an early Roman house with pool and courtyard" onclick="fullscreen(this)">

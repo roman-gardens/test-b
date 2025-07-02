@@ -61,21 +61,21 @@
 &lt;/figure>
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;!-- &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
- CAPTION&lt;/figcaption>
+ &lt;/figcaption>
 &lt;/figure> -->
 &lt;!--
- Waiting for plan from K. Gleason
+Waiting for plan from K. Gleason
 -->
 &lt;h2 id="images">Images&lt;/h2>
 &lt;!-- &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
- CAPTION&lt;/figcaption>
+ &lt;/figcaption>
 &lt;/figure> -->
 &lt;!--
- Waiting for columbarium photo from K. Gleason
+Waiting for columbarium photo from K. Gleason
 -->
 &lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/2_arabia_tyrus_pavilion_facade.jpg" alt="Facade of the Lion Pavilion" onclick="fullscreen(this)">
@@ -98,11 +98,6 @@
  Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer.&lt;/figcaption>
 &lt;/figure>
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>
- CAPTION&lt;/figcaption>
-&lt;/figure>
 -->
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>2nd century BCE - 1st century CE (Hellenistic-Early Roman period)&lt;/p>
