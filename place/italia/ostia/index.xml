@@ -704,7 +704,7 @@
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" onclick="fullscreen(this)">
  &lt;figcaption>
  Figure 1: Plan&lt;div class="credit">Credit: (from Morard, Wavelet 2002).&lt;/div>&lt;/figcaption>
-&lt;/figure> &lt;!--missing illustration-->&lt;/p>
+&lt;/figure> &lt;!-- missing illustration -->&lt;/p>
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>80-60 BCE to 20-40 CE&lt;/p>
 &lt;h2 id="excavation-date">Excavation Date&lt;/h2>
@@ -1296,7 +1296,7 @@
 &lt;a href="https://roman-gardens.github.io/test-b/search/?q=vases">vases&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300132254" title="Art and Architecture Thesaurus (Getty)">AAT:300132254&lt;/a>
 &lt;/li>
 &lt;/ul>
-&lt;!---->
+&lt;!-- -->
 &lt;ul>
 &lt;li>&lt;a href="https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.335.1">Cato&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1141">Pliny the Elder&lt;/a>&lt;/li>
@@ -1505,12 +1505,12 @@
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig18.jpg" alt="Plan of the Schola of the Trajan" onclick="fullscreen(this)">
  &lt;figcaption>
  Figure 1: Plan (from Morard, Wavelet).&lt;/figcaption>
-&lt;/figure> &lt;!--missing illustration-->&lt;/p>
+&lt;/figure> &lt;!-- missing illustration -->&lt;/p>
 &lt;p>&lt;figure>
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig19.jpg" alt="Photo of the courtyard and the House with Peristyle, reconstruction after the 1938 excavations" onclick="fullscreen(this)">
  &lt;figcaption>
  Figure 2: The courtyard and the House with Peristyle, reconstruction after the 1938 excavations (PA-OAnt, Photo Archive).&lt;/figcaption>
-&lt;/figure> &lt;!--missing illustration-->&lt;/p>
+&lt;/figure> &lt;!-- missing illustration -->&lt;/p>
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>erected 20-40 CE &lt;br>
 destroyed 160-200 CE&lt;/p>
