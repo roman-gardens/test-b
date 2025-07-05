@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Delos on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-b/place/achaea/delos/</link><description>Recent content in Delos on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-b/place/achaea/delos/index.xml" rel="self" type="application/rss+xml"/><item><title>Agora of the Italians</title><link>https://roman-gardens.github.io/test-b/place/achaea/delos/delos_agora_of_the_italians/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/place/achaea/delos/delos_agora_of_the_italians/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Delos on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-b/place/achaea/delos/</link><description>Recent content in Delos on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 05 Jul 2025 18:21:36 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-b/place/achaea/delos/index.xml" rel="self" type="application/rss+xml"/><item><title>Agora of the Italians</title><link>https://roman-gardens.github.io/test-b/place/achaea/delos/delos_agora_of_the_italians/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-b/place/achaea/delos/delos_agora_of_the_italians/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>2nd-1st c. BCE&lt;/p>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>The Agora of the Italians, with a size of some 6,000 square meters, is situated prominently in the center of Delos, between the famous sanctuary of Apollo to the south and the Sacred Lake to the north. The design of the Agora centers on a vast courtyard with four double-storied porticoes enclosing 3,450 square meters of an open unpaved terrain (Figs. 1-4). The colonnades are surrounded by the following rooms: (a) a series of three large exedrae (15, 30, 42) and four small exedrae (10, 23, 46, 98), which were all accessible by large thresholds on the ground floor level, with the exception of the raised exedra 98; (b) 27 rectangular (7, 9, 13, 18, 24, 32, 37, 39, 41, 44, 47, 54, 59, 97, 102, 105) and semicircular (16, 25, 30b, 34, 35, 68, 73, 90, 93, 95, 100) statue niches on all sides, which were not accessible, as their openings were closed by doors or grills and the thresholds of many were raised far above the ground floor level; (c) a bath suite with two round sweat baths in the north-west (27-31); (d) a group of three rooms in the west (20-22); and (e) two latrines to the west (5) and east (64). Access to the building is provided by a Doric propylon to the west (3) and two narrow side entrances to the west (2) and the east (70). Two rows of shops bordering the east and south porticoes as well as a row of shops on the northwestern corner of the building do not open to the interior of the Agora, but face the surrounding streets.&lt;/p>
@@ -11,23 +11,23 @@
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper1.png" alt="" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/truemper1.png" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase).&lt;div class="credit">Credit: Drawing by M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper2.png" alt="" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/truemper2.png" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 2: Agora of the Italians, reconstructed plan.&lt;div class="credit">Credit: Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="images">Images&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/truemper3.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 3: Agora of the Italians, photo from the southwest.&lt;div class="credit">Credit: Courtesy of M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper4.jpg" alt="" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/truemper4.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 4: Agora of the Italians, photo from the southeast.&lt;div class="credit">Credit: Courtesy of M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
@@ -103,7 +103,7 @@
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig5_maison_de_fourni.jpg" alt="Archaeological plan of the Maison de Fourni" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig5_maison_de_fourni.jpg" alt="Archaeological plan of the Maison de Fourni" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Maison de Fourni, sketch, 1:250.&lt;div class="credit">Credit: Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1.&lt;/div>&lt;/figcaption>
 &lt;/figure>
@@ -111,19 +111,19 @@
 ## Images
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 4: 'Perfumery,' Quarter of the Stadium, Insula I, building B, overview from southeast.&lt;div class="credit">Credit: Photo courtesy of M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 5: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest.&lt;div class="credit">Credit: Photo courtesy of M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 6: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest.&lt;div class="credit">Credit: Photo courtesy of M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
@@ -206,7 +206,7 @@ places containing this garden will be listed automatically
 &lt;p>The variety of trees and plants cultivated in ancient Delos is known from the epigraphic evidence. Among the sporadically listed plants are pomegranates, apples, laurel, almonds, palms, vines, figs, and olives. Fig trees, which to this day form the majority of the Delian tree population, appear most often in the inscriptions.&lt;/p>
 &lt;h2 id="maps">Maps&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig11_archaeological_plan.jpg" alt="Map of Delos with archaeological features marked" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig11_archaeological_plan.jpg" alt="Map of Delos with archaeological features marked" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Archaeological plan of the island, 1:2500.&lt;div class="credit">Credit: Drawing by Nicolas Bresch from Brunet 1999, fig. 1.&lt;/div>&lt;/figcaption>
 &lt;/figure>
@@ -292,13 +292,13 @@ places containing this garden will be listed automatically
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the &amp;#39;Perfumery&amp;#39;" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the &amp;#39;Perfumery&amp;#39;" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Plan of the 'Perfumery,' Quarter of the Stadium, Insula I, building B, 1:250.&lt;div class="credit">Credit: Drawing by M. Trümper after Plassart 1916, pl. V-VII.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="images">Images&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 2: 'Perfumery,' Quarter of the Stadium, Insula I, building B, overview from southeast.&lt;div class="credit">Credit: Photo courtesy of M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
@@ -385,18 +385,18 @@ places containing this garden will be listed automatically
 -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig7_theat_quart_houses_E_F.jpg" alt="Archaeological plan of houses E and F" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig7_theat_quart_houses_E_F.jpg" alt="Archaeological plan of houses E and F" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Plan of Quarter of the Theater, Insula II, houses E and F, 1:250.&lt;div class="credit">Credit: Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="images">Images&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 2: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest.&lt;div class="credit">Credit: Photo courtesy of M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 3: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest.&lt;div class="credit">Credit: Photo courtesy of M. Trümper.&lt;/div>&lt;/figcaption>
 &lt;/figure>
