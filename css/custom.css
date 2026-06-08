@@ -14,18 +14,27 @@ a.nav {
 
 /* external links */
 a + a[target=_blank] {
-  padding-left: 0.5em;
+  xpadding-left: 0.5em;
 }
 a[target=_blank] {
-  font-family: "Candara", "Arial", sans-serif;
   color: #44f ! important;
+  background-image: url(/img/link-external.svg);
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: 0.8em;
+  padding-right: 0.9em;
 }
-a[target=_blank]::after {
-  content: "🗗";
-  padding-left: 2px;
-  padding-right: 2em;
+a.id {
+  font-size: 80%;
 }
 
+blockquote {
+  border-left: 4px solid #ccc;
+  border-right: 4px solid #ccc;
+  padding: 0.5em 1em;
+  background: #eee;
+  margin:0 2em 1.25rem;
+}
 
 body {
   font-family: "Georgia", "Palatino", serif;
@@ -63,8 +72,7 @@ div.container {
 }
 
 figure {
-  margin-top: 0.5em;
-  margin-bottom: 2em;
+  margin: 0.5em 2em 2em;
 }
 
 figure img {
@@ -111,6 +119,11 @@ footer a[target=_blank] {
 h1, h2, h3, h4, h5, h6 {
   margin: 0.5em 0 0;
   font-family: "Candara", Arial, sans-serif;
+}
+
+hr {
+  margin: 2em 0 1em;
+  border: 1px solid #c22d30;
 }
 
 .container--outer {
@@ -192,10 +205,10 @@ nav.breadcrumbs a {
 
 .sublocations {
   float: right;
-  padding: 0.5em;
+  padding: 0 0.5em;
   margin: 0 0 1em 1em;
   background: #eee;
-  border:3px solid #c22d30;
+  border:2px solid #c22d30;
 }
 
 .sublocations ul {
@@ -211,7 +224,7 @@ nav.breadcrumbs a {
 }
 
 .place {
-  border-bottom: 3px solid #c22d30;
+  border-bottom: 2px solid #c22d30;
   padding-bottom: 1em;
 }
 
@@ -221,6 +234,10 @@ nav.breadcrumbs a {
 
 .content ul {
   list-style-type: disc;
+}
+
+.content p {
+  margin-left: 1em;
 }
 
 .summary {
@@ -252,11 +269,11 @@ article.list__item em {
 
 #map .dot {
   background: #c22d30;
-  border: 1px solid #000;
+  border: 1px solid #e1b2b3;
   border-radius: 50%;
-  box-shadow: 1px 2px 3px #888888;
-  height:12px ! important;
-  width: 12px ! important;
+  box-shadow: 1px 2px rgb(0 0 0 / 50%);
+  height: 10px ! important;
+  width: 10px ! important;
 }
 
 #search-results-summary {
@@ -279,6 +296,14 @@ article.list__item em {
 .people-gardens {
   margin-left: 2em;
 }
+.people-gardens div {
+  margin:0;
+}
+.people-gardens div.province {
+  font-weight: bold;
+  font-size: 110%;
+  margin-top: 1em;
+}
 
 .smallcrumbs {
   font-family: "Candara", "Arial", sans-serif;
@@ -293,8 +318,8 @@ article.list__item em {
 }
 
 .metadata {
-  font-family: "Candara", "Arial", sans-serif;
-  margin: 0 0.5em;
+  font-family: "Arial", sans-serif;
+  margin: 0 0.5em 1em;
   padding: 0.3em 0.5em;
   font-size: 90%;
   background: #f8f8f8;
@@ -344,12 +369,20 @@ table#metakeywords {
   font-family: Arial;
 }
 
+table.meta td {
+  border: 1px solid #ccc;
+}
+
 table.meta th {
   text-align: left;
+  position: sticky;
+  top: -1px;
+  background: #c22d30;
+  color: #fff;
 }
 
 table.meta th:hover {
-  background: #eee;
+  background: #822d30;
   cursor: pointer;
 }
 
@@ -380,3 +413,7 @@ xh3::after { content: 'h3' }
 xh4::after { content: 'h4' }
 xh5::after { content: 'h5' }
 xh6::after { content: 'h6' }
+
+sup {
+  font-size: 75%;
+}
